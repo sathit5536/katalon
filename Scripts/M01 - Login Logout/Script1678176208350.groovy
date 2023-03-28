@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/Page_LOGINKasikornbank/a_Submit'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_LOGINKasikornbank/span_Invalid Username or Password'), 'Invalid Username or Password')
 
-WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M01\\Login Fail.png')
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M-01 LoginLogout\\Login Fail.png')
 
 WebUI.setText(findTestObject('Object Repository/Page_LOGINKasikornbank/input_Submit_j_username'), 'kd000015')
 
@@ -37,5 +37,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_LOGINKasikornbank/
 
 WebUI.click(findTestObject('Object Repository/Page_LOGINKasikornbank/a_Submit'))
 
-WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M01\\Login Success.png')
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M-01 LoginLogout\\Login Success.png')
 

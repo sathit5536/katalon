@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Business Registration Address_formInput</name>
+   <tag></tag>
+   <elementGuidId>01d41a50-f368-457a-a8a5-9cd962bc7c29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='whiteMid']/div[14]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3e20f5d8-885a-434b-b702-d72955a1b8bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>formInput</value>
+      <webElementGuid>ce3ca772-d720-482d-8386-ba74bc56798c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step1&quot;)/div[@id=&quot;barPadding&quot;]/div[@id=&quot;whiteMid&quot;]/div[@class=&quot;formInput&quot;]</value>
+      <webElementGuid>f30e80e1-7033-4ba7-9461-a3eaa4d6ddab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='whiteMid']/div[14]</value>
+      <webElementGuid>6418af85-265c-4ade-bc38-f2cbcd683706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Registration Address'])[1]/following::div[1]</value>
+      <webElementGuid>f1d5785f-ac83-4b69-b896-d914b92aebc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter valid Business Registration Number'])[1]/following::div[3]</value>
+      <webElementGuid>d445e94b-5d7c-45fa-8530-73f57ac9d66e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Optional)'])[2]/preceding::div[3]</value>
+      <webElementGuid>2ee42a9c-fc62-4953-85f0-bb6b10d443ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter valid Address'])[1]/preceding::div[3]</value>
+      <webElementGuid>13f8595b-1f64-40e9-b95c-ff73e9bacadd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]</value>
+      <webElementGuid>473ee0a1-1fb3-4742-8013-ab8b38fb82e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

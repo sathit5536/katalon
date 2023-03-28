@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit Bank User Details</name>
+   <tag></tag>
+   <elementGuidId>77c0e173-fee7-4d80-a9b4-61d8c404948f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.btnS.btnDarkGrey</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='barPadding']/div[2]/form/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6f73e8c7-40a4-4173-af90-109ea20b6035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:document.updateDetailsForm.submit();</value>
+      <webElementGuid>8a94019b-e5e3-443a-8798-b32a70efa4b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button btnS btnDarkGrey</value>
+      <webElementGuid>86dc221f-d089-4714-ab99-4e2b8a19b9c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit Bank User Details</value>
+      <webElementGuid>4b5d0da2-bd8b-409c-a41f-898601c24879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightMainContent&quot;)/div[@id=&quot;barPadding&quot;]/div[@class=&quot;floatL paddLR10&quot;]/form[1]/a[@class=&quot;button btnS btnDarkGrey&quot;]</value>
+      <webElementGuid>d4665cc4-8c4c-4559-b253-95369e7eed80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='barPadding']/div[2]/form/a</value>
+      <webElementGuid>9309e7a5-9133-4e85-a8e2-7699afe9abd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Edit Bank User Details')]</value>
+      <webElementGuid>6495bfa8-10a0-43cb-96e9-24a8360bf11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank User Details'])[1]/following::a[1]</value>
+      <webElementGuid>bbe2983a-4e05-4a57-b1b9-2076240ce2ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Switch Bank User'])[1]/following::a[1]</value>
+      <webElementGuid>3ba41229-c29f-4d33-b472-938c004bb64c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activation Date:'])[1]/preceding::a[1]</value>
+      <webElementGuid>99864478-a93a-4074-90a5-939d2c969d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status History >>'])[1]/preceding::a[1]</value>
+      <webElementGuid>09ecc4ea-398b-4d9f-924a-d530153dda39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit Bank User Details']/parent::*</value>
+      <webElementGuid>2c5074ba-521e-4cec-a1ec-bcc76ad91b6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:document.updateDetailsForm.submit();')]</value>
+      <webElementGuid>45142150-c4b0-4003-9a88-e10834f83c9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/a</value>
+      <webElementGuid>dbf568ef-f6f7-4cae-b756-c46856f8eedd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:document.updateDetailsForm.submit();' and (text() = 'Edit Bank User Details' or . = 'Edit Bank User Details')]</value>
+      <webElementGuid>0a1fbc33-bdbc-47bd-8939-8b165ef836b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
