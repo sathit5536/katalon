@@ -29,7 +29,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_LOGINKasikornbank/
 
 WebUI.click(findTestObject('Object Repository/Page_LOGINKasikornbank/a_Submit'))
 
-// View Details
+// View Details *********************************************************************************************************************************************
 
 WebUI.click(findTestObject('Object Repository/Page_HomeKasikornbank/span_Administrator'))
 
@@ -40,7 +40,7 @@ WebUI.click(findTestObject('Object Repository/Page_All UsersKasikornbank/a_Go'))
 
 WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M-02 Administrator\\User Details.png')
 
-//Search
+//Search *********************************************************************************************************************************************
 
 WebUI.click(findTestObject('Object Repository/Page_HomeKasikornbank/span_Administrator'))
 
@@ -90,7 +90,7 @@ WebUI.navigateToUrl('https://mpostest1.kasikornbank.com:7443/admin/list?role=&st
 
 WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M-02 Administrator\\Search\\Search Results - Create date.png')
 
-//Edit Bank User
+//Edit Bank User  *********************************************************************************************************************************************
 
 WebUI.click(findTestObject('Object Repository/Page_HomeKasikornbank/span_Administrator'))
 
@@ -115,7 +115,7 @@ WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test
 
 WebUI.verifyElementText(findTestObject('Page_Edit Bank User DetailsKasikornbank/div_Your request is successful'), 'Your request is successful')
 
-//Suspend
+//Suspend *********************************************************************************************************************************************
 
 WebUI.click(findTestObject('Object Repository/Page_HomeKasikornbank/span_Administrator'))
 
@@ -138,7 +138,7 @@ WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Suspend Bank User AccessKasikornbank/div_Your request is successful'),
 	'Your request is successful')
 
-//Reinstate
+//Reinstate *********************************************************************************************************************************************
 
 WebUI.click(findTestObject('Object Repository/Page_Suspend Bank User AccessKasikornbank/span_Administrator'))
 

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Please enter valid Amount</name>
+   <tag></tag>
+   <elementGuidId>f9ce9419-dc3f-4d47-8546-b439d2e3a7bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#maxAmountPerTransactionError > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maxAmountPerTransactionError']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>03ed7804-6a8e-4062-b0d2-813ba288102c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please enter valid Amount</value>
+      <webElementGuid>1610e628-e7cb-4af3-9ef8-3497abf91e0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maxAmountPerTransactionError&quot;)/span[1]</value>
+      <webElementGuid>7dffc1cb-8ebc-474f-bf30-41bd044b1c60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maxAmountPerTransactionError']/span</value>
+      <webElementGuid>22ff24e7-f585-41db-9434-8b231cb7871d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permanent Transaction Limit THB'])[1]/following::span[1]</value>
+      <webElementGuid>d6094950-8c7b-4ce7-a95b-a6f443895ed4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permanent Month Limit THB'])[1]/preceding::span[1]</value>
+      <webElementGuid>943d5874-5f8d-428f-bd6e-ec6395d0d2b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter valid Amount'])[2]/preceding::span[1]</value>
+      <webElementGuid>de10999f-d280-434e-8491-cec13fd6edfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please enter valid Amount']/parent::*</value>
+      <webElementGuid>1885dea9-b0c8-435e-b11b-793652656385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>08da5ecd-30ff-47f8-a000-1669bd0db1e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Please enter valid Amount' or . = 'Please enter valid Amount')]</value>
+      <webElementGuid>f03e3e18-9c52-48e2-9b55-eb863bf9ad4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

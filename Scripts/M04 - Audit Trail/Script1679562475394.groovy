@@ -29,7 +29,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_LOGINKasikornbank/
 
 WebUI.click(findTestObject('Object Repository/Page_LOGINKasikornbank/a_Submit'))
 
-// Search
+// Search *********************************************************************************************************************************************
 
 WebUI.click(findTestObject('Object Repository/Page_HomeKasikornbank/span_Administrator'))
 
@@ -57,7 +57,7 @@ WebUI.click(findTestObject('Object Repository/Page_User ActivitiesKasikornbank/i
 WebUI.navigateToUrl('https://mpostest1.kasikornbank.com:7443/admin/auditTrail?action=Login+to+System&from=01+Mar+2023&to=28+Mar+2023')
 
 WebUI.click(findTestObject('Object Repository/Page_User ActivitiesKasikornbank/a_Search_1'))
-WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M-04 Audit Trail\\Search Results - Date')
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M-04 Audit Trail\\Search Results - Date.png')
 
 WebUI.click(findTestObject('Object Repository/Page_User ActivitiesKasikornbank/a_Export CSV files'))
 

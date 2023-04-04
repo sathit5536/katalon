@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Please enter valid Temporary Start Date</name>
+   <tag></tag>
+   <elementGuidId>919c3766-59d9-4563-8478-e2923b158b03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tempPerTranStartDateError</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tempPerTranStartDateError']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e3315e29-bc64-40ff-b9ec-eb91b07ee2f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tempPerTranStartDateError</value>
+      <webElementGuid>f1b4decc-fb9f-41c7-a7ef-3f3c31ad3532</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>errorMsg hidden</value>
+      <webElementGuid>f4c5c74a-b27e-452c-8e48-9709a6bcedea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+												Please enter valid Temporary Start Date
+											</value>
+      <webElementGuid>0d659439-5952-46c6-b836-763e45eda007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tempPerTranStartDateError&quot;)</value>
+      <webElementGuid>3512bfd6-9328-4ed2-8ae6-fcd5d6021db9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='tempPerTranStartDateError']</value>
+      <webElementGuid>122988ae-4fe3-482f-b8cd-36e7578837ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='temporaryPerTransaction']/div[4]/div</value>
+      <webElementGuid>05ae56b0-af10-488b-bc88-c5730d6c584d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Temporary Limit Per Transaction:'])[1]/following::div[8]</value>
+      <webElementGuid>9da3b9e5-bf51-4d70-be6e-c1e1ac4cbb2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter valid Temporary End Date'])[1]/preceding::div[1]</value>
+      <webElementGuid>717ca06e-4f74-4a9a-84a6-d7cef473d71b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[4]/div</value>
+      <webElementGuid>2eadf6bc-4446-40cf-88a5-333f36638bd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'tempPerTranStartDateError' and (text() = '
+												Please enter valid Temporary Start Date
+											' or . = '
+												Please enter valid Temporary Start Date
+											')]</value>
+      <webElementGuid>a9de2065-1263-4f40-91b4-ac47a78e0769</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

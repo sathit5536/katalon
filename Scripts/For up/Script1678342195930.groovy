@@ -23,37 +23,9 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://mpostest1.kasikornbank.com:7443/auth/login')
 
-WebUI.setText(findTestObject('Object Repository/Page_LOGINKasikornbank/input_Submit_j_username'), 'kc000003')
+WebUI.setText(findTestObject('Object Repository/Page_LOGINKasikornbank/input_Submit_j_username'), 'kd000015')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_LOGINKasikornbank/input_Submit_j_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
 WebUI.click(findTestObject('Object Repository/Page_LOGINKasikornbank/a_Submit'))
-
-WebUI.click(findTestObject('Object Repository/Page_HomeKasikornbank/span_Administrator'))
-
-WebUI.navigateToUrl('https://mpostest1.kasikornbank.com:7443/admin/list')
-
-WebUI.click(findTestObject('Object Repository/Page_All UsersKasikornbank/div_Add a Bank User'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Add a Bank UserKasikornbank/input_User ID_userId'), 'TestAutomate04')
-
-WebUI.setText(findTestObject('Object Repository/Page_Add a Bank UserKasikornbank/input_Name_name'), 'Test Automate')
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Add a Bank UserKasikornbank/select_AdminOper UserViewerITIDReader Provi_37a044'), 
-    'Admin', true)
-
-WebUI.setText(findTestObject('Object Repository/Page_Add a Bank UserKasikornbank/input_Email Address_email'), 'Test04@automate.test')
-
-WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M-03 Add a Bank User\\Add a bank User - 01')
-
-WebUI.click(findTestObject('Object Repository/Page_Add a Bank UserKasikornbank/a_Submit'))
-
-WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M-03 Add a Bank User\\Add a bank User - 02')
-
-WebUI.click(findTestObject('Object Repository/Page_Add a Bank UserKasikornbank/a_Confirm'))
-
-WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M-03 Add a Bank User\\Add a bank User - 03')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Add a Bank UserKasikornbank/div_Your request is successful'), 
-    'Your request is successful')
 

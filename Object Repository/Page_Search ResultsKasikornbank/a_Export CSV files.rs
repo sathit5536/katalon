@@ -11,11 +11,51 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='beigeMid']/div/a</value>
+         <value>//a[@onclick='']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d158a18a-7688-4f12-89e1-b2c099919a55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button btnL</value>
+      <webElementGuid>7433373b-0e85-424a-882b-f7f43558449d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/company/exportCSV</value>
+      <webElementGuid>50030d91-8233-4011-bf0e-535b062feba0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Export CSV files</value>
+      <webElementGuid>45e69ec5-0e6a-4a30-b8e9-e39f6142bcd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paddCSV&quot;)/div[@id=&quot;beigeMid&quot;]/div[@class=&quot;textCenter&quot;]/a[@class=&quot;button btnL&quot;]</value>
+      <webElementGuid>9c488c09-c9f7-44c1-88ea-d8ecdf18c65d</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +73,7 @@
       <webElementGuid>b9013534-63ff-40af-9c7e-5f15a706e899</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>e030e3c4-49bc-4292-a06b-e380f7e9be2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -59,10 +99,18 @@
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='']</value>
+      <webElementGuid>d8240676-de16-4c67-b00e-a2971a874e20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='beigeMid']/div/a</value>
-      <webElementGuid>ac2a2497-5e58-4a71-8d99-becc225c7d77</webElementGuid>
+      <webElementGuid>21186f6a-37a8-4658-8132-00da01ff784e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +118,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Export CSV files')]</value>
-      <webElementGuid>e6558dfb-6a3d-43d7-94c2-67c7ee85a275</webElementGuid>
+      <webElementGuid>cbde21cf-adda-4c9d-ae9d-7adcf7e46f68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +126,63 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::a[1]</value>
-      <webElementGuid>07d03278-7940-4133-ac40-472807cbf8eb</webElementGuid>
+      <webElementGuid>8d603a83-3899-4667-8adc-4f945a3de3e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='K SHOP Company Summary'])[1]/following::a[2]</value>
+      <webElementGuid>55944c2f-933c-469c-a339-4f1fb9e83e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Results'])[1]/preceding::a[1]</value>
+      <webElementGuid>1be707dc-9387-4c48-8c32-790139c6993d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test'])[1]/preceding::a[1]</value>
+      <webElementGuid>d99a7fc6-e853-40a1-9c1c-72d05e9570c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Export CSV files']/parent::*</value>
+      <webElementGuid>93c81f3c-a519-416f-b75e-a19cd7d305d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/company/exportCSV')]</value>
+      <webElementGuid>0a95cf77-e43b-4ae0-b74d-8bde577e9d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/a</value>
+      <webElementGuid>3ef44deb-6528-41ce-a9e7-08f7619ddabf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/company/exportCSV' and (text() = 'Export CSV files' or . = 'Export CSV files')]</value>
+      <webElementGuid>5f09b2e4-9cd9-4c8e-a40e-fd09c608e433</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,24 +197,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Results'])[1]/preceding::a[1]</value>
-      <webElementGuid>3957ab77-734c-4c3f-a52a-b001ed63a77e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='KD0000'])[1]/preceding::a[1]</value>
       <webElementGuid>e1548e52-00d6-4cbf-8287-44e577f281e9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Export CSV files']/parent::*</value>
-      <webElementGuid>d4a932f0-1dad-427a-a589-16675b942208</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,14 +207,6 @@
       <type>Main</type>
       <value>//a[contains(@href, 'export')]</value>
       <webElementGuid>18447869-e193-4ee6-975c-29cd0525240d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div[2]/div/a</value>
-      <webElementGuid>085c131e-d554-45d7-a798-64681bef959b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

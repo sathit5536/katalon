@@ -22,10 +22,34 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9e51c13d-e114-45d5-a1fe-b57c658cee4e</webElementGuid>
+      <webElementGuid>670a29dc-63d5-4058-b657-38bec1a2992c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AllCompanies</value>
+      <webElementGuid>392736c7-5ed3-4767-b51f-868e199ef1b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topNavi&quot;)/li[2]/a[1]/span[1]</value>
+      <webElementGuid>e58b462c-28f4-40b7-9e6f-f9d469daf74e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9e51c13d-e114-45d5-a1fe-b57c658cee4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -46,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='topNavi']/li[2]/a/span</value>
-      <webElementGuid>5e7cdd70-c972-468c-b42c-a06e1530bb27</webElementGuid>
+      <webElementGuid>b43ef07d-a2c3-401b-b56c-992d6e9f5908</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +78,55 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[1]</value>
-      <webElementGuid>e11df640-cf7b-45bc-88cc-ab3505949cf4</webElementGuid>
+      <webElementGuid>9da763f3-7712-48d3-b3f9-15c7229ab654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your last log in was Tuesday, 28 Mar 2023 14:49'])[1]/following::span[2]</value>
+      <webElementGuid>4c4d5b6e-3f50-4114-ad82-8f0c4f5cd207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ControlLimit'])[1]/preceding::span[1]</value>
+      <webElementGuid>787e9507-aa12-4197-8e0f-c77b117c408a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ManageStaffs'])[1]/preceding::span[2]</value>
+      <webElementGuid>741e1c1a-0450-41e1-8cc3-3e9a230a9b05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All']/parent::*</value>
+      <webElementGuid>f7100123-ae7b-49ed-82e7-b0a715c1d989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>1cd662fc-8f99-4128-899e-234f100125d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'AllCompanies' or . = 'AllCompanies')]</value>
+      <webElementGuid>e227821c-87e8-4c85-8237-96a0e49f989c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,45 +135,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Your last log in was Monday, 27 Mar 2023 14:29'])[1]/following::span[2]</value>
       <webElementGuid>6d9a10be-aa25-427b-bde6-59f40c7df8e4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ControlLimit'])[1]/preceding::span[1]</value>
-      <webElementGuid>5ed0d7c0-bb10-427e-ae3d-a1cebef1e62e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ManageStaffs'])[1]/preceding::span[2]</value>
-      <webElementGuid>7057696e-1a20-4a69-8d01-3115cbb6f08e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='All']/parent::*</value>
-      <webElementGuid>c0b7c6d0-fb26-4fa5-a0c6-6fc572c248bc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//li[2]/a/span</value>
-      <webElementGuid>e1b48dcd-124b-4b29-a368-ebddbe04ff75</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = 'AllCompanies' or . = 'AllCompanies')]</value>
-      <webElementGuid>0ab223c5-8765-4bf5-814f-c5042813bf92</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

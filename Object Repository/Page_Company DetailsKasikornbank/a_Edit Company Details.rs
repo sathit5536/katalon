@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit Company Details</name>
+   <tag></tag>
+   <elementGuidId>47ae723b-f6c9-4ac4-9107-aa9e4959a7ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.btnS.btnDarkGrey</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='barPadding']/div[2]/form/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7c262bb0-f0a0-4f4c-89a9-95c5dfebce4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:document.displayEditMerchant.submit();</value>
+      <webElementGuid>1aa640a2-2728-428a-b981-81b0d4c40405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button btnS btnDarkGrey</value>
+      <webElementGuid>742f23fc-3fe7-49e7-8f9c-5fc109d71f7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit Company Details</value>
+      <webElementGuid>59d5d7b4-0125-48a5-af72-7383be9c3532</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightMainContent&quot;)/div[@id=&quot;barPadding&quot;]/div[@class=&quot;floatL paddLR10&quot;]/form[1]/a[@class=&quot;button btnS btnDarkGrey&quot;]</value>
+      <webElementGuid>91f7173c-3661-4c6c-83d4-04e833af4851</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='barPadding']/div[2]/form/a</value>
+      <webElementGuid>7ec26d77-b095-49dc-9896-a7021ec0738e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Edit Company Details')]</value>
+      <webElementGuid>a8ed873b-1bfb-4ff9-b821-7514f314df32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Details'])[1]/following::a[1]</value>
+      <webElementGuid>3a1923bf-021d-4f43-86d0-590c26dba098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Switch Company'])[1]/following::a[1]</value>
+      <webElementGuid>f34f519d-d780-4a15-acbb-bcf04116e030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status History >>'])[1]/preceding::a[1]</value>
+      <webElementGuid>1d7655e9-ae34-4fb1-a7c4-442b270ec6d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit Company Details']/parent::*</value>
+      <webElementGuid>c02209fa-6881-40b9-8eb1-c077f3ffeb17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:document.displayEditMerchant.submit();')]</value>
+      <webElementGuid>ebfba8d0-3eec-4a86-95b4-2752dfa57e93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/a</value>
+      <webElementGuid>303c5780-8cec-4b93-8716-b588aabfbf8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:document.displayEditMerchant.submit();' and (text() = 'Edit Company Details' or . = 'Edit Company Details')]</value>
+      <webElementGuid>e69dc677-175d-42be-94ac-43d2759ce7c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

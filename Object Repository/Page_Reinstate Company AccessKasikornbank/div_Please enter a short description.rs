@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Please enter a short description</name>
+   <tag></tag>
+   <elementGuidId>b6f464ab-65ed-4e98-805e-6db721f8f979</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#remarksError</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='remarksError']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8a81f600-ec4a-4ec0-95f5-e2736cb90d8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>remarksError</value>
+      <webElementGuid>2af46d94-7a68-41f1-aa82-1fd5c053832c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>errorMsg hidden</value>
+      <webElementGuid>6d7bfd11-b9f6-4f4a-b4be-98361d166458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please enter a short description</value>
+      <webElementGuid>2fc4ef13-05eb-4aca-8d10-4e87742989a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;remarksError&quot;)</value>
+      <webElementGuid>29962e95-ef7b-42c6-b38f-5953d95cb39b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='remarksError']</value>
+      <webElementGuid>aae5df71-2b57-4ae3-ad6c-ebfb246348a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='whiteMid']/div[7]/div</value>
+      <webElementGuid>2c32e327-e86d-4c4e-b8f4-915ce40da082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Merchant', &quot;'&quot;, 's bank account reactivated')])[1]/following::div[3]</value>
+      <webElementGuid>8b040ba4-759b-4670-baba-1a3bf9c6fbfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reason'])[1]/following::div[4]</value>
+      <webElementGuid>c72867cd-b22a-4cd5-b82b-1d0c0707ecb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::div[3]</value>
+      <webElementGuid>0fc24ece-1b53-4ddc-827a-508834ab9698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div</value>
+      <webElementGuid>dc751245-772d-41bc-8c4e-289f4ddf5668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'remarksError' and (text() = 'Please enter a short description' or . = 'Please enter a short description')]</value>
+      <webElementGuid>0d34ac7d-bdbb-40b2-aac0-09511263182f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
