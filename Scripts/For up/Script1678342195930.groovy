@@ -29,3 +29,43 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_LOGINKasikornbank/
 
 WebUI.click(findTestObject('Object Repository/Page_LOGINKasikornbank/a_Submit'))
 
+WebUI.navigateToUrl('https://mpostest1.kasikornbank.com:7443/company/viewDetails?itemid=90083')
+
+WebUI.click(findTestObject('Object Repository/Page_Company DetailsKasikornbank/a_View Details'))
+
+WebUI.navigateToUrl('https://mpostest1.kasikornbank.com:7443/company/viewManageGroup?itemid=90253')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage GroupKasikornbank/select_Select OneEdit profileSuspend MID'),
+	'suspendMid', true)
+
+WebUI.click(findTestObject('Object Repository/Page_Manage GroupKasikornbank/a_Go'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Suspend MIDKasikornbank/textarea_Suspend MID Reason 1_remarks'), 'Test Suspend MID By Automate')
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M-08 Merchant GroupMID\\Suspend\\Suspend MID - 1.png')
+
+WebUI.click(findTestObject('Object Repository/Page_Suspend MIDKasikornbank/a_Submit'))
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M-08 Merchant GroupMID\\Suspend\\Suspend MID - 2.png')
+
+WebUI.click(findTestObject('Object Repository/Page_Suspend MIDKasikornbank/div_Your request is successful'))
+
+WebUI.navigateToUrl('https://mpostest1.kasikornbank.com:7443/company/viewDetails?itemid=90083')
+
+WebUI.click(findTestObject('Object Repository/Page_Company DetailsKasikornbank/a_View Details'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage GroupKasikornbank/select_Select OneEdit profileReinstate MID'), 
+    'activateMid', true)
+
+WebUI.click(findTestObject('Object Repository/Page_Manage GroupKasikornbank/a_Go'))
+
+WebUI.navigateToUrl('https://mpostest1.kasikornbank.com:7443/company/activateMid?itemid=175141')
+
+WebUI.setText(findTestObject('Object Repository/Page_Activate MIDKasikornbank/textarea_Activate MID Reason 1_remarks'), 
+    'Reinstate MID By Automate')
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M-08 Merchant GroupMID\\Reinstate\\Reinstate MID - 1.png')
+
+WebUI.click(findTestObject('Object Repository/Page_Activate MIDKasikornbank/a_Submit'))
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M-08 Merchant GroupMID\\Reinstate\\Reinstate MID - 2.png')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Reinstate MIDKasikornbank/div_Your request is successful'), 
+    'Your request is successful')
+

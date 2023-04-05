@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Duplicate MID</name>
+   <tag></tag>
+   <elementGuidId>dc81a88a-a4c7-4cbc-b166-b19bf88a5ff7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='group']/div[5]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.midError.errorMsg.hidden</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>35a032f0-3ce3-4d38-b7c7-5f3d5b4ab50a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>midError errorMsg hidden</value>
+      <webElementGuid>ed063c73-14ba-492f-93e3-e2eeb5a76a02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Duplicate MID</value>
+      <webElementGuid>31106f3f-42af-4112-a450-70d7d848609e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;group&quot;)/div[@class=&quot;TableBorder&quot;]/div[@class=&quot;formInputS&quot;]/div[@class=&quot;midError errorMsg hidden&quot;]</value>
+      <webElementGuid>6d7509df-895d-4873-ac97-a493af360d35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6ea142be-8bb5-4e4a-9703-d19b2e43d9d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>midError errorMsg hidden</value>
+      <webElementGuid>7b844624-281d-47c8-8ecf-1e3dd7cb0880</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Duplicate MID</value>
+      <webElementGuid>5ca5f229-b4d7-4091-aec6-6462db51ace7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;group&quot;)/div[@class=&quot;TableBorder&quot;]/div[@class=&quot;formInputS&quot;]/div[@class=&quot;midError errorMsg hidden&quot;]</value>
+      <webElementGuid>7c3eac18-f56b-4ea7-9e3b-0ede92bfecce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='group']/div[5]/div[2]/div</value>
+      <webElementGuid>4ff86dde-143f-41c9-bfce-1693f07e2c5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merchant ID (MID):'])[1]/following::div[2]</value>
+      <webElementGuid>d7638ce6-1eb0-4cb9-826e-5111b82ca846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Merchant ID'])[1]/following::div[4]</value>
+      <webElementGuid>f7a675d7-c913-46c2-8ea3-4ada6602ffca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merchant Name:'])[1]/preceding::div[2]</value>
+      <webElementGuid>89ed0fcc-f615-4b00-83d7-7613213c82f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div</value>
+      <webElementGuid>e3ee31f4-a50a-4450-b686-56368878d19c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Duplicate MID' or . = 'Duplicate MID')]</value>
+      <webElementGuid>beb983f5-1ed4-4813-9d9d-554071ce5f63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

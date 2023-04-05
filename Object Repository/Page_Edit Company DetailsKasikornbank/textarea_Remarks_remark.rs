@@ -6,12 +6,12 @@
    <elementGuidId>1f6a1462-c71a-455f-b9ee-10b7f79bf607</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#remark</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//textarea[@id='remark']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#remark</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>40406c1e-a919-4724-96c2-ad20420a7d63</webElementGuid>
+      <webElementGuid>0a5c29a4-0cf1-4d7b-9ae0-e055d5054427</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,138 @@
       <name>id</name>
       <type>Main</type>
       <value>remark</value>
-      <webElementGuid>1261a49d-fd26-4ce9-ba44-f00e6f87af53</webElementGuid>
+      <webElementGuid>c4187af8-fc47-4048-95c8-3996f65c6793</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>remark</value>
+      <webElementGuid>e091858c-0a4c-4608-bc16-23cd70068d25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>250</value>
+      <webElementGuid>4cd1f90f-9b17-4618-b188-4df5b73542c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeydown</name>
+      <type>Main</type>
+      <value>limitText(this.form.remark,this.form.countdown,250);</value>
+      <webElementGuid>ef1a1fc0-553e-419b-b808-3fe087e8a0e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeyup</name>
+      <type>Main</type>
+      <value>limitText(this.form.remark,this.form.countdown,250);</value>
+      <webElementGuid>3ef9e9ec-4fb0-4a5f-92c5-f21d70be5f25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>b031883a-7a8d-480f-b60b-07c0c118e9d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;remark&quot;)</value>
+      <webElementGuid>36c0f0eb-fda7-4949-99e9-c2bbb5dee0cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>fc1a0eef-f117-430a-879e-70d52eee4abd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>remark</value>
+      <webElementGuid>c8bd7827-bde2-48ba-8edd-abe1393e325d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>remark</value>
+      <webElementGuid>48fb5f81-bf96-4050-bb65-39e4e9678dcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>250</value>
+      <webElementGuid>e04e9ba5-3f73-4dcd-8513-17644f0f53f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeydown</name>
+      <type>Main</type>
+      <value>limitText(this.form.remark,this.form.countdown,250);</value>
+      <webElementGuid>efafd8cc-86a4-49f3-955b-fc3f2080a2c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeyup</name>
+      <type>Main</type>
+      <value>limitText(this.form.remark,this.form.countdown,250);</value>
+      <webElementGuid>394cc731-32d4-42da-af61-d99fe065404d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>02c3f324-4657-4373-bc86-ba5015f57c03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;remark&quot;)</value>
+      <webElementGuid>851b14b0-75b4-4330-ae70-8363c82c71fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>40406c1e-a919-4724-96c2-ad20420a7d63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>remark</value>
+      <webElementGuid>1261a49d-fd26-4ce9-ba44-f00e6f87af53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
@@ -86,7 +214,39 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='remark']</value>
-      <webElementGuid>f8f4a708-1de6-4a48-b510-ea6a91a17a20</webElementGuid>
+      <webElementGuid>4e408ad2-daa9-4525-bbb6-33b4bb42b4bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='whiteMid']/div[20]/textarea</value>
+      <webElementGuid>ab66e555-50a4-4dd9-99c2-14f353321c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>5c239f1c-3761-42cd-94c5-d4e8dc7f28e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'remark' and @name = 'remark']</value>
+      <webElementGuid>9ad7c812-b48f-4460-a3f8-7469ef9268f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='whiteMid']/div[4]/textarea</value>
+      <webElementGuid>3cb91bf8-d9e9-400e-9d9e-a5f4aa1ff740</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,21 +255,5 @@
       <type>Main</type>
       <value>//div[@id='whiteMid']/div[44]/textarea</value>
       <webElementGuid>01f13a12-05fd-4348-9cc0-7811bdb807a0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//textarea</value>
-      <webElementGuid>a5f276d0-460d-4885-a9cb-b147d54db1b9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//textarea[@id = 'remark' and @name = 'remark']</value>
-      <webElementGuid>7751ddeb-30bf-4b4d-8dbb-12a5b8e171fc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
