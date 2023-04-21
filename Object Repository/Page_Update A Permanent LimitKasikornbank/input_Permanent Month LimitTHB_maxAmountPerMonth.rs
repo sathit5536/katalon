@@ -6,12 +6,12 @@
    <elementGuidId>fa7e2652-d974-4747-962c-0dc58f1e258b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#maxAmountPerMonth</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='maxAmountPerMonth']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#maxAmountPerMonth</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5ece63dd-aead-4285-a7ea-f0d1fea82a33</webElementGuid>
+      <webElementGuid>162ba769-4362-4f5e-ba86-a84426b1c6dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>maxAmountPerMonth</value>
-      <webElementGuid>88ccb62e-f2ae-4a3a-b921-0e407f820826</webElementGuid>
+      <webElementGuid>363632e6-9537-4265-ba5c-35263e2acd2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,10 +38,74 @@
       <name>name</name>
       <type>Main</type>
       <value>maxAmountPerMonth</value>
-      <webElementGuid>b8a79642-162a-4659-9d56-7185166467a9</webElementGuid>
+      <webElementGuid>66be1df6-b21a-4953-95cf-ef6789e55e54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1180d2ed-71dc-4949-a1ad-936850d63d7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>5e3252fd-eb12-49cd-940f-adb34cde6de9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>width270</value>
+      <webElementGuid>50c99ddf-2c9d-45d8-ad9c-f6f4a9a96903</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>07d73668-65bb-41ae-8180-ad0354785259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maxAmountPerMonth&quot;)</value>
+      <webElementGuid>406ec390-74c0-431a-9383-9f96bfd80ca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5ece63dd-aead-4285-a7ea-f0d1fea82a33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>maxAmountPerMonth</value>
+      <webElementGuid>88ccb62e-f2ae-4a3a-b921-0e407f820826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>maxAmountPerMonth</value>
+      <webElementGuid>b8a79642-162a-4659-9d56-7185166467a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -150,7 +214,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='maxAmountPerMonth']</value>
-      <webElementGuid>c867892d-d1ba-421f-a10c-5c318a4f380b</webElementGuid>
+      <webElementGuid>6d215494-55ec-47ca-81c0-6474ebaa27fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +222,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='whiteMid']/div[17]/input</value>
-      <webElementGuid>10f58113-e6d2-439e-92a3-5cc60e4f8cfd</webElementGuid>
+      <webElementGuid>28d3122c-9fab-45cd-bb38-0d39674a5ffc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +230,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[17]/input</value>
-      <webElementGuid>ddbea491-bdfb-4bd7-8f3a-7ee1751be8ee</webElementGuid>
+      <webElementGuid>0be7c95a-81c8-4c72-b731-3eab377f271f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,6 +238,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'maxAmountPerMonth' and @name = 'maxAmountPerMonth' and @type = 'text']</value>
-      <webElementGuid>e6199e39-965a-463c-b624-d906d3dabb70</webElementGuid>
+      <webElementGuid>844fa07d-c25d-4a61-8040-d3d96b3a146f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>7f470a12-3e02-46da-aa3e-3941a7f05653</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#tempPerTranEndDate</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='tempPerTranEndDate']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tempPerTranEndDate</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>54ee25ed-99f6-4cbe-9718-26e65514b055</webElementGuid>
+      <webElementGuid>00fc4f7a-db81-4eeb-89c2-4c05a5399deb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>147b38eb-55b8-4dc1-8e31-eff34414dbf9</webElementGuid>
+      <webElementGuid>7ac58c63-8340-4d34-a36d-327bd241c69f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,10 +38,74 @@
       <name>name</name>
       <type>Main</type>
       <value>tempPerTranEndDate</value>
-      <webElementGuid>ed9fe9ab-c9e3-45b7-a3c1-4aa7485a0a44</webElementGuid>
+      <webElementGuid>cbf5a736-25ae-4d02-b663-0c453cd3eecf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tempPerTranEndDate</value>
+      <webElementGuid>bcafa985-18a8-4709-8240-6e874b896d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filterDate white hasDatepicker</value>
+      <webElementGuid>78aaebf7-83f4-4601-866a-aae5489cbf17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>End date</value>
+      <webElementGuid>fe28ea66-1f66-4649-a4d9-c622e4907a01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>069aa2bf-85cf-4e23-a2dc-673f2ae1071e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tempPerTranEndDate&quot;)</value>
+      <webElementGuid>ea0c46f9-1c3c-4ad1-be96-fbcf1d8ab1b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>54ee25ed-99f6-4cbe-9718-26e65514b055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>147b38eb-55b8-4dc1-8e31-eff34414dbf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>tempPerTranEndDate</value>
+      <webElementGuid>ed9fe9ab-c9e3-45b7-a3c1-4aa7485a0a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -150,7 +214,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='tempPerTranEndDate']</value>
-      <webElementGuid>ff3d2a65-e55c-4a62-8c08-82f9734e699e</webElementGuid>
+      <webElementGuid>620c78e0-c76b-4368-a8d0-729e18804917</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +222,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='temporaryPerTransaction']/div[2]/input[2]</value>
-      <webElementGuid>191b5352-3919-4314-bd03-41019caab085</webElementGuid>
+      <webElementGuid>a4aeba0a-2210-4374-89dd-898810a22615</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +230,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input[2]</value>
-      <webElementGuid>9d51627e-8cc0-453d-a514-135718c5af13</webElementGuid>
+      <webElementGuid>e62d407b-be5d-4855-b914-4810d28a4b30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,6 +238,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'tempPerTranEndDate' and @id = 'tempPerTranEndDate']</value>
-      <webElementGuid>e6460745-2959-4393-b250-89639857aa8a</webElementGuid>
+      <webElementGuid>37787963-f3c7-410c-b364-67c959823d15</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

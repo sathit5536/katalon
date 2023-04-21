@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>65c3dd52-5a44-4837-92a7-a87e0469fff9</webElementGuid>
+      <webElementGuid>702f07a1-b0a5-4d8b-b77a-aa95abc3b1f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/company/addMid?itemid=90253</value>
-      <webElementGuid>bac9d0b7-1ef2-4a11-aff5-c1ac840a7acb</webElementGuid>
+      <value>/controlLimit/addMidEDC?itemid=53433</value>
+      <webElementGuid>3b465a49-c09a-480a-bc7e-6efce95b3c26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add MID</value>
-      <webElementGuid>a754c59f-d7ec-4c42-b9b8-a2fbfa6b2e65</webElementGuid>
+      <webElementGuid>cf46ca3a-6a46-4b15-975a-ab2a95ea9711</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;detailBoxWhite&quot;)/div[@class=&quot;floatR&quot;]/a[1]</value>
-      <webElementGuid>f4480262-b1d7-4718-8883-b13c43e32026</webElementGuid>
+      <webElementGuid>0625401c-44cc-4b5e-a26b-94f6bbb5f999</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='detailBoxWhite']/div[2]/a</value>
-      <webElementGuid>fb617d3e-916c-4aaf-b029-07491cbf51d4</webElementGuid>
+      <webElementGuid>778089db-7cab-483f-b125-eae1af8d52ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Add MID')]</value>
-      <webElementGuid>1beda732-bcc9-4ea6-8fe8-ece35a168a44</webElementGuid>
+      <webElementGuid>ed62eb26-a5a3-432e-8dbf-5d6bee2fb3e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View Details'])[1]/following::a[1]</value>
-      <webElementGuid>8a314d85-8c03-43aa-9b01-f930baa27bb5</webElementGuid>
+      <webElementGuid>ce2995fc-ce36-41f8-a88f-7a7d4e248472</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,55 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Registered TID/ Total TID'])[1]/following::a[2]</value>
-      <webElementGuid>a4730f18-9557-40e5-b91f-56ce866e1da8</webElementGuid>
+      <webElementGuid>44f59391-9f86-492d-9c0f-41f93a9716d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDC'])[1]/preceding::a[1]</value>
+      <webElementGuid>44d2c0ae-edc6-41f3-9fcd-80c9dd0d90b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTIVE'])[1]/preceding::a[1]</value>
+      <webElementGuid>4877870a-13b4-4303-9015-ed649e4e1ac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add MID']/parent::*</value>
+      <webElementGuid>a5aa302d-c3ee-41df-8150-aa058f23b00f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/controlLimit/addMidEDC?itemid=53433')]</value>
+      <webElementGuid>4a728de1-1a74-4a1f-bf53-4f8d7729c228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a</value>
+      <webElementGuid>8ba0d11e-180f-446b-bec1-d78b961c279e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/controlLimit/addMidEDC?itemid=53433' and (text() = 'Add MID' or . = 'Add MID')]</value>
+      <webElementGuid>69b9f3dd-355f-40ca-8d8d-5b0662313d06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,26 +147,10 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Add MID']/parent::*</value>
-      <webElementGuid>26742e18-2648-4229-a79f-eb793718989c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/company/addMid?itemid=90253')]</value>
       <webElementGuid>01b79c80-71eb-47c4-8740-148a8ccf649d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div[2]/a</value>
-      <webElementGuid>e9d07e9e-1232-428a-a497-32b805460a9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

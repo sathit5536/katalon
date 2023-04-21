@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#tempPerTranStartDateError > span</value>
+         <value>#datepickerAddTemporaryPerTransactionStartDateError > span</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='tempPerTranStartDateError']/span</value>
+         <value>//div[@id='datepickerAddTemporaryPerTransactionStartDateError']/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>d393c3e9-49f3-4f46-8701-2eaa4fbb1ea3</webElementGuid>
+      <webElementGuid>68b00781-4ab7-4bd2-80c4-6c0538525bd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value>Please enter valid Temporary Start Date</value>
-      <webElementGuid>fd0c2c59-3ebc-4ddb-9184-f436c919edfe</webElementGuid>
+      <webElementGuid>7291e3a2-e53c-4b9a-9f15-766fbe4bc9d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tempPerTranStartDateError&quot;)/span[1]</value>
-      <webElementGuid>e92a5023-1372-4471-960f-45c7a95a5dbf</webElementGuid>
+      <webElementGuid>f52ebba4-62fb-4cbe-9574-b68087e5002b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,8 +117,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='tempPerTranStartDateError']/span</value>
-      <webElementGuid>42536d1a-8079-4251-a7f3-f4a365f15c70</webElementGuid>
+      <value>//div[@id='datepickerAddTemporaryPerTransactionStartDateError']/span</value>
+      <webElementGuid>a98f4e09-92bc-48ad-8a8c-0ebaa5900be5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Temporary Limit Per Transaction:'])[1]/following::span[2]</value>
-      <webElementGuid>d65f7890-366d-462f-9d82-f9bd5987e5a1</webElementGuid>
+      <webElementGuid>5989a935-7dba-4b19-94ec-de6247534052</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter valid Temporary End Date'])[1]/preceding::span[1]</value>
-      <webElementGuid>c6f6da46-26bf-4c19-a218-5b6c6e2d70f0</webElementGuid>
+      <webElementGuid>fbfa9aac-12bb-4ee3-844d-5831ec783424</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Temporary Limit Per Month:'])[1]/preceding::span[2]</value>
-      <webElementGuid>26add98b-1e17-46ff-ab83-df64d384de33</webElementGuid>
+      <webElementGuid>661b3217-c3df-4a06-872f-f9540f6c8022</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Please enter valid Temporary Start Date']/parent::*</value>
-      <webElementGuid>3f4addef-e05b-445d-afff-1a71113a8b9d</webElementGuid>
+      <webElementGuid>a5e22e74-3e6b-4185-9144-da5f70ec23fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[4]/div/span</value>
-      <webElementGuid>158889c4-2d85-4482-9b52-ae0dd6c19e61</webElementGuid>
+      <webElementGuid>cdffa027-b94b-43a2-96e2-e79e839e6303</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,6 +166,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Please enter valid Temporary Start Date' or . = 'Please enter valid Temporary Start Date')]</value>
-      <webElementGuid>161b206c-a3fb-426e-a134-697887f0cbb0</webElementGuid>
+      <webElementGuid>f25835a6-0c25-4999-bfa0-b9b046542f3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tempPerTranStartDateError']/span</value>
+      <webElementGuid>ee1de558-0f48-4478-b14b-87db03bc7022</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

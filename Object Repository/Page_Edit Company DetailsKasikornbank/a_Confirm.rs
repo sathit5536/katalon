@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>780454c4-e69a-4bc7-910a-27e0060e3686</webElementGuid>
+      <webElementGuid>01a8d880-2d77-4e20-b905-dbd7bd5432cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>submitThis</value>
-      <webElementGuid>62a0c691-3a9a-4d25-8286-9ce0e2a5ad45</webElementGuid>
+      <webElementGuid>2bab739a-b139-4252-b0d1-e175b826fbcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button btnL</value>
-      <webElementGuid>173e2ebb-aef0-497a-9e49-b322e7c3d0df</webElementGuid>
+      <webElementGuid>57a1e8d1-51f1-4d94-98d0-c049eecd75e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Confirm</value>
-      <webElementGuid>b7ac500e-00c4-4493-a0b6-d01b21bfaa7d</webElementGuid>
+      <webElementGuid>5c1218a5-e31d-4f6c-8d71-8f2f748f1032</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;submitThis&quot;)</value>
-      <webElementGuid>b9334fd3-eaa2-43f4-99c4-60ed244917b6</webElementGuid>
+      <webElementGuid>4a91d1ca-d6b1-4979-8d33-9c7cd740a3b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -262,7 +262,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='submitThis']</value>
-      <webElementGuid>6ae847dc-8e50-4e54-9178-cd865344bdba</webElementGuid>
+      <webElementGuid>e063ecb2-be1c-46cf-be59-dd094fea6cf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -270,7 +270,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ctaMid']/a[2]</value>
-      <webElementGuid>b09f7d6f-ed30-40c7-95a0-5024815c7596</webElementGuid>
+      <webElementGuid>dbb65d6c-de14-452d-8bf4-e3bf9aa030f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -278,7 +278,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Confirm')]</value>
-      <webElementGuid>fe74c5ac-1582-4cd0-a86a-48531e1ed8a1</webElementGuid>
+      <webElementGuid>e1c4eb6d-a668-43ad-9468-d06821dd9610</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -286,7 +286,71 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::a[1]</value>
-      <webElementGuid>3caa3342-0e8c-41a8-a584-75a7ddde82c1</webElementGuid>
+      <webElementGuid>41881aa2-dd64-4a72-9053-5db36b34bc92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Edit by automate'])[1]/following::a[2]</value>
+      <webElementGuid>c3a7b17d-774a-4b9e-929b-6b7728bf40b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/preceding::a[1]</value>
+      <webElementGuid>42d168d4-0f26-4598-8988-b93a151e6ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::a[2]</value>
+      <webElementGuid>59995a47-fea0-48a2-9ee3-41014f35b73b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirm']/parent::*</value>
+      <webElementGuid>11960acf-0009-45a0-89b7-4ed2ed108203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>6d7148e9-412b-4b6e-9f63-d1539b2a0336</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'submitThis' and (text() = 'Confirm' or . = 'Confirm')]</value>
+      <webElementGuid>d92d4e41-75ab-4c3f-823e-9eb4d652760d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bangkok'])[5]/following::a[2]</value>
+      <webElementGuid>69b4f677-0eae-4168-a197-511615214cc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Contact No.'])[2]/following::a[2]</value>
+      <webElementGuid>4727d669-2571-4b23-982a-17a5ee4d77bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -295,46 +359,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Edit Profile by Automate'])[1]/following::a[2]</value>
       <webElementGuid>b1b6d412-c4d0-432d-a453-f108408d94de</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/preceding::a[1]</value>
-      <webElementGuid>e49bc025-7b83-4c96-a4ae-53969b608c4c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::a[2]</value>
-      <webElementGuid>3c9c11d4-eff6-4302-b3a4-6d66d829f1ae</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Confirm']/parent::*</value>
-      <webElementGuid>89b8dbf9-2b91-4be4-a4fe-057e895a0995</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//a[2]</value>
-      <webElementGuid>11e59824-0f45-44e2-8e57-fa4372306b78</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[@id = 'submitThis' and (text() = 'Confirm' or . = 'Confirm')]</value>
-      <webElementGuid>cc9ddf81-d5ca-456d-88b5-12084e2cb2cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

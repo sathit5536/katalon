@@ -6,16 +6,48 @@
    <elementGuidId>02ded806-1169-4866-9fee-954a8e25fcab</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.successDone.title24Black</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='whiteMid']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.successDone.title24Black</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3ea17bdc-b1f1-4cd5-bb0a-79d2b26929bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>successDone title24Black</value>
+      <webElementGuid>cbb22cee-fbca-4181-b6e9-9624a70adeb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your request is successful</value>
+      <webElementGuid>d7a35033-9a30-4110-bf71-67b862284e45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;whiteMid&quot;)/div[@class=&quot;successDone title24Black&quot;]</value>
+      <webElementGuid>640bd0b0-4be5-4978-bf77-85099b8888c4</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +65,7 @@
       <webElementGuid>05493191-717e-45c7-a0d6-08f5e521b4b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -150,7 +182,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='whiteMid']/div</value>
-      <webElementGuid>d9446f47-99a0-4765-a0c0-0950439ea7f2</webElementGuid>
+      <webElementGuid>908b8634-918e-496b-92f3-6fdd23f80657</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +190,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete'])[1]/following::div[5]</value>
-      <webElementGuid>3567fc6b-06ea-430c-af1c-39d4dab243f7</webElementGuid>
+      <webElementGuid>dceee6f7-fee5-4356-bb10-c748356aceea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +198,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Review &amp; Confirm'])[1]/following::div[6]</value>
-      <webElementGuid>77b7a2f7-2d4f-4b2f-a701-0005cf87b3d0</webElementGuid>
+      <webElementGuid>20bf9acc-a108-48b0-9fe1-f3fc0e4277b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +206,39 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Name'])[1]/preceding::div[2]</value>
-      <webElementGuid>d3569929-1757-458b-9ed1-b487ad9f1446</webElementGuid>
+      <webElementGuid>104a2403-a9bc-4a41-bae8-b80177098a13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Automate'])[1]/preceding::div[3]</value>
+      <webElementGuid>1ffc8d7b-e3c3-4c3e-9649-8aca09611e2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your request is successful']/parent::*</value>
+      <webElementGuid>bc719cab-2413-4666-820c-00100a86bcec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div</value>
+      <webElementGuid>605c9e1b-6fb6-4946-b410-9d62a9efec31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Your request is successful' or . = 'Your request is successful')]</value>
+      <webElementGuid>ad80f19b-b273-4b8d-826f-ea6d2431b9d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -183,29 +247,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='TestAutomate01'])[1]/preceding::div[3]</value>
       <webElementGuid>768a50f5-7338-4d9b-ab3d-e5f5c87d3077</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Your request is successful']/parent::*</value>
-      <webElementGuid>e7b05107-cbd5-40c4-9231-16828d307e70</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[4]/div[2]/div</value>
-      <webElementGuid>981ff90c-64f4-4ad3-9f15-c31bcb9a956c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = 'Your request is successful' or . = 'Your request is successful')]</value>
-      <webElementGuid>5ce0f3d0-5172-4b07-9eff-e715055f2dca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

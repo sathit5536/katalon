@@ -6,12 +6,12 @@
    <elementGuidId>745c859a-7d22-4220-84c2-92833182d8a7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#tempPerMonth</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='tempPerMonth']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tempPerMonth</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>719a799b-a846-4753-9bb7-e4555ff9f270</webElementGuid>
+      <webElementGuid>24f98f67-91d4-405b-b771-1e74ca1a49be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>tempPerMonth</value>
-      <webElementGuid>69d328f6-9699-4138-9bfa-93a2feaccb6c</webElementGuid>
+      <webElementGuid>0586ecef-41d7-41f0-8b60-e46a1bb0227e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,10 +38,66 @@
       <name>name</name>
       <type>Main</type>
       <value>tempPerMonth</value>
-      <webElementGuid>004ac16e-52ea-4d4a-8095-32cf3c7070c3</webElementGuid>
+      <webElementGuid>ad2d10bb-e304-4680-95ad-ad3bfd3c6650</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c0942d9d-1dd2-4540-ba96-e8b35b7b5cb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>c610a0fe-84e5-4cc9-ace6-e02a19d197c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>374c83b2-b71a-4a59-903e-9912f1d189d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tempPerMonth&quot;)</value>
+      <webElementGuid>1295975d-3458-46d5-a104-e5277cf4d522</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>719a799b-a846-4753-9bb7-e4555ff9f270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tempPerMonth</value>
+      <webElementGuid>69d328f6-9699-4138-9bfa-93a2feaccb6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>tempPerMonth</value>
+      <webElementGuid>004ac16e-52ea-4d4a-8095-32cf3c7070c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -470,7 +526,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='tempPerMonth']</value>
-      <webElementGuid>7f43271e-d540-4f91-a8b0-07de681957e3</webElementGuid>
+      <webElementGuid>febea75a-0c52-4d19-a0f0-90b5d85b6f23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -478,7 +534,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='temp']/div[5]/input</value>
-      <webElementGuid>ae587eff-6eec-418e-a597-8c87a0b55f77</webElementGuid>
+      <webElementGuid>cd502275-88fd-4600-b7b2-314708cc7b1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -486,7 +542,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/input</value>
-      <webElementGuid>6a20fd56-7f2e-4ef6-b391-4b639074b2fc</webElementGuid>
+      <webElementGuid>f1d94e35-ce4a-462c-bb14-b63c00d08596</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -494,6 +550,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'tempPerMonth' and @name = 'tempPerMonth' and @type = 'text']</value>
-      <webElementGuid>ece61233-3d1f-4385-ae3a-a4719b08c020</webElementGuid>
+      <webElementGuid>1545f97b-e249-4b62-bfec-90052ac3c70b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

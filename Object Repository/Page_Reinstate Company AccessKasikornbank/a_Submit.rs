@@ -6,16 +6,64 @@
    <elementGuidId>3331ee23-2b57-4cf2-bd15-55e7d9091fda</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.button.btnL</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@onclick='return validateInput1()']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.btnL</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6f4d0113-4266-4366-af1e-a6d920b0a570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button btnL</value>
+      <webElementGuid>d622d490-ff81-41e3-9ced-e1f72fce93ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:document.activateMerchant.submit();</value>
+      <webElementGuid>485d276f-955a-4708-a67a-f6762cf542dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return validateInput1()</value>
+      <webElementGuid>0eb224d9-8f26-4727-8a69-c6cf98d36dd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>80190d39-93c7-4aaa-b9c5-02d31787f7c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctaMid&quot;)/a[@class=&quot;button btnL&quot;]</value>
+      <webElementGuid>0a1e22d0-d1ed-4c61-8e9c-5b80b72b4cc8</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +81,7 @@
       <webElementGuid>b697a1cc-919e-47e5-b6fe-4c1b9376aaf6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
@@ -49,7 +97,7 @@
       <webElementGuid>0709e7f1-0bbf-4bf1-8eb0-d724fc053e7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -70,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@onclick='return validateInput1()']</value>
-      <webElementGuid>d79fae0d-bec2-4806-86a0-49f626647fb5</webElementGuid>
+      <webElementGuid>875f4aef-0c0f-45e9-b781-87d151d8fce0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ctaMid']/a</value>
-      <webElementGuid>157a2e67-7b62-4c03-a273-da8a54d41a53</webElementGuid>
+      <webElementGuid>330634d2-32c8-4ec2-9d33-9d166a622004</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +134,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Submit')]</value>
-      <webElementGuid>d1cc67a3-79fb-44ce-ae0f-1216e4ac6245</webElementGuid>
+      <webElementGuid>b54eac95-b1d6-4010-86c5-207855f79ef0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Merchant', &quot;'&quot;, 's bank account reactivated')])[1]/following::a[1]</value>
-      <webElementGuid>1d484aaf-6a40-45ca-9abf-f07851506a6f</webElementGuid>
+      <webElementGuid>bf542c3a-fd9f-457d-8fde-ad38ee773c7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reason'])[1]/following::a[1]</value>
-      <webElementGuid>bc767b00-5900-4f54-b9cd-36d380420037</webElementGuid>
+      <webElementGuid>1cbf619c-9e5b-465a-8154-28dbb4755d32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/preceding::a[1]</value>
-      <webElementGuid>50235b16-345d-4383-923b-8a0cc4415df4</webElementGuid>
+      <webElementGuid>0d5b7b84-8edd-4aed-8b30-0f3800a2e298</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::a[2]</value>
-      <webElementGuid>701c424a-5a45-451f-b53b-6cf667b4f028</webElementGuid>
+      <webElementGuid>3dee784a-90d3-4c40-a307-cdf989f94e68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
-      <webElementGuid>390c1209-64c9-4a36-b55f-bad7f5d0a971</webElementGuid>
+      <webElementGuid>42d01e88-70e8-47c5-af0d-fbafa7cc34c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +182,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'javascript:document.activateMerchant.submit();')]</value>
-      <webElementGuid>d47346e8-2315-4a0c-b48d-4bc3b49a7831</webElementGuid>
+      <webElementGuid>de71baac-4960-418f-b03f-c547ec34a852</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +190,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/a</value>
-      <webElementGuid>c72e2827-e8bd-44ff-8c2a-c1373f47ac60</webElementGuid>
+      <webElementGuid>8399d0b5-e92e-4aef-a414-5e00495fa4a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +198,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript:document.activateMerchant.submit();' and (text() = 'Submit' or . = 'Submit')]</value>
-      <webElementGuid>bd60e23a-643c-4fed-adc9-5a9a7dc658ea</webElementGuid>
+      <webElementGuid>5d017262-dca4-4173-81e4-6052aac03bec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>80e88f24-ebf2-4b01-bb18-4ba0104cd58a</webElementGuid>
+      <webElementGuid>36230512-e843-499b-a764-66736438877f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button btnL</value>
-      <webElementGuid>b992445c-65b4-4f3f-8dfc-8e13f4bb5417</webElementGuid>
+      <webElementGuid>deae7735-e7d8-4515-994b-f9014cf070e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:document.activateCompanyUser.submit();</value>
-      <webElementGuid>9a222291-8bb2-4fae-8f9c-6ae93a8310e5</webElementGuid>
+      <webElementGuid>def9df9a-db9a-49bb-8ce8-3ab187345ea4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>return validateInput1()</value>
-      <webElementGuid>48b1f2c5-2a42-488a-ade4-82ad39356807</webElementGuid>
+      <webElementGuid>98a1b7b5-3cf7-4ef8-b6c5-b77e34773cf2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Submit</value>
-      <webElementGuid>f4815b8a-6803-4b15-8696-4c7406d9b95e</webElementGuid>
+      <webElementGuid>6d30eab8-56c9-443b-947c-07d22eb59ae9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ctaMid&quot;)/a[@class=&quot;button btnL&quot;]</value>
-      <webElementGuid>0868b0ee-239b-4202-9cd7-84390476d163</webElementGuid>
+      <webElementGuid>48a831c8-86fa-48cb-a2cc-2dca56e13c9a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@onclick='return validateInput1()']</value>
-      <webElementGuid>f1c53c89-50a3-4025-aa8d-fa84751c9223</webElementGuid>
+      <webElementGuid>a8104f47-9362-4ff8-bc95-8062b4892a21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ctaMid']/a</value>
-      <webElementGuid>631512ba-dc74-4045-a217-fcd0f4c316ed</webElementGuid>
+      <webElementGuid>519a7e8f-0649-45d3-bf3a-18bb5a84ca82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Submit')]</value>
-      <webElementGuid>e2c7b79e-b09b-4769-9ee5-8a3a054f74c4</webElementGuid>
+      <webElementGuid>5b4369f6-5a08-4a7e-a040-3e6d37b972c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Activate MID Reason 1'])[1]/following::a[1]</value>
-      <webElementGuid>e935c2b3-86c7-4b29-b8f6-25f0cf128609</webElementGuid>
+      <webElementGuid>c9161e60-6e56-40b6-88e9-f30f8772f392</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reason'])[1]/following::a[1]</value>
-      <webElementGuid>85a1be22-8021-46a1-827c-0f498e9e2132</webElementGuid>
+      <webElementGuid>b0fe5ccd-7932-48b0-95e7-c23953a1feec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/preceding::a[1]</value>
-      <webElementGuid>a31bce9a-8bc5-4d63-b68f-4b308c3eb6e2</webElementGuid>
+      <webElementGuid>0c9d89d7-f497-4a7a-abda-de599e7c7352</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::a[2]</value>
-      <webElementGuid>ed761ef5-85a2-4cb2-8357-028349a4d4b1</webElementGuid>
+      <webElementGuid>1cb05912-bf98-4b76-890b-3bb7e7e905a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
-      <webElementGuid>aa25c2be-672e-4dae-910a-2cc27ca4b540</webElementGuid>
+      <webElementGuid>90e774aa-2d36-4c5a-aac2-71d6ab4af847</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'javascript:document.activateCompanyUser.submit();')]</value>
-      <webElementGuid>04bc474d-6b12-4d1f-8895-8d203d2597f5</webElementGuid>
+      <webElementGuid>6d1e556a-6ec5-43f0-9781-c6b2baa88ee2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/a</value>
-      <webElementGuid>27bc2945-e00a-4c44-b9a8-07a532e61c0d</webElementGuid>
+      <webElementGuid>f0a95842-f27b-4a73-b2a2-f0ae2a3616a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript:document.activateCompanyUser.submit();' and (text() = 'Submit' or . = 'Submit')]</value>
-      <webElementGuid>e70f4dbe-40f6-487f-92f0-5ff6a0cb666d</webElementGuid>
+      <webElementGuid>02ebd54e-2c38-4295-948a-dd583792d2d3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

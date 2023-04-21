@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='addMid']</value>
+         <value>//a[@id='addMidEDC']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#addMid</value>
+         <value>#addMidEDC</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b995bf86-520e-41c8-8aa1-7bbfc4ab7a74</webElementGuid>
+      <webElementGuid>b26eeb21-a64e-40d7-b2df-8f03a1604f25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button btnWidth_180</value>
-      <webElementGuid>1354e782-6e24-4618-aeaa-b7ef336882e9</webElementGuid>
+      <webElementGuid>2c75a0ea-d5a5-4686-9715-f942cdfba13e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +38,15 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0)</value>
-      <webElementGuid>e3d6db06-11db-4edb-9f72-f9fa3d5e8b02</webElementGuid>
+      <webElementGuid>621f26a2-886e-4469-9e8a-b01131f50793</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>addMid</value>
-      <webElementGuid>90dbb29e-7c89-483f-b2d8-e02c3b110a7c</webElementGuid>
+      <value>addMidEDC</value>
+      <webElementGuid>7f597c98-8e49-4493-b232-228d5a04b997</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,15 +54,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Add Merchant ID</value>
-      <webElementGuid>5bdd9c9e-0756-489e-b0df-8d5a065032bc</webElementGuid>
+      <webElementGuid>1fb24c1c-7ece-43c1-a43b-1d951a92537f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;addMid&quot;)</value>
-      <webElementGuid>e3ae768e-0ce9-4ae0-8ad3-d586e6d29fca</webElementGuid>
+      <value>id(&quot;addMidEDC&quot;)</value>
+      <webElementGuid>512a3e29-ebdd-427e-80fd-059eb005aaa8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,6 +117,86 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
+      <value>//a[@id='addMidEDC']</value>
+      <webElementGuid>84731afb-aca5-4a0e-91b3-342079061a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='group']/div[2]/div[17]/a</value>
+      <webElementGuid>28358dd7-00ff-475c-b70a-35e829eca05d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add Merchant ID')]</value>
+      <webElementGuid>1e7f4d53-cf16-4e5d-a873-64fd779080c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postcode'])[2]/following::a[1]</value>
+      <webElementGuid>166e2206-57cd-4b7a-8f39-15a464ccb13d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bangkok'])[3]/following::a[1]</value>
+      <webElementGuid>e41a3681-f966-4666-bef2-2c2b315803c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::a[1]</value>
+      <webElementGuid>e0812f9e-e1a3-4794-afa1-c9d9a8c63fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::a[2]</value>
+      <webElementGuid>f1ccc31c-d873-40f0-9f67-d6b04c380bca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:void(0)')]</value>
+      <webElementGuid>0181f7b7-5119-48b5-90b9-b9e07d9028df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[17]/a</value>
+      <webElementGuid>076f6ec4-f46a-4bb1-82ca-30bf5b954f8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and @id = 'addMidEDC' and (text() = 'Add Merchant ID' or . = 'Add Merchant ID')]</value>
+      <webElementGuid>9ac97496-fb3b-432b-88dd-66bdd4abceac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
       <value>//a[@id='addMid']</value>
       <webElementGuid>d8b373d1-2f98-42cf-ad7e-23a10a29e3f2</webElementGuid>
    </webElementXpaths>
@@ -127,54 +207,6 @@
       <type>Main</type>
       <value>//div[@id='group']/div[5]/div[14]/a</value>
       <webElementGuid>29220eeb-3790-4ced-b850-56ab22633e72</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Add Merchant ID')]</value>
-      <webElementGuid>2d135853-7a5c-4891-ab26-4759abf9d99e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postcode'])[2]/following::a[1]</value>
-      <webElementGuid>dba7db3b-de0d-41cf-9631-884183dba9aa</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bangkok'])[3]/following::a[1]</value>
-      <webElementGuid>eff7cba5-c8ca-4b97-857a-0c3a38f0ae59</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::a[1]</value>
-      <webElementGuid>c6c18643-bff1-4c97-baa9-2b3291ad2fcf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::a[2]</value>
-      <webElementGuid>14000197-0de4-43d1-9f7d-fe35ea047a70</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, 'javascript:void(0)')]</value>
-      <webElementGuid>077cddff-f39e-4ac4-97d8-1a8269c5cd6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>71ec35ee-9516-4b32-a603-7763d108dbc8</webElementGuid>
+      <webElementGuid>3b46d04c-5f55-4bad-b82b-379e46de8e14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>successDone title24Black</value>
-      <webElementGuid>32df0e7b-99d3-4e51-b174-d02f4b43fab4</webElementGuid>
+      <webElementGuid>520bf356-f7cf-48a7-98cc-616349978e5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Your request is successful</value>
-      <webElementGuid>fa0886cd-5eae-47a9-94b9-ba180c4b6301</webElementGuid>
+      <webElementGuid>d2d378bf-e9d0-4150-aad4-2254266b446c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;whiteMid&quot;)/div[@class=&quot;successDone title24Black&quot;]</value>
-      <webElementGuid>a3a3d597-8d3d-4a4b-8399-ad0b9149c766</webElementGuid>
+      <webElementGuid>d2141a41-08e5-4a56-a266-b6ff2a2a6fbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -214,7 +214,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='whiteMid']/div</value>
-      <webElementGuid>e8c8a807-dda3-4319-aceb-a7bf718dc52f</webElementGuid>
+      <webElementGuid>451070e4-5472-4f1e-8fb2-f57b2c544755</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -222,7 +222,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete'])[1]/following::div[5]</value>
-      <webElementGuid>c9656936-1ca4-4f44-b4b0-4072dad7ea3b</webElementGuid>
+      <webElementGuid>d0c39d94-902f-4fa3-9efc-0961d9350584</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -230,7 +230,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Review &amp; Confirm'])[1]/following::div[6]</value>
-      <webElementGuid>7a467527-fbe4-43e4-9bb2-f375cb32e442</webElementGuid>
+      <webElementGuid>d93b8f6e-bdc2-4b5e-9cd4-0344cb2698af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -238,7 +238,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Merchant ID (MID):'])[1]/preceding::div[2]</value>
-      <webElementGuid>cf264c2f-a9df-47bd-ac53-ae2a9f35b7e7</webElementGuid>
+      <webElementGuid>01b069d9-0aa6-4eb4-b363-5283826ac414</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -246,7 +246,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View GroupDetails'])[1]/preceding::div[9]</value>
-      <webElementGuid>1a70f915-feff-4935-9693-e167ab5d50b7</webElementGuid>
+      <webElementGuid>609e96d8-38e6-4029-9b8b-03ed7306e9a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -254,7 +254,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Your request is successful']/parent::*</value>
-      <webElementGuid>c964fceb-fb58-4704-8732-295528076516</webElementGuid>
+      <webElementGuid>d91b689a-cbca-4b51-9ad6-cd7a314e172a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -262,7 +262,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div</value>
-      <webElementGuid>9c9a3e93-e0b1-4a2a-ab00-f3c682df0bd8</webElementGuid>
+      <webElementGuid>2b6c8773-a323-4520-89f8-6d79c4c9710d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -270,7 +270,23 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Your request is successful' or . = 'Your request is successful')]</value>
-      <webElementGuid>467d6828-c228-4857-a6ce-f6ebb3c2676b</webElementGuid>
+      <webElementGuid>68e6a97d-e74f-4a77-849f-0bffa1220660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Name'])[1]/preceding::div[1]</value>
+      <webElementGuid>bbdee077-6c55-42f9-8b5d-f77eb33791bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Automate'])[1]/preceding::div[2]</value>
+      <webElementGuid>39d62041-8ad2-4e17-ad4b-473b2c4e35d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -287,14 +303,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Automate'])[1]/preceding::div[3]</value>
       <webElementGuid>c0272065-c49a-4340-9827-78e09df27592</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Name'])[1]/preceding::div[1]</value>
-      <webElementGuid>6cf13058-2aa0-43fe-a957-0c496a2ef851</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

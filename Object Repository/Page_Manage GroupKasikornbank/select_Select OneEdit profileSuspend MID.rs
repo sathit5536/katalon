@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>95ad7942-4c4a-433d-9ebd-4eb8250e091c</webElementGuid>
+      <webElementGuid>0bacc38f-bcd2-4f01-8ebe-01d9f0994fed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>selectInTable</value>
-      <webElementGuid>b083bb44-9382-4cf1-8109-5a859de2e8a0</webElementGuid>
+      <webElementGuid>06b09219-aa4f-4236-9243-a608670dc202</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onchange</name>
       <type>Main</type>
-      <value>document.getElementById('go175141').action=this.value;</value>
-      <webElementGuid>7fceb3e3-e17f-4197-8432-c602f425d98e</webElementGuid>
+      <value>document.getElementById('go70939').action=this.value;</value>
+      <webElementGuid>32b283a5-a0df-4a67-abb3-866ba52e5aa0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>3b2b03e9-f7aa-4c3b-ada5-7c2cf888f9fa</webElementGuid>
+      <webElementGuid>862c6428-8aec-40d2-adfd-79d9a7731afd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,15 +62,15 @@
 										Suspend MID
 									
 								</value>
-      <webElementGuid>29f66e61-26ac-44c8-ab87-f9e166c7c173</webElementGuid>
+      <webElementGuid>35ac296f-508f-4b24-9766-558ad9c5603d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;go175141&quot;)/div[@class=&quot;floatL selectBoxInTable&quot;]/select[@class=&quot;selectInTable&quot;]</value>
-      <webElementGuid>d04ba958-2790-4ce8-858f-a50065887a71</webElementGuid>
+      <value>id(&quot;go70939&quot;)/div[@class=&quot;floatL selectBoxInTable&quot;]/select[@class=&quot;selectInTable&quot;]</value>
+      <webElementGuid>1add7688-24fe-40df-9e34-947dfe3c144a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -134,7 +134,71 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@name='']</value>
-      <webElementGuid>49d33422-6356-4362-9115-a805fdbb9cad</webElementGuid>
+      <webElementGuid>379201f8-c50c-4edf-875b-11c6ca152ce0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='go70939']/div/select</value>
+      <webElementGuid>56c560b0-2458-464f-9b54-448df00d8533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTIVE'])[1]/following::select[1]</value>
+      <webElementGuid>4d9d52e1-18c8-4239-a2da-94036127e973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select One'])[2]/preceding::select[1]</value>
+      <webElementGuid>3ec87135-e03d-4fdf-ac36-9c5f948c05db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[1]</value>
+      <webElementGuid>fa5fcd97-2460-4502-b12e-52b322069773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>956adabf-39ba-4a31-8d95-485b2198f35e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = '
+									
+										Select One
+									
+										Edit profile
+									
+										Suspend MID
+									
+								' or . = '
+									
+										Select One
+									
+										Edit profile
+									
+										Suspend MID
+									
+								')]</value>
+      <webElementGuid>a271c91b-90f3-49f6-9e91-ab50b36c5bf9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,54 +223,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Full Payment'])[1]/following::select[1]</value>
       <webElementGuid>46295930-a2c6-48be-afb8-fa86c0dfe455</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select One'])[2]/preceding::select[1]</value>
-      <webElementGuid>747bb4db-b1d1-4241-815f-c35c61bf341f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[1]</value>
-      <webElementGuid>d963205f-92c0-4ded-a709-121bd5e6ad20</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//select</value>
-      <webElementGuid>1ad16fd0-bbd4-4883-8f86-06188a3f5ef8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//select[(text() = '
-									
-										Select One
-									
-										Edit profile
-									
-										Suspend MID
-									
-								' or . = '
-									
-										Select One
-									
-										Edit profile
-									
-										Suspend MID
-									
-								')]</value>
-      <webElementGuid>6f9baa44-0068-4302-bd40-80ca615e9c4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

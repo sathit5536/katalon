@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8b1ae336-7167-47b1-a437-f38181a9bf4a</webElementGuid>
+      <webElementGuid>cbcad8c8-035f-4b0e-bcd3-73d86c315812</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>submitForm</value>
-      <webElementGuid>fc7fd2cb-c6f9-4933-8789-6f47ec6dead4</webElementGuid>
+      <webElementGuid>e30e317f-5cdc-407c-9067-7ca5b263d828</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button btnL</value>
-      <webElementGuid>7898318d-5cbc-4141-8142-0fd11564b3bc</webElementGuid>
+      <webElementGuid>eb084dc9-4308-4007-a321-53d5e31313be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0)</value>
-      <webElementGuid>ec60081d-c8fc-474d-961e-7dbc10dfd39e</webElementGuid>
+      <webElementGuid>549e856c-51cf-4314-b22c-6802249d117f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Submit</value>
-      <webElementGuid>3792e2eb-fe8b-4902-b5ae-a9af03444cbd</webElementGuid>
+      <webElementGuid>1da68bd9-4a6d-4e0e-81df-e98faec3f2eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;submitForm&quot;)</value>
-      <webElementGuid>c3471d40-0478-4e21-9820-89bb0643ae83</webElementGuid>
+      <webElementGuid>b6de50bb-e177-4895-bdff-bcd34ca4ee68</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='submitForm']</value>
-      <webElementGuid>24feaee5-2c85-4846-bca7-6135a718cdb1</webElementGuid>
+      <webElementGuid>e4bdad5c-ae54-43ec-9417-67a1612d88fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ctaMid']/a</value>
-      <webElementGuid>bdfe598f-4fa9-4660-bd2a-90cd78899c3f</webElementGuid>
+      <webElementGuid>9ca81639-5e0e-4c03-9339-5f0c8c6544a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Submit')]</value>
-      <webElementGuid>1d0cd0fa-78bc-4082-9d48-1dbcb56b7623</webElementGuid>
+      <webElementGuid>8f924143-6f55-403a-b65e-ce23ed9ca8e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Suspend MID Reason 1'])[1]/following::a[1]</value>
-      <webElementGuid>427b36bc-e904-4823-bd37-d85953b3e3d5</webElementGuid>
+      <webElementGuid>fd735aa3-ad31-438b-b5be-5aea8a431e43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reason'])[1]/following::a[1]</value>
-      <webElementGuid>521f8bc0-1ea3-4cef-850f-78816ac7949b</webElementGuid>
+      <webElementGuid>a2c751cc-70ee-4d16-ac84-76a966dbe040</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/preceding::a[1]</value>
-      <webElementGuid>91bb4f57-7b75-464c-bff1-c1d36eb6e68f</webElementGuid>
+      <webElementGuid>8cf49316-963f-48bf-8943-4a2bd7338773</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::a[2]</value>
-      <webElementGuid>62b6b8e8-aa8e-4645-91db-1db1b1232488</webElementGuid>
+      <webElementGuid>ff5a93d2-ae8f-47e6-96ba-5170ff224b0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
-      <webElementGuid>2525f3e7-8863-435e-8562-24ff32906b27</webElementGuid>
+      <webElementGuid>46725d29-baff-4d67-9464-67f942aae97c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'javascript:void(0)')]</value>
-      <webElementGuid>896ddc44-857f-457a-90ec-103d3e6ed820</webElementGuid>
+      <webElementGuid>fbd5179e-b406-4401-a4e7-0d6282196849</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/a</value>
-      <webElementGuid>dbff7423-e2d5-46ab-b90c-6993b2f4393a</webElementGuid>
+      <webElementGuid>83f7e218-bcbb-42a7-b063-282bf67064f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'submitForm' and @href = 'javascript:void(0)' and (text() = 'Submit' or . = 'Submit')]</value>
-      <webElementGuid>5361a895-820d-4c19-96fa-3ed9ee38a564</webElementGuid>
+      <webElementGuid>e86a65fe-0067-44af-aed2-9ba288481793</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

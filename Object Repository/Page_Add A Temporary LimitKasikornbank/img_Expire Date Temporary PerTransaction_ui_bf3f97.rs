@@ -6,16 +6,64 @@
    <elementGuidId>dc45ee74-fa54-45f1-aca7-737b0052ba74</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='temporaryPerTransaction']/div[2]/img</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='temporaryPerTransaction']/div[2]/img[2]</value>
+         <key>CSS</key>
+         <value>img.ui-datepicker-trigger</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6fc482e3-b9ef-48ba-995c-a4876bfcc852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-datepicker-trigger</value>
+      <webElementGuid>af338f33-dc02-4b25-9f31-bd8e854df646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/resources/images/icon/datepicker/btn_calendar.png</value>
+      <webElementGuid>25fa6ef7-387c-4f8d-bec4-5af488ea56da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>...</value>
+      <webElementGuid>1455c4b3-5c7d-4d79-946b-5281d0974b91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>...</value>
+      <webElementGuid>f650af7e-0b5a-4e22-a976-a60a7f91b183</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;temporaryPerTransaction&quot;)/div[@class=&quot;formInputS&quot;]/img[@class=&quot;ui-datepicker-trigger&quot;]</value>
+      <webElementGuid>94a0193f-2437-4d7e-9b50-c5e5bc88c3b3</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +81,7 @@
       <webElementGuid>60cb2ed4-a34e-404e-ac6a-4e9dcd7afff2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
@@ -41,7 +89,7 @@
       <webElementGuid>333968ae-57cf-4310-bfc3-2ae5c1a32159</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
@@ -49,7 +97,7 @@
       <webElementGuid>6972e899-6594-45f6-9d16-93755517e905</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>title</name>
       <type>Main</type>
@@ -213,6 +261,38 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
+      <value>//div[@id='temporaryPerTransaction']/div[2]/img</value>
+      <webElementGuid>20b23448-997f-42ee-a74a-dc23e14c73e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='...']</value>
+      <webElementGuid>965e5ab8-240e-4067-933b-be3ddd7494db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/img</value>
+      <webElementGuid>c15521d8-8377-48ef-94ff-e0792b7673da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/resources/images/icon/datepicker/btn_calendar.png' and @alt = '...' and @title = '...']</value>
+      <webElementGuid>0e5010c4-f323-49d6-9414-554581261a2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
       <value>//div[@id='temporaryPerTransaction']/div[2]/img[2]</value>
       <webElementGuid>35bbacb3-5e8f-4b34-ba74-654bc6e7906b</webElementGuid>
    </webElementXpaths>
@@ -231,13 +311,5 @@
       <type>Main</type>
       <value>//img[2]</value>
       <webElementGuid>ee1c3f2a-3aba-475f-ac15-184754d49969</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//img[@src = '/resources/images/icon/datepicker/btn_calendar.png' and @alt = '...' and @title = '...']</value>
-      <webElementGuid>1ca106bf-6699-4a94-8eb7-57f422985e07</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

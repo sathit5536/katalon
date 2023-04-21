@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2ac8c8f5-a8bf-4c05-ab96-03ade7e944c0</webElementGuid>
+      <webElementGuid>6a27bf8b-052b-4573-aaca-c81d4b410467</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>buttonGo</value>
-      <webElementGuid>ddaf2346-01ff-40a5-9719-d7171cabaf6c</webElementGuid>
+      <webElementGuid>74895c60-a2fc-4cde-9fcb-4b3bca9b256c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>class</name>
       <type>Main</type>
       <value>font13Bold</value>
-      <webElementGuid>38b4192d-551f-4a61-b9b4-2d276f9a8e04</webElementGuid>
+      <webElementGuid>79099473-fb3d-47d2-9097-5a0fcae8f990</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>javascript:document.go175141.submit();</value>
-      <webElementGuid>0d098bd2-b548-4eea-950a-ec4559c87cc1</webElementGuid>
+      <value>javascript:document.go70939.submit();</value>
+      <webElementGuid>522a14eb-6761-4abb-b66f-2ae672a85a0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -56,15 +56,15 @@
       <value>
 				                		Go
 				                	</value>
-      <webElementGuid>20f8e500-c649-49fb-82e3-875c33d78eba</webElementGuid>
+      <webElementGuid>a2f57856-103e-4229-ab9f-aa6a0aa05a18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;go175141&quot;)/div[@class=&quot;floatL&quot;]/a[@id=&quot;buttonGo&quot;]</value>
-      <webElementGuid>47804272-626a-4ab9-bfdc-d7dbdf7fc640</webElementGuid>
+      <value>id(&quot;go70939&quot;)/div[@class=&quot;floatL&quot;]/a[@id=&quot;buttonGo&quot;]</value>
+      <webElementGuid>155cf97f-0238-4512-8822-572d25e27b92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -172,7 +172,75 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='buttonGo']</value>
-      <webElementGuid>db84f08b-b59c-462b-8448-059178683c27</webElementGuid>
+      <webElementGuid>89ddc397-bfd7-4a40-9db6-a67618f8c934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='go70939']/div[2]/a</value>
+      <webElementGuid>7eb16369-b291-431c-8370-4ffe27f41e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Go')]</value>
+      <webElementGuid>df98e1c8-c595-4a85-bfce-a3273a5fe93d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit profile'])[2]/following::a[1]</value>
+      <webElementGuid>36f1988d-a28b-4675-be27-81f5e9a1228a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTIVE'])[2]/preceding::a[1]</value>
+      <webElementGuid>4e0fc896-2b13-4ff3-8269-93a322a9d0ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Go']/parent::*</value>
+      <webElementGuid>218e4bfb-b6f0-408e-b9ce-e7297f9bcc4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:document.go70939.submit();')]</value>
+      <webElementGuid>f17fa35f-af94-43d1-a4bf-67f37f750191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/a</value>
+      <webElementGuid>073f87a1-3fb0-4aa9-946a-9d86b36ceaab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'buttonGo' and @href = 'javascript:document.go70939.submit();' and (text() = '
+				                		Go
+				                	' or . = '
+				                		Go
+				                	')]</value>
+      <webElementGuid>c7419888-c366-4a3e-af86-cb40a513a8c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -181,14 +249,6 @@
       <type>Main</type>
       <value>//form[@id='go175141']/div[2]/a</value>
       <webElementGuid>1d32ddf0-9b2d-454c-aaf0-b72bcca9eb60</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Go')]</value>
-      <webElementGuid>54189c5f-f4e2-4095-9b18-a7d1bfb7ac1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -225,26 +285,10 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Go']/parent::*</value>
-      <webElementGuid>27f0a749-27f8-4155-8360-6efe9198ad50</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'javascript:document.go175141.submit();')]</value>
       <webElementGuid>015851a4-199e-4347-ab6f-5ad5a5b93ac8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//form/div[2]/a</value>
-      <webElementGuid>7ed92d3a-7227-46df-a27b-fd81ed5ddc0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

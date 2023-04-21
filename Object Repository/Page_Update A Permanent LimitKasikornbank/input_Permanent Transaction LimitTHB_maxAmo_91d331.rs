@@ -6,12 +6,12 @@
    <elementGuidId>fa90552d-0849-47f6-bef7-1db8463462e0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#maxAmountPerTransaction</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='maxAmountPerTransaction']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#maxAmountPerTransaction</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>fc0a0796-0d1c-45a2-beb9-5d9d6ddb69dc</webElementGuid>
+      <webElementGuid>14206728-f15d-4cff-a2f7-94612e53e900</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>maxAmountPerTransaction</value>
-      <webElementGuid>6cb522cc-d36e-4a3b-bd3d-d00fef8d67e2</webElementGuid>
+      <webElementGuid>644ce9fe-54c8-487e-9c35-d13c41ca222c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,10 +38,74 @@
       <name>name</name>
       <type>Main</type>
       <value>maxAmountPerTransaction</value>
-      <webElementGuid>efd635da-8c12-4555-81ea-0029a3476584</webElementGuid>
+      <webElementGuid>59f43ea6-2245-465a-b128-5aceeb76d15c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>8d43fe6f-e38c-4b63-98ef-50da879bebe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>ba344f3c-9ad7-462b-9a04-ea4296632b80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>width270</value>
+      <webElementGuid>1105f6c5-d70d-451e-85c3-9bc1e7da3aa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>e7bdb367-9c1b-4916-bff3-89ca1d52a6ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maxAmountPerTransaction&quot;)</value>
+      <webElementGuid>e16b69a2-6189-4c4b-a297-b6033ac5bbb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fc0a0796-0d1c-45a2-beb9-5d9d6ddb69dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>maxAmountPerTransaction</value>
+      <webElementGuid>6cb522cc-d36e-4a3b-bd3d-d00fef8d67e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>maxAmountPerTransaction</value>
+      <webElementGuid>efd635da-8c12-4555-81ea-0029a3476584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -150,7 +214,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='maxAmountPerTransaction']</value>
-      <webElementGuid>df37e58f-94ad-4c25-928d-c82726ede26f</webElementGuid>
+      <webElementGuid>e5f2d325-06f8-4004-8dbc-eb50071a59c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +222,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='whiteMid']/div[14]/input</value>
-      <webElementGuid>134bbcac-2c84-4227-8261-96bf8b1cbd20</webElementGuid>
+      <webElementGuid>af6cb7ca-57f9-487a-ba7f-fb9f761915e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +230,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[14]/input</value>
-      <webElementGuid>dc2a0713-1cce-4614-b3e1-51a83eb95729</webElementGuid>
+      <webElementGuid>89781758-89d9-430a-af71-95c43a80aa03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,6 +238,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'maxAmountPerTransaction' and @name = 'maxAmountPerTransaction' and @type = 'text']</value>
-      <webElementGuid>1f06ccbd-77ae-4dc7-bf59-445385174382</webElementGuid>
+      <webElementGuid>74741517-a2f6-43d8-998c-454a9d9cecd5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

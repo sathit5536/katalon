@@ -6,12 +6,12 @@
    <elementGuidId>c191a969-0c9a-4a12-b534-bc85a7a70ba8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#tempPerTranError > span</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='tempPerTranError']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tempPerTranError > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,10 +22,34 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ac4bef56-6906-49a4-87c4-d504269cc502</webElementGuid>
+      <webElementGuid>b94d826d-029a-41fe-81bb-b5af5545459e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>วงเงินชั่วคราวต่อรายการต้องมากกว่าวงเงินถาวรต่อรายการ</value>
+      <webElementGuid>f21a779f-0f1e-4521-8e2b-0316115a136b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tempPerTranError&quot;)/span[1]</value>
+      <webElementGuid>36fbd5ca-35bc-46f5-a291-eae5088d188a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ac4bef56-6906-49a4-87c4-d504269cc502</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -142,7 +166,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='tempPerTranError']/span</value>
-      <webElementGuid>6239030e-b565-4959-9484-b44e3ab52394</webElementGuid>
+      <webElementGuid>5033b7b5-1caf-4a84-9eb2-c64e06fb6287</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Temporary Limit Per Transaction:'])[1]/following::span[1]</value>
-      <webElementGuid>c7c8d2e8-d5b8-4308-a2c2-311cd6bf8517</webElementGuid>
+      <webElementGuid>753ce3d5-a9b4-4b9c-a940-2aee64b29718</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +182,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter valid Temporary Start Date'])[1]/preceding::span[1]</value>
-      <webElementGuid>841b824a-b140-4fd2-b418-b0fd4a82d935</webElementGuid>
+      <webElementGuid>97dd9038-16e0-4e9b-930a-16dd9b7f4244</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +190,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='วงเงินชั่วคราวต่อรายการต้องมากกว่าวงเงินถาวรต่อรายการ']/parent::*</value>
-      <webElementGuid>81a7d503-240b-4b88-b55f-0c72648ab056</webElementGuid>
+      <webElementGuid>71176e94-3405-4d89-bab6-58294fff0033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div[2]/div/span</value>
+      <webElementGuid>7a264bc4-2ce0-41e2-a8fd-2df7b1678718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'วงเงินชั่วคราวต่อรายการต้องมากกว่าวงเงินถาวรต่อรายการ' or . = 'วงเงินชั่วคราวต่อรายการต้องมากกว่าวงเงินถาวรต่อรายการ')]</value>
+      <webElementGuid>ce132320-8bf2-4ab7-8a90-b5ca5438472d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -175,21 +215,5 @@
       <type>Main</type>
       <value>//div[20]/div[2]/div/span</value>
       <webElementGuid>500fd73d-b2b4-432f-b47c-2ef63ca3b47a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = 'วงเงินชั่วคราวต่อรายการต้องมากกว่าวงเงินถาวรต่อรายการ' or . = 'วงเงินชั่วคราวต่อรายการต้องมากกว่าวงเงินถาวรต่อรายการ')]</value>
-      <webElementGuid>3cae5e0b-1f7c-4abc-9f70-a7fc00f0e427</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[14]/div[2]/div/span</value>
-      <webElementGuid>9a054418-34d7-4a2a-b711-5ebf5c4b7837</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

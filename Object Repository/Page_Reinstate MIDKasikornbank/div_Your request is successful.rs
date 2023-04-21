@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>481ddac2-090d-41af-ba5e-37b77ee587c4</webElementGuid>
+      <webElementGuid>279b178d-fb6b-44f3-815f-527acc3d48b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>successDone title24Black</value>
-      <webElementGuid>55a70140-e3f2-4fbd-9f9a-b52c5486d456</webElementGuid>
+      <webElementGuid>5bb87eac-c5a4-436c-9c59-6bcb1fcf0caf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Your request is successful</value>
-      <webElementGuid>1b6d61de-6563-43d5-81f7-cb35d68bba0b</webElementGuid>
+      <webElementGuid>ddc49a72-fdf3-4cf2-a946-7f22be5a3ec6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;whiteMid&quot;)/div[@class=&quot;successDone title24Black&quot;]</value>
-      <webElementGuid>5e5f9ca4-90b1-4dab-a3df-ba839634d470</webElementGuid>
+      <webElementGuid>91c1c786-92ed-4191-815a-ac68af2eeda0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='whiteMid']/div</value>
-      <webElementGuid>c2f455f0-da97-42b9-a70b-d68771204c3e</webElementGuid>
+      <webElementGuid>14595f3f-3be0-42dd-9ebb-a19da9fc9408</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete'])[1]/following::div[5]</value>
-      <webElementGuid>d6a9d972-8f8a-4bc0-9b81-2a283e92d16c</webElementGuid>
+      <webElementGuid>626862e0-4115-40f0-a4bc-847d4084fb63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/following::div[6]</value>
-      <webElementGuid>c1d06529-caa6-40ec-9384-bce03e06b428</webElementGuid>
+      <webElementGuid>27be02bd-a41c-4a13-9721-e9a450a47434</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Effective Date'])[1]/preceding::div[1]</value>
-      <webElementGuid>9aecb71d-24c5-48b9-be56-37c6b12bea45</webElementGuid>
+      <webElementGuid>edc45286-56e8-48bd-b19a-600225a22ab7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reason'])[1]/preceding::div[4]</value>
-      <webElementGuid>1cb430ce-9524-43cb-a2d3-9b907fbf5830</webElementGuid>
+      <webElementGuid>86c036d9-4292-49e4-ad90-3e779380b856</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Your request is successful']/parent::*</value>
-      <webElementGuid>6c466a5e-f862-4d77-b4f2-23c108255e49</webElementGuid>
+      <webElementGuid>cd941433-46c9-4371-bb3b-5d2e803f0287</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div</value>
-      <webElementGuid>3e9fedc2-3470-4820-b623-fdca33f2bb96</webElementGuid>
+      <webElementGuid>d1cdf019-9ca5-4f16-a020-3cf95a05461a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Your request is successful' or . = 'Your request is successful')]</value>
-      <webElementGuid>d5e1985a-6abd-49c8-b581-4a255ca4ad1a</webElementGuid>
+      <webElementGuid>234d0fd8-f81d-4c00-8932-252c1c340f26</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

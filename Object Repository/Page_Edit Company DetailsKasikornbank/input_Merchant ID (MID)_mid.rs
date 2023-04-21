@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a7889e1c-f5f3-4b34-a55a-aff38bf25808</webElementGuid>
+      <webElementGuid>ab0f6e8b-dbaf-49dd-967a-a386d6b0b3b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mid</value>
-      <webElementGuid>68a8658e-2bb7-4711-b913-48d8ae373448</webElementGuid>
+      <webElementGuid>bea20eb1-5b6b-417b-86b9-6cd91dae3810</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mid</value>
-      <webElementGuid>be1bb209-fb9b-4367-ab68-434cd2cca164</webElementGuid>
+      <webElementGuid>c904a38d-1a76-427c-89e0-1d26b8d5791f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>3877345c-e411-4736-a937-970d7b5e129d</webElementGuid>
+      <webElementGuid>947ab627-a65c-4d89-8305-41df9674d1ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>15</value>
-      <webElementGuid>3c6956e2-827e-40db-b53e-41bd682cdb57</webElementGuid>
+      <webElementGuid>0e26e5fd-3700-4e6d-8754-99019c89948f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>055a38ed-e1e8-4421-a058-5303688f4c58</webElementGuid>
+      <webElementGuid>516d8af3-6167-43e5-8dd2-f2ce56c28dbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mid&quot;)</value>
-      <webElementGuid>1073902c-5620-4634-8026-1f3c063d98aa</webElementGuid>
+      <webElementGuid>880a9184-3e57-4cb1-9755-58347d10dd04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -134,7 +134,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='mid']</value>
-      <webElementGuid>f2248a1d-d38f-453b-b3fc-bc1eb109bc5d</webElementGuid>
+      <webElementGuid>b28ec37d-5fff-4f54-b237-df394595a485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='group']/div[2]/div[2]/input</value>
+      <webElementGuid>a95d938b-23f6-494c-a86b-61fe7897855c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>c5dee8f6-c452-43f6-a9fe-ded83146996d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'mid' and @type = 'text']</value>
+      <webElementGuid>3779fe21-86f9-4191-a443-7657dad1199a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,21 +167,5 @@
       <type>Main</type>
       <value>//div[@id='group']/div[5]/div[2]/input</value>
       <webElementGuid>fa761498-9342-4d0a-8148-acd6a449a4cc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>c29aa89d-f1e6-4c3d-a5fe-e2a6c79856ae</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@id = 'mid' and @type = 'text']</value>
-      <webElementGuid>63e7bcdc-cfe9-45d7-9805-fbb6fc072d72</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

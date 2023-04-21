@@ -6,16 +6,56 @@
    <elementGuidId>80bee635-83df-4a70-9e3c-09a414e87b38</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='maxAmountPerMonthError']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='whiteMid']/div[17]</value>
+         <key>CSS</key>
+         <value>#maxAmountPerMonthError</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>35026f44-b66e-4c6e-b8b8-2ca4890fbdc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>maxAmountPerMonthError</value>
+      <webElementGuid>c594eee9-57d1-4704-9b11-10a659c639ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>errorMsg hidden</value>
+      <webElementGuid>d139e785-77f6-4631-af38-70e522415bd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Amount per Month must more than Amount per Transaction</value>
+      <webElementGuid>da9d8bbf-44e9-44a6-b0a0-6d9443a613bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maxAmountPerMonthError&quot;)</value>
+      <webElementGuid>058428c3-7180-41da-9c6b-eb89d7831399</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +73,7 @@
       <webElementGuid>207f4a68-a0f7-44c1-95fe-e92abe813788</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -53,6 +93,62 @@
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='maxAmountPerMonthError']</value>
+      <webElementGuid>6ce2a669-475f-41fd-b606-697492a69785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='whiteMid']/div[17]/div</value>
+      <webElementGuid>1f5b4c8b-e2a1-43ca-aa54-355de2bc92bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permanent Month Limit THB'])[1]/following::div[2]</value>
+      <webElementGuid>d7882602-993c-4167-8cf4-ec81723d1119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permanent Transaction Limit THB'])[1]/following::div[6]</value>
+      <webElementGuid>14982a77-e655-4f91-87b6-c69c1745c39e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remarks'])[2]/preceding::div[2]</value>
+      <webElementGuid>6eb0d381-225e-499d-9880-a980e87fb230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[17]/div</value>
+      <webElementGuid>4f1feb2b-3dde-4fca-a076-043fd4b30285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'maxAmountPerMonthError' and (text() = 'Amount per Month must more than Amount per Transaction' or . = 'Amount per Month must more than Amount per Transaction')]</value>
+      <webElementGuid>8f21a261-27f6-4716-8b5e-252e895215ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

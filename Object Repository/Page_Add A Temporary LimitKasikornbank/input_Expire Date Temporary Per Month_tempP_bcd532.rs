@@ -6,12 +6,12 @@
    <elementGuidId>22de7ec9-55bc-4a59-ba51-71ea0c28980d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#tempPerMonthStartDate</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='tempPerMonthStartDate']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tempPerMonthStartDate</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>cb123039-fad6-443e-917a-7f9b68f728d2</webElementGuid>
+      <webElementGuid>878be441-ff3b-4ab1-a391-7e5fec1d4d65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>fe8e9daa-1c76-4f46-8c5d-9e850140afe1</webElementGuid>
+      <webElementGuid>9a6e39a9-752d-422b-8f81-1d579fb79459</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,10 +38,74 @@
       <name>name</name>
       <type>Main</type>
       <value>tempPerMonthStartDate</value>
-      <webElementGuid>1464e6d2-f9d6-41f9-bb1b-93f327e691f7</webElementGuid>
+      <webElementGuid>62126ee7-6604-44f5-aba6-dc435f4ff986</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tempPerMonthStartDate</value>
+      <webElementGuid>15cef0e1-595e-4e1b-b20d-264a9d722601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filterDate white hasDatepicker</value>
+      <webElementGuid>c8b7bd69-65e2-4c33-9540-51a309f822ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Start date</value>
+      <webElementGuid>bbaf969d-7bc2-443f-8720-3a09e347a1b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>733fad5f-19f8-43b5-9914-25e201c63c7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tempPerMonthStartDate&quot;)</value>
+      <webElementGuid>0392df11-800e-4b12-a72a-348258833e79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>cb123039-fad6-443e-917a-7f9b68f728d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>fe8e9daa-1c76-4f46-8c5d-9e850140afe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>tempPerMonthStartDate</value>
+      <webElementGuid>1464e6d2-f9d6-41f9-bb1b-93f327e691f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -150,7 +214,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='tempPerMonthStartDate']</value>
-      <webElementGuid>4bb07d6e-46a9-452a-a378-56102b619587</webElementGuid>
+      <webElementGuid>ebf75a58-83d4-4b6e-a942-6eb5348c95ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +222,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='temporaryPerMonth']/div[2]/input</value>
-      <webElementGuid>8f8f76e7-666f-4362-a968-3881d6d4b6cf</webElementGuid>
+      <webElementGuid>6354e5e8-e204-4b29-8388-0c4c6dc093fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +230,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div[2]/input</value>
-      <webElementGuid>13ff7091-9953-4ad7-95c9-412bf600bfcf</webElementGuid>
+      <webElementGuid>03f54ecc-748d-46a2-ab58-3455bbd48aca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,6 +238,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'tempPerMonthStartDate' and @id = 'tempPerMonthStartDate']</value>
-      <webElementGuid>a54fd837-ad29-403c-9b53-0c6cc2abf7d0</webElementGuid>
+      <webElementGuid>cec23f92-9f7e-4a13-8f83-ccdc1aea7ddb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

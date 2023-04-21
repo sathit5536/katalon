@@ -6,16 +6,58 @@
    <elementGuidId>3fd2f4e5-463b-418e-a0fa-d8ccebe865d2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='tempPerTranError']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='temp']/div[5]</value>
+         <key>CSS</key>
+         <value>#tempPerTranError</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>facf45bc-683e-48cd-ad29-736ffb1e5bdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tempPerTranError</value>
+      <webElementGuid>903a1962-960e-4592-870c-d631396c09d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>errorMsg hidden</value>
+      <webElementGuid>5a16c06f-3bd0-440d-9e48-77f63286c8f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+												วงเงินชั่วคราวต่อรายการต้องมากกว่าวงเงินถาวรต่อรายการ
+											</value>
+      <webElementGuid>22c25b54-9ac8-4140-93a4-65904fe9cdce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tempPerTranError&quot;)</value>
+      <webElementGuid>8183a7c5-39c0-4698-bba4-e4233a62be33</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +75,7 @@
       <webElementGuid>034ab406-79b4-469e-8f74-cc19d98cb0ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -55,6 +97,50 @@
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='tempPerTranError']</value>
+      <webElementGuid>29b5583d-6c86-4f48-bef5-04b98735bf62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='temp']/div[2]/div</value>
+      <webElementGuid>cff8cd9d-897c-4cad-8412-f05a4bc84175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Temporary Limit Per Transaction:'])[1]/following::div[2]</value>
+      <webElementGuid>5ddbcebc-70ca-4c2a-a5bb-7bc9a42a6048</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div[2]/div</value>
+      <webElementGuid>ca7e43eb-adf7-4616-9648-d46f11d7fbdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'tempPerTranError' and (text() = '
+												วงเงินชั่วคราวต่อรายการต้องมากกว่าวงเงินถาวรต่อรายการ
+											' or . = '
+												วงเงินชั่วคราวต่อรายการต้องมากกว่าวงเงินถาวรต่อรายการ
+											')]</value>
+      <webElementGuid>65a8e102-0617-4f2a-9c71-389724b447cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

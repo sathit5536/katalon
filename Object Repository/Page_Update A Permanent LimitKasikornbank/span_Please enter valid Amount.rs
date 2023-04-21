@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#maxAmountPerTransactionError > span</value>
+         <value>#maxAmountEDCPerTransacError > span</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='maxAmountPerTransactionError']/span</value>
+         <value>//div[@id='maxAmountEDCPerTransacError']/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,10 +22,34 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>03ed7804-6a8e-4062-b0d2-813ba288102c</webElementGuid>
+      <webElementGuid>0279e8ba-5a9d-4de5-99f7-29d476a30190</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please enter valid Amount</value>
+      <webElementGuid>d3ab6758-b6b2-4bda-9fa8-cadee1b8ea7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maxAmountEDCPerTransacError&quot;)/span[1]</value>
+      <webElementGuid>4122e7ab-916c-4fb2-a51d-d268ac17795b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>03ed7804-6a8e-4062-b0d2-813ba288102c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -45,24 +69,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='maxAmountPerTransactionError']/span</value>
-      <webElementGuid>22ff24e7-f585-41db-9434-8b231cb7871d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permanent Transaction Limit THB'])[1]/following::span[1]</value>
-      <webElementGuid>d6094950-8c7b-4ce7-a95b-a6f443895ed4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permanent Month Limit THB'])[1]/preceding::span[1]</value>
-      <webElementGuid>943d5874-5f8d-428f-bd6e-ec6395d0d2b7</webElementGuid>
+      <value>//div[@id='maxAmountEDCPerTransacError']/span</value>
+      <webElementGuid>8b92531b-af7d-4958-be03-12c993230201</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter valid Amount'])[2]/preceding::span[1]</value>
-      <webElementGuid>de10999f-d280-434e-8491-cec13fd6edfe</webElementGuid>
+      <webElementGuid>f427563f-d8be-4ae9-893c-f4e338934733</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,15 +86,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Please enter valid Amount']/parent::*</value>
-      <webElementGuid>1885dea9-b0c8-435e-b11b-793652656385</webElementGuid>
+      <webElementGuid>989b6d40-eb98-40f4-8aaf-0d5f6b55ec2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/span</value>
-      <webElementGuid>08da5ecd-30ff-47f8-a000-1669bd0db1e1</webElementGuid>
+      <value>//div[23]/div/span</value>
+      <webElementGuid>8ce54d38-ed0d-4ed2-888f-e29fa62e2256</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +102,38 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Please enter valid Amount' or . = 'Please enter valid Amount')]</value>
-      <webElementGuid>f03e3e18-9c52-48e2-9b55-eb863bf9ad4d</webElementGuid>
+      <webElementGuid>54ba52ca-7072-4406-ab60-9bdbe4370a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maxAmountPerTransactionError']/span</value>
+      <webElementGuid>c788f36f-1567-4db6-a5ff-635e06ae3a55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permanent Transaction Limit THB'])[1]/following::span[1]</value>
+      <webElementGuid>092ccf78-86b3-4e82-b9f3-58eff10b6eac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permanent Month Limit THB'])[1]/preceding::span[1]</value>
+      <webElementGuid>b180e2c3-708a-42c6-bcc1-5557b841f1c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>698d382f-57c0-4d0f-95d3-23ab0b8d1b2e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

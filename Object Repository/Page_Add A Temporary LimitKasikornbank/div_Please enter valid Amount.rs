@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>#tempEDCPerTransacError</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='temp']/div[5]</value>
+         <value>//div[@id='tempEDCPerTransacError']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>0e53ec31-12b0-4d83-b1fd-c5041892a7d5</webElementGuid>
+      <webElementGuid>f19c793e-9605-4816-ba28-c1159f09ddc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>formInputS</value>
-      <webElementGuid>f43a00f9-e695-4aa5-aea3-02eb99bd0a7a</webElementGuid>
+      <value>errorMsg hidden</value>
+      <webElementGuid>cc3c3cf9-cac2-48b5-9b7b-916353acc5e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,20 +38,17 @@
       <name>text</name>
       <type>Main</type>
       <value>
-											
-											
 												Please enter valid Amount
-											
-										</value>
-      <webElementGuid>38ba4779-9965-4e3b-acad-929cf77a1660</webElementGuid>
+											</value>
+      <webElementGuid>dba0a5d3-0ade-4e77-8052-56609af2a5ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;temp&quot;)/div[@class=&quot;formInputS&quot;]</value>
-      <webElementGuid>a399b91b-70bb-401f-b703-fce731a95daa</webElementGuid>
+      <value>id(&quot;tempEDCPerTransacError&quot;)</value>
+      <webElementGuid>5d2a4c81-4bc3-4259-8c08-098cec10c12b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -90,8 +87,60 @@
       <value>id(&quot;temp&quot;)/div[@class=&quot;formInputS&quot;]</value>
       <webElementGuid>471071db-0e0d-4aa0-b85f-d97541269814</webElementGuid>
    </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tempEDCPerTransacError</value>
+      <webElementGuid>1ae732a6-343e-43d0-b3fb-131b58f7decd</webElementGuid>
+   </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='tempEDCPerTransacError']</value>
+      <webElementGuid>c72bba0a-a2e6-4426-a07b-4dc529762000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='temp']/div[2]/div</value>
+      <webElementGuid>2f78da51-babb-4fee-a387-70a212406097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Temporary Limit Per Transaction:'])[1]/following::div[2]</value>
+      <webElementGuid>39d03b71-2f95-4a19-858b-3e0c0ac1fe58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div[2]/div</value>
+      <webElementGuid>27f13704-0107-44a6-bedf-2b9ffdd480c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'tempEDCPerTransacError' and (text() = '
+												Please enter valid Amount
+											' or . = '
+												Please enter valid Amount
+											')]</value>
+      <webElementGuid>16fac51d-1df8-492b-9b7b-32b967ca878d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

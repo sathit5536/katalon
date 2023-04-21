@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>#maxAmountEDCPerTransacError</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='whiteMid']/div[17]</value>
+         <value>//div[@id='maxAmountEDCPerTransacError']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>06fd5625-29f7-4754-b27a-aee7f9f51931</webElementGuid>
+      <webElementGuid>e99d6b5b-aeba-4e6f-9e42-eed20da5fc1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>formInput</value>
-      <webElementGuid>3c77db84-eb80-41cf-9c5e-5dc9fb6c173e</webElementGuid>
+      <value>errorMsg hidden</value>
+      <webElementGuid>d5cf92db-4ab7-46d7-b236-9bfc3095976f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,21 +38,64 @@
       <name>text</name>
       <type>Main</type>
       <value>
-	                	 
-	                	Please enter valid Amount
-	                </value>
-      <webElementGuid>897b3ab9-0ecd-49de-a777-760b49e49047</webElementGuid>
+											Please enter valid Amount
+										</value>
+      <webElementGuid>b96c8603-29f9-4218-bf24-998b4dc86531</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;step1&quot;)/div[@id=&quot;barPadding&quot;]/div[@id=&quot;whiteMid&quot;]/div[@class=&quot;formInput&quot;]</value>
-      <webElementGuid>eff20e8a-aff3-49bc-99e8-5095f938715f</webElementGuid>
+      <value>id(&quot;maxAmountEDCPerTransacError&quot;)</value>
+      <webElementGuid>69d57987-3fc0-4803-afb1-a84846b6cf99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>maxAmountEDCPerTransacError</value>
+      <webElementGuid>67b1dce4-dc36-4609-8d38-4e96280cf641</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='maxAmountEDCPerTransacError']</value>
+      <webElementGuid>2d5b9759-86f9-4ccf-b262-ca4a0a1fb4f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='group']/div[2]/div[23]/div</value>
+      <webElementGuid>4d4a9a86-024a-4abe-ba72-85ec9d3b8397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[23]/div</value>
+      <webElementGuid>fc16bdfc-a661-4566-b47d-3fd9fd36fa2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'maxAmountEDCPerTransacError' and (text() = '
+											Please enter valid Amount
+										' or . = '
+											Please enter valid Amount
+										')]</value>
+      <webElementGuid>4557555d-bff7-41fc-a6bc-d32fa98f537e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>969f47ff-2eb6-4533-a0e2-36eb5478a830</webElementGuid>
+      <webElementGuid>e8dc2830-b5ea-4c12-8dd3-78f80b5f1fb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Please add Merchant ID</value>
-      <webElementGuid>609d048d-4144-4dda-a53f-9e623f0d05b5</webElementGuid>
+      <webElementGuid>472a14d3-863e-4dde-81ba-278fff458a34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;GroupMidWrapperError&quot;)/span[1]</value>
-      <webElementGuid>568b706b-6f5b-4835-b69a-612a6986c382</webElementGuid>
+      <webElementGuid>f91c2b54-4edd-4029-b367-28bb6d05523f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='GroupMidWrapperError']/span</value>
-      <webElementGuid>411e67e8-0438-4635-abc2-33a2e24c6569</webElementGuid>
+      <webElementGuid>a5a95141-a198-44b1-ab37-f266bc3402f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Merchant ID'])[2]/following::span[1]</value>
-      <webElementGuid>a3ddd2ca-55a5-4298-9e42-5574aec360c0</webElementGuid>
+      <webElementGuid>0079d0aa-cc66-4e52-9a45-c9006064df96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Postcode'])[2]/following::span[2]</value>
-      <webElementGuid>57d0ce31-b84f-4033-baa6-5d3ced756f74</webElementGuid>
+      <webElementGuid>ecb2d8df-67e9-4f25-8e52-31507bcf8c47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::span[1]</value>
-      <webElementGuid>36a07557-0d0f-4723-9dba-10c2718bc4f5</webElementGuid>
+      <webElementGuid>4bb186f3-a776-4de5-88bc-6742bbdea373</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::span[1]</value>
-      <webElementGuid>a462cfc0-2505-465c-bda1-50e56152593a</webElementGuid>
+      <webElementGuid>8451707b-8de7-4b94-bdd3-59b0ca9380ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Please add Merchant ID']/parent::*</value>
-      <webElementGuid>a6ad5231-8d75-478b-bda7-f71b59bf4a99</webElementGuid>
+      <webElementGuid>98c0c313-71f8-49b1-a402-7c68dfda27f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/span</value>
-      <webElementGuid>d0038f4b-a030-425d-80f5-c1638108a43c</webElementGuid>
+      <webElementGuid>ef32bc42-271d-4145-98d5-c1f0d0442023</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Please add Merchant ID' or . = 'Please add Merchant ID')]</value>
-      <webElementGuid>4e7f753d-86d0-4666-8db9-d50c15963c9c</webElementGuid>
+      <webElementGuid>c713f891-16b6-4c84-b49e-cd1ad4257e96</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

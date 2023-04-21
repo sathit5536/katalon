@@ -29,43 +29,38 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_LOGINKasikornbank/
 
 WebUI.click(findTestObject('Object Repository/Page_LOGINKasikornbank/a_Submit'))
 
-WebUI.navigateToUrl('https://mpostest1.kasikornbank.com:7443/company/viewDetails?itemid=90083')
+WebUI.navigateToUrl('https://mpostest1.kasikornbank.com:7443/controlLimit/updatePermanent?itemid=70939')
 
-WebUI.click(findTestObject('Object Repository/Page_Company DetailsKasikornbank/a_View Details'))
+WebUI.click(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/a_Submit'))
 
-WebUI.navigateToUrl('https://mpostest1.kasikornbank.com:7443/company/viewManageGroup?itemid=90253')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/span_Please enter valid Amount'), 
+    'Please enter valid Amount')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage GroupKasikornbank/select_Select OneEdit profileSuspend MID'),
-	'suspendMid', true)
+WebUI.refresh()
 
-WebUI.click(findTestObject('Object Repository/Page_Manage GroupKasikornbank/a_Go'))
+WebUI.setText(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/input_Permanent Limit Per TransactionTHB_ma_59a160'), 
+    '20000')
 
-WebUI.setText(findTestObject('Object Repository/Page_Suspend MIDKasikornbank/textarea_Suspend MID Reason 1_remarks'), 'Test Suspend MID By Automate')
-WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M-08 Merchant GroupMID\\Suspend\\Suspend MID - 1.png')
+WebUI.setText(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/input_Permanent Limit Per MonthTHB_maxAmoun_ec8cd4'), 
+    '1000')
 
-WebUI.click(findTestObject('Object Repository/Page_Suspend MIDKasikornbank/a_Submit'))
-WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M-08 Merchant GroupMID\\Suspend\\Suspend MID - 2.png')
+WebUI.click(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/a_Submit'))
 
-WebUI.click(findTestObject('Object Repository/Page_Suspend MIDKasikornbank/div_Your request is successful'))
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/span_Amount per Month must more than Amount_46b8eb'), 
+    'Amount per Month must more than Amount per Transaction')
 
-WebUI.navigateToUrl('https://mpostest1.kasikornbank.com:7443/company/viewDetails?itemid=90083')
+WebUI.refresh()
 
-WebUI.click(findTestObject('Object Repository/Page_Company DetailsKasikornbank/a_View Details'))
+WebUI.setText(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/input_Permanent Limit Per TransactionTHB_ma_59a160'), 
+    '20001')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Manage GroupKasikornbank/select_Select OneEdit profileReinstate MID'), 
-    'activateMid', true)
+WebUI.setText(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/input_Permanent Limit Per MonthTHB_maxAmoun_ec8cd4'), 
+    '100001')
 
-WebUI.click(findTestObject('Object Repository/Page_Manage GroupKasikornbank/a_Go'))
+WebUI.click(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/a_Submit'))
 
-WebUI.navigateToUrl('https://mpostest1.kasikornbank.com:7443/company/activateMid?itemid=175141')
+WebUI.click(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/a_Confirm'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Activate MIDKasikornbank/textarea_Activate MID Reason 1_remarks'), 
-    'Reinstate MID By Automate')
-WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M-08 Merchant GroupMID\\Reinstate\\Reinstate MID - 1.png')
-
-WebUI.click(findTestObject('Object Repository/Page_Activate MIDKasikornbank/a_Submit'))
-WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\M-08 Merchant GroupMID\\Reinstate\\Reinstate MID - 2.png')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Reinstate MIDKasikornbank/div_Your request is successful'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Page_All CompaniesKasikornbank/div_Your request is successful'), 
     'Your request is successful')
 

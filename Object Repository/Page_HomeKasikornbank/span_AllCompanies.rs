@@ -22,10 +22,58 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>670a29dc-63d5-4058-b657-38bec1a2992c</webElementGuid>
+      <webElementGuid>35896672-fc9c-4a8a-9eb2-287eb115b28e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AllCompanies</value>
+      <webElementGuid>b75cd56b-afbb-4038-9e29-46beaa693f9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topNavi&quot;)/li[2]/a[1]/span[1]</value>
+      <webElementGuid>28495470-a181-4ad4-8a27-7b57e31d2bc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>80ae7531-29ad-4640-95eb-bf9099b778a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AllCompanies</value>
+      <webElementGuid>fce72c4e-d382-4ba2-bbbf-c29717a8b598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topNavi&quot;)/li[2]/a[1]/span[1]</value>
+      <webElementGuid>a892e2f7-0c75-44d8-a0b3-5428f8a2a1dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>670a29dc-63d5-4058-b657-38bec1a2992c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -70,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='topNavi']/li[2]/a/span</value>
-      <webElementGuid>b43ef07d-a2c3-401b-b56c-992d6e9f5908</webElementGuid>
+      <webElementGuid>7674a972-c231-41e4-8214-da26db92ad32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +126,63 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[1]</value>
-      <webElementGuid>9da763f3-7712-48d3-b3f9-15c7229ab654</webElementGuid>
+      <webElementGuid>c0c21291-f3de-445b-a651-d815a2d219a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your last log in was Thursday, 20 Apr 2023 16:02'])[1]/following::span[2]</value>
+      <webElementGuid>7a192b8b-8cec-44d4-9d6d-343af30f0697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ControlLimit'])[1]/preceding::span[1]</value>
+      <webElementGuid>c8e05b25-76c1-4b6d-81d2-5f80b8297d24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ManageStaffs'])[1]/preceding::span[2]</value>
+      <webElementGuid>8967846b-880f-4184-ab0a-27989c5d72c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All']/parent::*</value>
+      <webElementGuid>c61ed9ba-b539-419f-af69-4373097704ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>2029d1d5-91d3-4b1c-92b9-6c2cd970f6fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'AllCompanies' or . = 'AllCompanies')]</value>
+      <webElementGuid>a860a082-2e4d-4b82-9d3d-734f6be96648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your last log in was Tuesday, 18 Apr 2023 10:30'])[1]/following::span[2]</value>
+      <webElementGuid>385cacb0-e141-4f70-994b-2119ccb7efb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,46 +191,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Your last log in was Tuesday, 28 Mar 2023 14:49'])[1]/following::span[2]</value>
       <webElementGuid>4c4d5b6e-3f50-4114-ad82-8f0c4f5cd207</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ControlLimit'])[1]/preceding::span[1]</value>
-      <webElementGuid>787e9507-aa12-4197-8e0f-c77b117c408a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ManageStaffs'])[1]/preceding::span[2]</value>
-      <webElementGuid>741e1c1a-0450-41e1-8cc3-3e9a230a9b05</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='All']/parent::*</value>
-      <webElementGuid>f7100123-ae7b-49ed-82e7-b0a715c1d989</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//li[2]/a/span</value>
-      <webElementGuid>1cd662fc-8f99-4128-899e-234f100125d4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = 'AllCompanies' or . = 'AllCompanies')]</value>
-      <webElementGuid>e227821c-87e8-4c85-8237-96a0e49f989c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

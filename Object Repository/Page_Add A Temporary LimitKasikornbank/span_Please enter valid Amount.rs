@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Please enter valid Amount</name>
+   <tag></tag>
+   <elementGuidId>b0dc2d92-a089-4c5e-9d2c-b95f1861c040</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tempEDCPerTransacError > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tempEDCPerTransacError']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>99a2dadf-df01-4fe2-94ed-e9207830b88b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please enter valid Amount</value>
+      <webElementGuid>aef30fab-9fb0-42bb-9d86-864a0abb7492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tempEDCPerTransacError&quot;)/span[1]</value>
+      <webElementGuid>6b7fdae5-3d89-4b65-9eac-d3aad4677c03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tempEDCPerTransacError']/span</value>
+      <webElementGuid>a7a947a7-b440-49f5-be53-68f0bc67bc4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Temporary Limit Per Transaction:'])[1]/following::span[1]</value>
+      <webElementGuid>b65a9ca0-d0f2-4e2d-802c-5a4490c2ca50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Temporary Limit Per Month:'])[1]/preceding::span[3]</value>
+      <webElementGuid>c3ac3cc8-62f1-4266-af2b-ce27c4e54d0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please enter valid Amount']/parent::*</value>
+      <webElementGuid>a7e52573-83e7-41f9-a0ec-e29a309ac669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span</value>
+      <webElementGuid>5a1a4ec9-9b92-4ce9-b2e2-7019dadf8a25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Please enter valid Amount' or . = 'Please enter valid Amount')]</value>
+      <webElementGuid>9c9b56bd-c9d9-4590-8ce2-ad6d18d91723</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

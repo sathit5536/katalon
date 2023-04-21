@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>fa95f203-204e-4043-bf43-acdeb40a0155</webElementGuid>
+      <webElementGuid>2a7449fb-c228-4638-af10-d123def69ff0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>remarks</value>
-      <webElementGuid>822e8ae3-86d2-4b39-92b0-cdca14f763de</webElementGuid>
+      <webElementGuid>531a0bf2-4ba7-4649-958b-b678a7e66786</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>remarks</value>
-      <webElementGuid>162e83ab-d7a2-4102-9637-76da43994193</webElementGuid>
+      <webElementGuid>bfb99a30-9f2d-4b6e-ba99-ce3cbeba07c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>250</value>
-      <webElementGuid>0ff881b7-417a-4888-880b-76de58d8a70a</webElementGuid>
+      <webElementGuid>7f9dcdae-fc61-41fe-9d69-8ca7204a974e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>onkeydown</name>
       <type>Main</type>
       <value>limitText(this.form.remarks,this.form.countdown,250);</value>
-      <webElementGuid>abcc1408-4754-4588-9c42-e7ce6026bfec</webElementGuid>
+      <webElementGuid>c3e7d560-d3b8-495d-8aed-662bfdf6380c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>onkeyup</name>
       <type>Main</type>
       <value>limitText(this.form.remarks,this.form.countdown,250);</value>
-      <webElementGuid>1c49f106-b06a-4ebc-8272-e416a30e3947</webElementGuid>
+      <webElementGuid>027120c8-e5c4-4bcf-9e23-edd6741f282d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>b3a77c95-7d54-4e27-93bf-023b64ff98ca</webElementGuid>
+      <webElementGuid>1ac92c20-2b75-421d-a957-5634a670c99f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;remarks&quot;)</value>
-      <webElementGuid>51adae7c-bcd8-44ec-861f-2bda7b08d37e</webElementGuid>
+      <webElementGuid>1019f941-7598-4940-ac18-4632afb1babc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='remarks']</value>
-      <webElementGuid>9e8b3c88-b73e-4504-8341-7b6a08b268a8</webElementGuid>
+      <webElementGuid>3fe07910-a6a2-4aa7-89d7-8602d810c5c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='whiteMid']/div[7]/textarea</value>
-      <webElementGuid>b77161cd-0557-43cb-80d5-d964fa6aacbe</webElementGuid>
+      <webElementGuid>ddf22346-8904-4c9d-b7b6-81213c6cf9d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>067c33a3-cb65-4fd6-bf6d-97f38b55683b</webElementGuid>
+      <webElementGuid>8b96b788-5bc3-409f-898a-d9f09b226c3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@id = 'remarks' and @name = 'remarks']</value>
-      <webElementGuid>292806a0-ba6d-44c0-9987-a09a1ca604b9</webElementGuid>
+      <webElementGuid>b7b00b66-41e3-4ac2-904e-9fc7a5a85bfc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

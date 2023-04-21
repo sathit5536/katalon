@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>87b37e2f-9a48-4d8c-8775-452c52513331</webElementGuid>
+      <webElementGuid>d929f84f-08d1-45d1-b4f3-e08d67179358</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/company/viewManageGroup?itemid=90253</value>
-      <webElementGuid>99ce4de9-cd87-4472-ba8e-11267763ad9a</webElementGuid>
+      <value>/controlLimit/viewManageGroupEDC?itemid=53433</value>
+      <webElementGuid>716a8fbb-438b-4288-9169-8567fab8f34b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>View Details</value>
-      <webElementGuid>84c41a72-ab66-4e5b-b896-25a3d779a0e8</webElementGuid>
+      <webElementGuid>19c79f37-c4d4-42a9-b353-e015ef07553e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;detailBoxWhite&quot;)/div[@class=&quot;floatR&quot;]/a[1]</value>
-      <webElementGuid>81ea389f-012a-493b-a48d-b5c038d08cd8</webElementGuid>
+      <webElementGuid>cd63c414-d919-4b12-a1a6-506f12db8ac9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='detailBoxWhite']/div/a</value>
-      <webElementGuid>15df7dff-7b21-4d73-8726-db6707b79081</webElementGuid>
+      <webElementGuid>de034ca2-90c3-489c-b2ff-acc242f05f1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'View Details')]</value>
-      <webElementGuid>4cf760c0-a4fb-47cc-b777-dcb64b6637c5</webElementGuid>
+      <webElementGuid>6b76ad64-d8ad-47bd-b366-ef4825c24a7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Registered TID/ Total TID'])[1]/following::a[1]</value>
-      <webElementGuid>3cfc9aa0-25e2-48e4-9847-26e92cfcb5b0</webElementGuid>
+      <webElementGuid>76e1b5cb-7e8c-4559-9012-2190a0cbeb60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::a[1]</value>
-      <webElementGuid>2eac4a83-3db3-4b3f-ae48-0ad0d267e69f</webElementGuid>
+      <webElementGuid>272ae1cb-06af-46d5-8b63-fd14b6643b6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,47 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add MID'])[1]/preceding::a[1]</value>
-      <webElementGuid>1b793146-fac1-4e69-adf8-1ae59bd6ef19</webElementGuid>
+      <webElementGuid>7784632f-0553-454a-b840-55f41ae65d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDC'])[1]/preceding::a[2]</value>
+      <webElementGuid>0a85f216-d070-4651-9491-f488b8a4e109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Details']/parent::*</value>
+      <webElementGuid>6a2b31f6-8189-404e-b181-9df0b220e866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/controlLimit/viewManageGroupEDC?itemid=53433')]</value>
+      <webElementGuid>f24004ae-50cb-4e9b-a540-c283e5636c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/a</value>
+      <webElementGuid>718cd4ec-d9e5-4b49-9b32-ae76e827fa7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/controlLimit/viewManageGroupEDC?itemid=53433' and (text() = 'View Details' or . = 'View Details')]</value>
+      <webElementGuid>51ad5add-99c5-4d7b-b372-e93b867bfb2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,14 +199,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Full Payment'])[1]/preceding::a[2]</value>
       <webElementGuid>84331b67-b085-4bdd-9d43-381498842e75</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='View Details']/parent::*</value>
-      <webElementGuid>52e4a145-0f1b-4229-bee8-645f677a7a93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -6,12 +6,12 @@
    <elementGuidId>47ae723b-f6c9-4ac4-9107-aa9e4959a7ee</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.button.btnS.btnDarkGrey</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='barPadding']/div[2]/form/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.btnS.btnDarkGrey</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>7c262bb0-f0a0-4f4c-89a9-95c5dfebce4d</webElementGuid>
+      <webElementGuid>34890f4b-de3d-4633-9e1d-cd9f35a2a41f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:document.displayEditMerchant.submit();</value>
-      <webElementGuid>1aa640a2-2728-428a-b981-81b0d4c40405</webElementGuid>
+      <webElementGuid>fd3a52d3-2f79-4442-a9e1-58aa1ec8acdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button btnS btnDarkGrey</value>
-      <webElementGuid>742f23fc-3fe7-49e7-8f9c-5fc109d71f7a</webElementGuid>
+      <webElementGuid>c9be3ec3-81b6-458a-98a7-57b39478f12f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Edit Company Details</value>
-      <webElementGuid>59d5d7b4-0125-48a5-af72-7383be9c3532</webElementGuid>
+      <webElementGuid>789cb19d-add6-48e4-a56b-1075e1d7c969</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;rightMainContent&quot;)/div[@id=&quot;barPadding&quot;]/div[@class=&quot;floatL paddLR10&quot;]/form[1]/a[@class=&quot;button btnS btnDarkGrey&quot;]</value>
-      <webElementGuid>91f7173c-3661-4c6c-83d4-04e833af4851</webElementGuid>
+      <webElementGuid>25556ada-8b8c-43a8-9d9f-cc1eec385927</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='barPadding']/div[2]/form/a</value>
-      <webElementGuid>7ec26d77-b095-49dc-9896-a7021ec0738e</webElementGuid>
+      <webElementGuid>a5ed6f05-e3a3-48ef-b6a0-feaa9a09b067</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Edit Company Details')]</value>
-      <webElementGuid>a8ed873b-1bfb-4ff9-b821-7514f314df32</webElementGuid>
+      <webElementGuid>0793b4e9-4cd9-4b3e-a285-5ba05d32cb2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Details'])[1]/following::a[1]</value>
-      <webElementGuid>3a1923bf-021d-4f43-86d0-590c26dba098</webElementGuid>
+      <webElementGuid>5d440e62-5ccc-4f68-9083-7afdd5ca8625</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Switch Company'])[1]/following::a[1]</value>
-      <webElementGuid>f34f519d-d780-4a15-acbb-bcf04116e030</webElementGuid>
+      <webElementGuid>df0612a1-322a-4831-abcb-72e37f869840</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Status History >>'])[1]/preceding::a[1]</value>
-      <webElementGuid>1d7655e9-ae34-4fb1-a7c4-442b270ec6d8</webElementGuid>
+      <webElementGuid>61d34a5b-4ff2-44c6-be10-c47a79132f9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Edit Company Details']/parent::*</value>
-      <webElementGuid>c02209fa-6881-40b9-8eb1-c077f3ffeb17</webElementGuid>
+      <webElementGuid>935572a5-0fa5-44be-9d95-45c5a5ab35c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'javascript:document.displayEditMerchant.submit();')]</value>
-      <webElementGuid>ebfba8d0-3eec-4a86-95b4-2752dfa57e93</webElementGuid>
+      <webElementGuid>980c72b7-3817-4f17-bf3f-2df9f8165625</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/a</value>
-      <webElementGuid>303c5780-8cec-4b93-8716-b588aabfbf8b</webElementGuid>
+      <webElementGuid>b0d431a3-46b0-4883-84a6-dd4eb5d50015</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript:document.displayEditMerchant.submit();' and (text() = 'Edit Company Details' or . = 'Edit Company Details')]</value>
-      <webElementGuid>e69dc677-175d-42be-94ac-43d2759ce7c9</webElementGuid>
+      <webElementGuid>c9a03074-748c-45bc-988d-ffbfc733cd29</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

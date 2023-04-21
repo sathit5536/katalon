@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d045e823-6b74-45c1-a352-ff468457489a</webElementGuid>
+      <webElementGuid>56fa63aa-3715-4139-8ae4-1664c5573872</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>midName</value>
-      <webElementGuid>9d787872-f65e-4ad5-b2ee-d962e7c2a162</webElementGuid>
+      <webElementGuid>3c635a43-af71-4aee-91ec-97ddc08cc164</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>midName</value>
-      <webElementGuid>5aebf07d-2dce-4e23-ba62-c1dc499aa48d</webElementGuid>
+      <webElementGuid>eef9e0d0-58d4-4e60-b903-c9c2ef5c320d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>26324d7d-b946-4ee2-8dda-23a968bfff56</webElementGuid>
+      <webElementGuid>fd5a7b6c-ff91-426f-87c3-d95e203aac12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>25</value>
-      <webElementGuid>a4d2161b-688f-460c-9efd-a3161f802f58</webElementGuid>
+      <webElementGuid>889f579f-65d6-48d7-8eec-8c451d001c69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;midName&quot;)</value>
-      <webElementGuid>c10a4df7-a779-4330-bf72-4081dd3d41e5</webElementGuid>
+      <webElementGuid>3ad4607f-27f0-436b-9619-1805df5515c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -134,7 +134,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='midName']</value>
-      <webElementGuid>0a6f34b1-1539-4268-af26-e8b11e1cd5c4</webElementGuid>
+      <webElementGuid>3690fc55-fd70-4ed2-b406-b0e09bddb457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='group']/div[2]/div[5]/input</value>
+      <webElementGuid>140eceb0-f814-4d2f-abf1-70e8830647b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/input</value>
+      <webElementGuid>3f7496a9-742b-421f-aebc-ef09b80024a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'midName' and @type = 'text']</value>
+      <webElementGuid>40dcadcb-b3e4-471d-b4d6-2c3bf6d3a2be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,21 +167,5 @@
       <type>Main</type>
       <value>//div[@id='group']/div[5]/div[5]/input</value>
       <webElementGuid>a3e72b18-18a8-400e-8341-5f3e289288a9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[5]/input</value>
-      <webElementGuid>43d72249-a983-4a72-81c5-9f07a806f020</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@id = 'midName' and @type = 'text']</value>
-      <webElementGuid>59ec4deb-9ebf-43c2-a5dd-dde6380a4a5d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
