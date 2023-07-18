@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ok (1)</name>
+   <tag></tag>
+   <elementGuidId>0cbe3ff5-51e2-430c-96b8-975fd04fb2d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.btnL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popupAutoResize']/div[4]/form/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>098a9d26-226e-409e-a9e4-ac62571ef72e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button btnL</value>
+      <webElementGuid>47d303bf-c3e8-4ad3-984a-c5a983f9b39f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:parent.jQuery.fancybox.close(); javascript:document.closeDelinkResult.submit();</value>
+      <webElementGuid>210853d0-09c4-40b2-8923-2a77f18d71ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ok</value>
+      <webElementGuid>008a9109-6819-4413-9cb8-d4a3c6c66bcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popupAutoResize&quot;)/div[@class=&quot;popupButton&quot;]/form[1]/a[@class=&quot;button btnL&quot;]</value>
+      <webElementGuid>6581eb66-5898-4368-a599-2bb0cbeb5384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Reader DetailsKasikornbank/iframe_concat(id(, , fancybox-frame16849242_22aaf0</value>
+      <webElementGuid>37c4b485-3122-4f53-9db8-98d6eed31f47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popupAutoResize']/div[4]/form/a</value>
+      <webElementGuid>bfd61ae8-ae88-4873-8d9a-7a772ed4361a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Ok')]</value>
+      <webElementGuid>16eccec0-de8c-4538-8aff-921351b0b095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ok']/parent::*</value>
+      <webElementGuid>5f9fccc5-9a81-41ac-afbe-90f75774ac33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:parent.jQuery.fancybox.close(); javascript:document.closeDelinkResult.submit();')]</value>
+      <webElementGuid>3e208b9c-087c-4bec-8fb1-8a791bcb05a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>34a2c19f-58d6-46ff-a14e-4b4dba2556b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:parent.jQuery.fancybox.close(); javascript:document.closeDelinkResult.submit();' and (text() = 'Ok' or . = 'Ok')]</value>
+      <webElementGuid>4d01b80b-6e37-4d6d-a2a4-813f018cdbfc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

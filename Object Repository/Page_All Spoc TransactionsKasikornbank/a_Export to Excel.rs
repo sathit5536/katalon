@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Export to Excel</name>
+   <tag></tag>
+   <elementGuidId>b43f3744-55a1-403b-8e4f-390b64ec83e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick=''])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.btnL.exportExcel</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f22341dc-25f0-4879-b757-33d189e836ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button btnL exportExcel</value>
+      <webElementGuid>1e89ed3e-1717-4874-80d6-c339e7c2d442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/spocTransaction/exportExcel</value>
+      <webElementGuid>3aac44d9-64cc-458f-b938-a083f64f84ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Export to Excel</value>
+      <webElementGuid>8cbb82e7-8d44-4358-b44b-bd436a5a6430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paddCSV&quot;)/div[@id=&quot;beigeMid&quot;]/div[@class=&quot;textCenter&quot;]/a[@class=&quot;button btnL exportExcel&quot;]</value>
+      <webElementGuid>5961f24b-55f9-4f02-be76-1516792c8e0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@onclick=''])[2]</value>
+      <webElementGuid>965ab596-6ffa-424e-ae8e-b9643e093656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='beigeMid']/div/a[2]</value>
+      <webElementGuid>4adb498f-9e7b-473a-ae13-afaf1b67598d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Export to Excel')]</value>
+      <webElementGuid>b46c604a-a824-4e8b-b791-b8fd18aaa966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export CSV files'])[1]/following::a[1]</value>
+      <webElementGuid>90a85ce9-cfe1-4367-8d86-c01b179b60c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unsuccessful Transaction'])[1]/following::a[2]</value>
+      <webElementGuid>bd463c71-8ea0-47af-a715-ec8367fa21d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Spoc Transactions'])[1]/preceding::a[1]</value>
+      <webElementGuid>55d19b8c-f475-4f60-a8c8-8e241400768d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MID'])[1]/preceding::a[1]</value>
+      <webElementGuid>632a288e-919e-4c88-ab42-58bfd19aa20b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Export to Excel']/parent::*</value>
+      <webElementGuid>fc18cc5c-e077-40f6-8334-5a108166c77f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/spocTransaction/exportExcel')]</value>
+      <webElementGuid>82813b32-3ecb-454e-9a40-b678c7ebee93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>10b655a6-410a-4ea2-989b-a67ebee2dde3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/spocTransaction/exportExcel' and (text() = 'Export to Excel' or . = 'Export to Excel')]</value>
+      <webElementGuid>7405682c-3acd-4807-97f9-60d6702271b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

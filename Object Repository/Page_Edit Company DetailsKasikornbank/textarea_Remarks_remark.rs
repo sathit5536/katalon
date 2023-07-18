@@ -6,12 +6,12 @@
    <elementGuidId>1f6a1462-c71a-455f-b9ee-10b7f79bf607</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//textarea[@id='remark']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#remark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@id='remark']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>ee9061bf-a5d3-4882-888f-7b7a69d9021b</webElementGuid>
+      <webElementGuid>5213b211-c572-4aee-9045-8fa0d82ff101</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>remark</value>
-      <webElementGuid>76aa7bd7-465b-4f62-b4e9-8be6b455fe12</webElementGuid>
+      <webElementGuid>8fda5866-41ef-4e32-aeeb-9eff9ca55864</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
       <value>remark</value>
-      <webElementGuid>e03456e1-f3ef-410b-90ce-ec4464b2531d</webElementGuid>
+      <webElementGuid>c8b1c5c3-d7e7-460d-816e-5529d293f649</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>250</value>
-      <webElementGuid>51ed7523-a116-4766-a784-aa18735d59a6</webElementGuid>
+      <webElementGuid>e027c7a0-3fe2-4106-a409-6503f1344a6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>onkeydown</name>
       <type>Main</type>
       <value>limitText(this.form.remark,this.form.countdown,250);</value>
-      <webElementGuid>2bc9706a-67e1-4744-8672-5b764f9963ce</webElementGuid>
+      <webElementGuid>0b2aaa18-22c1-4f50-adc8-2e7c55f0ab92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>onkeyup</name>
       <type>Main</type>
       <value>limitText(this.form.remark,this.form.countdown,250);</value>
-      <webElementGuid>4374929b-f849-4cf7-8366-a740741df076</webElementGuid>
+      <webElementGuid>0b5feff0-27eb-4036-a15f-ad979bf87392</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>6310f028-e745-4f6e-87d9-4a706ac1eb2f</webElementGuid>
+      <webElementGuid>c9334733-fd17-4a61-841b-2ccca53e1b8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;remark&quot;)</value>
-      <webElementGuid>5b528766-570b-4186-a6f4-803fb23fa4e8</webElementGuid>
+      <webElementGuid>e52252f8-1d4f-4c26-b719-552e0b32e7bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -214,7 +214,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='remark']</value>
-      <webElementGuid>de4466b2-195a-4770-92ec-badbd0ef5b2b</webElementGuid>
+      <webElementGuid>cf711965-72cb-43e4-92ab-643e1ffb0024</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -222,7 +222,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='whiteMid']/div[24]/textarea</value>
-      <webElementGuid>56064230-85a0-44cd-acb6-8e817e0815e8</webElementGuid>
+      <webElementGuid>c5b98778-c8e4-482f-8824-af17b2917721</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -230,7 +230,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>63db993f-9a1c-4625-bdc5-81c35b86ba5b</webElementGuid>
+      <webElementGuid>84b1fee2-d327-4fde-9348-3ece2938b3b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -238,7 +238,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@id = 'remark' and @name = 'remark']</value>
-      <webElementGuid>89f19662-14eb-4bcc-83d0-7d9589fa635b</webElementGuid>
+      <webElementGuid>b39a0daf-2329-4bc3-8f93-653be427cb93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -246,7 +246,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='whiteMid']/div[32]/textarea</value>
-      <webElementGuid>6e1ca00a-9be2-4a7d-9818-7612a0f1f889</webElementGuid>
+      <webElementGuid>2dc8411f-29c6-48ba-a187-335cc5bc96c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -254,7 +254,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='whiteMid']/div[20]/textarea</value>
-      <webElementGuid>ab66e555-50a4-4dd9-99c2-14f353321c4c</webElementGuid>
+      <webElementGuid>d46aebb1-7169-4ae6-a445-b68624929267</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -262,7 +262,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='whiteMid']/div[4]/textarea</value>
-      <webElementGuid>3cb91bf8-d9e9-400e-9d9e-a5f4aa1ff740</webElementGuid>
+      <webElementGuid>8f4d0885-09fb-4620-8eaf-a3f03d253b24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -270,6 +270,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='whiteMid']/div[44]/textarea</value>
-      <webElementGuid>01f13a12-05fd-4348-9cc0-7811bdb807a0</webElementGuid>
+      <webElementGuid>4d13823b-7244-4733-93ae-7bbe0945d296</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>324ddaad-a72d-4f4e-ad6e-7a9e3b6af24f</webElementGuid>
+      <webElementGuid>456b6897-b43a-4214-922e-a0b6a01160dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value>กรุณาใส่จำนวนเงินหรือย้อนกลับ</value>
-      <webElementGuid>0cfadfef-0dc7-4a96-ac3b-e02ef76e5ec7</webElementGuid>
+      <webElementGuid>68701a04-86b2-4b92-96ed-42468cff9cf2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tempPerMonthError&quot;)/span[1]</value>
-      <webElementGuid>3061c910-74e2-425e-8396-9f03468acdd6</webElementGuid>
+      <webElementGuid>e56ea64e-0392-4e50-abb7-6c3e1f2be305</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -238,7 +238,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='tempPerMonthError']/span</value>
-      <webElementGuid>8f40ba05-c65e-4c08-a004-e04c6260e365</webElementGuid>
+      <webElementGuid>b0a3d252-1b7b-4732-a1f1-b178aa383c2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -246,7 +246,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Temporary Limit Per Month:'])[1]/following::span[1]</value>
-      <webElementGuid>fd8374ee-2419-4928-a9bd-41dd1ec75fa4</webElementGuid>
+      <webElementGuid>3bb9c6b3-05d6-4fac-9ae6-c5377dca4ae5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -254,7 +254,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Expire Date Temporary Per Month:'])[1]/preceding::span[1]</value>
-      <webElementGuid>93c38b0b-d9d2-47c6-b536-817be1e51c74</webElementGuid>
+      <webElementGuid>184d4237-4d9c-4718-b230-b860a56b8a83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -262,7 +262,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Remarks'])[2]/preceding::span[3]</value>
-      <webElementGuid>c2ecb533-d09b-416d-97a5-60b33c62f0ff</webElementGuid>
+      <webElementGuid>5eb679e9-b98e-4fcd-b28a-6c7552124fb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -270,7 +270,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='กรุณาใส่จำนวนเงินหรือย้อนกลับ']/parent::*</value>
-      <webElementGuid>a366752f-9702-46d1-a85a-0929bc04e303</webElementGuid>
+      <webElementGuid>461c330c-cb89-4a65-95d2-a3a9f209bfe5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -278,7 +278,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/span</value>
-      <webElementGuid>e33decbe-19d6-48d9-b6f6-418842529bcb</webElementGuid>
+      <webElementGuid>c4289641-9d08-4905-a8ca-7aad37f0cef8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -286,6 +286,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'กรุณาใส่จำนวนเงินหรือย้อนกลับ' or . = 'กรุณาใส่จำนวนเงินหรือย้อนกลับ')]</value>
-      <webElementGuid>977c6f37-e88f-4ad8-875c-ccfe293fbf9c</webElementGuid>
+      <webElementGuid>f2931d76-ca03-49c5-af0f-e5c91436c674</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

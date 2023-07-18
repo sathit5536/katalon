@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>63f7c13b-3ad8-417a-8c4f-2df2ef00b3f4</webElementGuid>
+      <webElementGuid>00c38ec3-1066-4caf-af9f-693644e0c92d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>submitThis</value>
-      <webElementGuid>3c881956-03b4-4d2a-a6da-50fbf70beb60</webElementGuid>
+      <webElementGuid>b8e5c1c4-51c8-4f51-b224-1571be4e3d4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button btnL</value>
-      <webElementGuid>662660ea-e0b7-4b40-8cd9-f257fe6781f2</webElementGuid>
+      <webElementGuid>78e05142-e799-4189-8a42-64d4905a1166</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Confirm</value>
-      <webElementGuid>30abc466-e949-4cee-814d-6f99be17aa52</webElementGuid>
+      <webElementGuid>181fa74d-7b2d-4ccd-aa1a-156fbfa0647e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;submitThis&quot;)</value>
-      <webElementGuid>f745eda5-8074-4af8-870c-cb0156a3ab65</webElementGuid>
+      <webElementGuid>c61c92f4-c320-43d6-a8d8-1a434b6d56cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='submitThis']</value>
-      <webElementGuid>713d3d58-d324-4d0f-92c7-84cd74314101</webElementGuid>
+      <webElementGuid>2068289c-d3a1-4600-9e61-b112180e46fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ctaMid']/a[2]</value>
-      <webElementGuid>b538ee4d-ff51-438a-a019-3c37f1afe4b9</webElementGuid>
+      <webElementGuid>fdfb3ed2-da05-4d7b-8d8b-f469fcc031e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Confirm')]</value>
-      <webElementGuid>249238d8-87b2-45ee-85b3-91cf4e4c7706</webElementGuid>
+      <webElementGuid>cd46612d-c09f-4a0a-91df-b2710d9347d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::a[1]</value>
-      <webElementGuid>aa67c6f1-3fa5-41a8-84d4-54b8bf71ced5</webElementGuid>
+      <webElementGuid>c11bc81c-1a01-4ea3-b921-0e3b5f2d2113</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/preceding::a[1]</value>
-      <webElementGuid>2a49bc68-ee4a-4bf0-8ffc-73cd6834a861</webElementGuid>
+      <webElementGuid>0038a395-4f81-4432-a8cf-404d1eb82d04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,7 +182,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::a[2]</value>
-      <webElementGuid>61ac0d82-fbfd-4c6d-ab84-28db37b93b5b</webElementGuid>
+      <webElementGuid>9dbeb520-7fec-41a4-90fa-71b4ab3c4478</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,7 +190,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Confirm']/parent::*</value>
-      <webElementGuid>f0b82c73-9c95-4ea0-a043-acb43a37ba31</webElementGuid>
+      <webElementGuid>f1b7a66f-a1fa-4911-9048-92c323aabfdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -198,7 +198,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
-      <webElementGuid>64c0fa3a-7b55-493f-8ac2-994732d2fbe6</webElementGuid>
+      <webElementGuid>70e743a8-a5f6-47cf-8483-f63495f6b6e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -206,7 +206,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'submitThis' and (text() = 'Confirm' or . = 'Confirm')]</value>
-      <webElementGuid>fd63eac7-6747-4745-9ac4-371bebcd206e</webElementGuid>
+      <webElementGuid>6b8d52b5-b9e2-4f20-8c2f-b965b0ab00dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

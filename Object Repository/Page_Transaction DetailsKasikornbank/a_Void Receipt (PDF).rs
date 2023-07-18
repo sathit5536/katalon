@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Void Receipt (PDF)</name>
+   <tag></tag>
+   <elementGuidId>3ff47041-b311-46c7-b458-ca317c6590bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='beigeMid']/div/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>752cd980-2e82-4867-8510-00ea9889277a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>922f3821-0a55-4f96-8af2-0d244098e52f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>getItemReceipt?itemid=4832463&amp;type=void</value>
+      <webElementGuid>a7794b61-f541-4b4c-967d-23614b104e54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Void Receipt (PDF)</value>
+      <webElementGuid>4233e1b4-76b8-46e3-99ac-e83adff242e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightMainContent&quot;)/div[@id=&quot;barPadding&quot;]/div[@id=&quot;beigeMid&quot;]/div[@class=&quot;floatR&quot;]/a[@class=&quot;button&quot;]</value>
+      <webElementGuid>ce1fbc80-2871-4f8c-bdf6-e7a7e92b8dec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='beigeMid']/div/a[3]</value>
+      <webElementGuid>fbdeee8d-c112-4c55-9420-fd7efdb03dcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Void Receipt (PDF)')]</value>
+      <webElementGuid>45a3de69-669c-4004-a2e1-ae3796af24db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Receipt (PDF)'])[1]/following::a[1]</value>
+      <webElementGuid>03dfc18a-6519-4ae1-92a7-9b5a03ee14df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merchant Receipt (PDF)'])[1]/following::a[2]</value>
+      <webElementGuid>11a9105c-d22e-449f-9ed3-f7b8becea96f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/preceding::a[1]</value>
+      <webElementGuid>e99236eb-7118-418e-b7ee-2540e5caa443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::a[2]</value>
+      <webElementGuid>8ef87abe-1a34-4fa6-b0e5-56c94cbdc7a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Void Receipt (PDF)']/parent::*</value>
+      <webElementGuid>a4719d52-3394-43bf-8b25-bc4577593203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'getItemReceipt?itemid=4832463&amp;type=void')]</value>
+      <webElementGuid>5755253d-701e-43e4-a058-32b67afe291c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>9be28bdc-31a8-4cd1-bf19-11cbc8ffa73c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'getItemReceipt?itemid=4832463&amp;type=void' and (text() = 'Void Receipt (PDF)' or . = 'Void Receipt (PDF)')]</value>
+      <webElementGuid>27f80140-6528-41cf-bf67-8c29948202d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

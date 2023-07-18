@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Response Description  SUCCESS</name>
+   <tag></tag>
+   <elementGuidId>0e3a34fe-ce7d-4d69-9867-59438976478f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popupAutoResize']/div[2]/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3a84e996-b00f-49fe-8ecd-5808ce746d0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popupPaddL5</value>
+      <webElementGuid>028c01c2-932e-418d-90e1-441b70fe07c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Response Description : SUCCESS.</value>
+      <webElementGuid>28efd388-6d79-41e6-b015-858497e1b78e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popupAutoResize&quot;)/div[@class=&quot;popupContent&quot;]/p[@class=&quot;popupPaddL5&quot;]</value>
+      <webElementGuid>adfcd1c9-0521-4e7d-af30-3081046527de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Reader DetailsKasikornbank/iframe_concat(id(, , fancybox-frame16849242_22aaf0</value>
+      <webElementGuid>d241db3c-28d2-4adb-8020-931144e47274</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popupAutoResize']/div[2]/p[2]</value>
+      <webElementGuid>add62403-c2fd-4090-b7f3-e15626fd0445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[1]/preceding::p[1]</value>
+      <webElementGuid>6bbc5ce9-b12d-41a1-8e6d-2a900d1fff74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Response Description : SUCCESS.']/parent::*</value>
+      <webElementGuid>e665b977-d3f7-4e58-984b-aa79f9421fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>1bb3eecb-f7b7-4ee0-a701-bcb76da53967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Response Description : SUCCESS.' or . = 'Response Description : SUCCESS.')]</value>
+      <webElementGuid>33492f35-a43a-430e-a515-3f0e8776d2ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

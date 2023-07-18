@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9e56a76c-95d7-4281-988f-20d2068b8cd1</webElementGuid>
+      <webElementGuid>7a857f6e-504b-4222-889e-d38ed25d498e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>93a6a298-48a2-43e3-b25d-170a5cd4f65f</webElementGuid>
+      <webElementGuid>0357ac95-d4e3-4bbd-b991-2e352736f601</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>datepickerAddTemporaryPerTransactionStartDate</value>
-      <webElementGuid>d1118c4a-f741-4c7b-831d-feb625589bd7</webElementGuid>
+      <webElementGuid>4400bb8c-ab14-4b04-ae0f-04318a8ea639</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>datepickerAddTemporaryPerTransactionStartDate</value>
-      <webElementGuid>46fb232e-31e3-49cb-8715-15cff2fafffc</webElementGuid>
+      <webElementGuid>d76ef521-55a3-4804-92bf-ce8a4700767d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>filterDate white hasDatepicker</value>
-      <webElementGuid>032cd007-02a3-4c87-98c7-961260e6d34a</webElementGuid>
+      <webElementGuid>34ef4169-397f-4b95-8d03-2ef0318dcbf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Start date</value>
-      <webElementGuid>8c707ca4-2a7a-46e1-8aec-a7a1c67db716</webElementGuid>
+      <webElementGuid>bbeefe28-66b1-4daf-a35e-4e6440cf7857</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;datepickerAddTemporaryPerTransactionStartDate&quot;)</value>
-      <webElementGuid>0d910c95-aa1e-42d9-8f0d-d585c51d109b</webElementGuid>
+      <webElementGuid>b7114663-4725-43ac-aae9-6d99d22368b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>8be62c2c-fd70-4db2-b30b-f948d39b0d9f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='datepickerAddTemporaryPerTransactionStartDate']</value>
-      <webElementGuid>09fd6908-9395-4590-9c9f-6c31d44b5a31</webElementGuid>
+      <webElementGuid>7a7131af-cc07-4b3c-89e4-95065c32400b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='temporaryPerTransaction']/div[2]/input</value>
-      <webElementGuid>235a26d8-1c73-49f3-8f6f-5d2c2f7bef35</webElementGuid>
+      <webElementGuid>f66fc56c-c97c-4a79-bb12-e78ec756839b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/input</value>
-      <webElementGuid>6fd5d34d-f5a0-47a3-9905-8342e73e3154</webElementGuid>
+      <webElementGuid>c3086e8a-8cc5-428a-a4ba-52cd57b3091b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'datepickerAddTemporaryPerTransactionStartDate' and @id = 'datepickerAddTemporaryPerTransactionStartDate']</value>
-      <webElementGuid>e5f30c89-ec63-44b5-b51b-9bf6dd093aee</webElementGuid>
+      <webElementGuid>c3e888b1-6065-4bed-bcd0-10c63df3b39c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

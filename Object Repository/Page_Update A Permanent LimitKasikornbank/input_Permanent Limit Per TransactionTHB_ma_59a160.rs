@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7e79d49e-f3e6-4619-a3c7-995ea51cf963</webElementGuid>
+      <webElementGuid>457b6771-31cd-471c-ad73-75bfe22282c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>maxAmountEDCPerTransac</value>
-      <webElementGuid>6e13eb5b-4f3a-4980-9ec7-81f7e13e1107</webElementGuid>
+      <webElementGuid>06df728b-a45d-4302-af80-2e04c99db8c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>maxAmountEDCPerTransac</value>
-      <webElementGuid>3782c38b-a8c1-4de8-a446-d7782e670e6b</webElementGuid>
+      <webElementGuid>f00a2558-b322-4e0d-a619-d6b212abba53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>cfe17eba-72fd-4241-b5d3-e92391137996</webElementGuid>
+      <webElementGuid>1ba681ec-17ab-453c-80ea-6b1bc6d1c0ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>9</value>
-      <webElementGuid>d507a8e3-0e22-46b8-bed8-76f64714c353</webElementGuid>
+      <webElementGuid>51183988-db20-440b-b418-8e2955cba932</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>cbacaae4-0cad-4360-af2f-14bdf4dc8b6e</webElementGuid>
+      <webElementGuid>ab3d37c6-c73a-48d7-8c9e-07656c0e9633</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;maxAmountEDCPerTransac&quot;)</value>
-      <webElementGuid>09906b50-427c-47e2-abe0-ac698ca5af3a</webElementGuid>
+      <webElementGuid>eb408447-9e88-424a-af69-f4d404dd6561</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='maxAmountEDCPerTransac']</value>
-      <webElementGuid>6301e104-3049-4feb-901e-1e0d6994a83a</webElementGuid>
+      <webElementGuid>1d2d9816-89b7-4bec-8b4a-c1d1ef5cbca9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='group']/div[2]/div[23]/input</value>
-      <webElementGuid>a5d0d2d5-128b-4202-a51f-4b5461f2c9b3</webElementGuid>
+      <webElementGuid>b765d5f8-04a1-4af0-8d4e-e56018afb5f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[23]/input</value>
-      <webElementGuid>76691b41-66b6-4514-a95f-2d50b58edacb</webElementGuid>
+      <webElementGuid>e7515913-b12d-4d5a-b24f-c15a1a6e2e0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'maxAmountEDCPerTransac' and @name = 'maxAmountEDCPerTransac' and @type = 'text']</value>
-      <webElementGuid>50339a8d-8443-4ed4-a38d-94a934a67ba6</webElementGuid>
+      <webElementGuid>96911559-9671-4c36-a6e8-36236351865a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

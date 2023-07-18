@@ -6,12 +6,12 @@
    <elementGuidId>2df72fef-01b1-4b9b-af94-406553ffcbcd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.button.btnL.btnDarkGrey</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@onclick=&quot;$(this).parents('form').submit();&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.btnL.btnDarkGrey</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b98c68ee-396d-401c-baf4-b1c65c73dcfe</webElementGuid>
+      <webElementGuid>83e061a2-bf53-41b3-a31a-b8dbc775a83d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button btnL btnDarkGrey</value>
-      <webElementGuid>91ae688d-0199-4f63-8f9d-b8ad6eddc764</webElementGuid>
+      <webElementGuid>1b8fe034-cb70-4146-956b-47b4ecfb7550</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0)</value>
-      <webElementGuid>99f9295c-7b56-4c1a-b37f-78c708db2eb6</webElementGuid>
+      <webElementGuid>c4d4c5d8-123e-403d-ad89-2ee858032242</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>$(this).parents('form').submit();</value>
-      <webElementGuid>999929d9-6f9c-4fe3-abb8-555d851816a7</webElementGuid>
+      <webElementGuid>927113d4-f95b-4029-b107-d659c5af462c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -56,15 +56,15 @@
       <value>
 					Search
 				</value>
-      <webElementGuid>53c62a53-fec3-40f6-b1ad-5f48b333bfd6</webElementGuid>
+      <webElementGuid>fa1b40ba-33f0-424e-aab4-974774c75591</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;beigeMid&quot;)/form[1]/div[@class=&quot;searchFR&quot;]/a[@class=&quot;button btnL btnDarkGrey&quot;]</value>
-      <webElementGuid>f1aaf758-644e-463f-97bc-ebd5a5a11555</webElementGuid>
+      <value>id(&quot;rightMainContent&quot;)/div[@id=&quot;barPadding&quot;]/div[@id=&quot;beigeMid&quot;]/form[1]/div[@class=&quot;searchFR&quot;]/a[@class=&quot;button btnL btnDarkGrey&quot;]</value>
+      <webElementGuid>4316fca1-d15e-4e63-9b9c-4dd1daf66f05</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@onclick=&quot;$(this).parents('form').submit();&quot;]</value>
-      <webElementGuid>cf649a58-7501-436b-bcb3-81210cf5a429</webElementGuid>
+      <webElementGuid>aef092f0-a84a-41b4-8ede-d4581507c849</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='beigeMid']/form/div/a</value>
-      <webElementGuid>5f9db80e-cf3a-4689-8a4d-5573745743a4</webElementGuid>
+      <webElementGuid>0b0b1ca5-b42a-4cfa-a9f5-f54a85448f06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,75 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Search')]</value>
-      <webElementGuid>a10d972b-61ed-4b18-8946-240a26120af6</webElementGuid>
+      <webElementGuid>50209d3e-0336-4c55-9201-4c043687bc75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='K SHOP Terminal Summary'])[1]/following::a[1]</value>
+      <webElementGuid>16653b9a-4137-4a70-9a8c-32600dafad21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='K SHOP Staff Summary'])[1]/following::a[2]</value>
+      <webElementGuid>853fcd3f-1729-469a-b03c-2a7afeafe23c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export CSV files'])[1]/preceding::a[1]</value>
+      <webElementGuid>92aa8dbb-b81d-4a4e-b9f4-283e9a1489cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Results'])[1]/preceding::a[2]</value>
+      <webElementGuid>9f060ffd-540d-4136-aafb-ed3122cc90c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
+      <webElementGuid>eb47dad9-6c3a-4194-8a0c-259f37fe9524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:void(0)')]</value>
+      <webElementGuid>a51402c1-0249-431a-b2d6-46f2652b1127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/a</value>
+      <webElementGuid>ee1dc143-c0a1-4017-9934-dd1d8593502e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = '
+					Search
+				' or . = '
+					Search
+				')]</value>
+      <webElementGuid>cbf559b7-4651-4c6f-af0f-50629b95b493</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,41 +181,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Results'])[1]/preceding::a[1]</value>
       <webElementGuid>24b56ea3-f809-472d-bd8f-97470265b49c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
-      <webElementGuid>fd4450ea-bf59-4991-bd48-59d0970caf6d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, 'javascript:void(0)')]</value>
-      <webElementGuid>1ab28d11-7c4a-45d4-ac0d-9544badec8db</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//form/div/a</value>
-      <webElementGuid>60072a76-e092-471d-848e-32bd2fafd71b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[@href = 'javascript:void(0)' and (text() = '
-					Search
-				' or . = '
-					Search
-				')]</value>
-      <webElementGuid>02580418-6894-419a-be76-0baabe648f6c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Export CSV files</name>
+   <tag></tag>
+   <elementGuidId>1c8e4e7b-485e-43e8-9d78-124f69652518</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.btnL.exportCsv</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2f204946-315c-4dbb-9f4e-56209046e28c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button btnL exportCsv</value>
+      <webElementGuid>35ff235a-1a16-4a9c-8477-f149a7e2c10a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/transaction/exportCSV</value>
+      <webElementGuid>ea44a2c4-7a5c-4324-bf33-6b1e509be712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Export CSV files</value>
+      <webElementGuid>b873817d-bb02-45b3-b613-486b18bb7b12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paddCSV&quot;)/div[@id=&quot;beigeMid&quot;]/div[@class=&quot;textCenter&quot;]/a[@class=&quot;button btnL exportCsv&quot;]</value>
+      <webElementGuid>36a709c4-f266-44a3-89c1-cd3ffa9b43ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='']</value>
+      <webElementGuid>3c806c13-a62c-4f8a-a740-9478e379c172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='beigeMid']/div/a</value>
+      <webElementGuid>6fd04598-3fb2-462e-98e8-7887a7417ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Export CSV files')]</value>
+      <webElementGuid>91bd69f7-c0cb-4a94-a7c5-bf85c76b682f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unsuccessful Transaction'])[1]/following::a[1]</value>
+      <webElementGuid>91f5efd6-f3b4-47c4-baf5-d73b97e32843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unsuccessful Transaction (EDC)'])[1]/following::a[2]</value>
+      <webElementGuid>1ffb256a-d811-4fed-b168-0592209597eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export to Excel'])[1]/preceding::a[1]</value>
+      <webElementGuid>ae857d4c-a370-44a8-a0bb-118024e43f5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Transactions'])[1]/preceding::a[2]</value>
+      <webElementGuid>dfe98f7f-05de-4b5e-8bd5-2081becbd1c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Export CSV files']/parent::*</value>
+      <webElementGuid>6afb1dc5-a3a6-4a24-b6ac-4f9e3682b354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/transaction/exportCSV')]</value>
+      <webElementGuid>10e627ef-705f-4eb8-bdfd-ce7bfab0acf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div[2]/div/a</value>
+      <webElementGuid>7dc0e1ec-c61a-42b8-8388-2c94ac621456</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/transaction/exportCSV' and (text() = 'Export CSV files' or . = 'Export CSV files')]</value>
+      <webElementGuid>e04936dc-89ab-4951-9aa7-98890f2c493d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

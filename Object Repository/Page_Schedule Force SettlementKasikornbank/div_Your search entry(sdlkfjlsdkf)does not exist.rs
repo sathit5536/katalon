@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Your search entry(sdlkfjlsdkf)does not exist</name>
+   <tag></tag>
+   <elementGuidId>fe5fc0c0-9889-4743-ae1e-daac4e50cefc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#noRecordMsg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='noRecordMsg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e18b79ef-0669-43b7-b5c4-9219e50b91f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>noRecordMsg</value>
+      <webElementGuid>8805f3ea-76bd-42ad-aa99-d1aaefb55381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>txt20</value>
+      <webElementGuid>f0a60cf3-6f66-431d-842f-4b5c06e383e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				Your search entry (sdlkfjlsdkf) does not exist.
+				</value>
+      <webElementGuid>29011e48-64d1-4a48-877c-c2ba831f1f1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noRecordMsg&quot;)</value>
+      <webElementGuid>ff79ecbf-3788-4631-8727-f583e40ce3e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='noRecordMsg']</value>
+      <webElementGuid>6a42e28b-976d-491e-b8e8-bd3e1d3886a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='whiteMid']/div)[4]</value>
+      <webElementGuid>393add67-34a7-4908-8f4c-12634b4f52d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Results'])[1]/following::div[8]</value>
+      <webElementGuid>20ce60df-7a3a-48d7-9bbf-34ce3db006d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/following::div[11]</value>
+      <webElementGuid>308d1698-f67b-4f41-9072-522eacc71ef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/preceding::div[4]</value>
+      <webElementGuid>9b028cfb-e42b-4abf-825e-3573936e9a24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div</value>
+      <webElementGuid>1b0f3d3b-3017-4033-acfd-4c2954606553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'noRecordMsg' and (text() = '
+				Your search entry (sdlkfjlsdkf) does not exist.
+				' or . = '
+				Your search entry (sdlkfjlsdkf) does not exist.
+				')]</value>
+      <webElementGuid>0958745b-b1da-4e6d-9c4a-922c7fa49b6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

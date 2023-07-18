@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View StaffDetails</name>
+   <tag></tag>
+   <elementGuidId>23612f75-8e08-4e3a-935c-9f3f39e19d08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.btnL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='beigeMid']/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>09c9a939-bcd3-4db7-83fb-5874487464e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button btnL</value>
+      <webElementGuid>c3bfe8aa-ab60-4310-a3f7-3b16df998dad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>details?itemid=149462</value>
+      <webElementGuid>fc720e26-7735-456b-bf5e-a00b870e1221</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View StaffDetails</value>
+      <webElementGuid>30e0abf4-bfcc-4814-982c-ef425f7bb34c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;beigeMid&quot;)/div[@class=&quot;whatUShouldDo&quot;]/div[@class=&quot;buttonSet&quot;]/div[@class=&quot;viewDetailBtn&quot;]/a[@class=&quot;button btnL&quot;]</value>
+      <webElementGuid>d25fb3db-7140-4a67-a3de-e31950515c3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='beigeMid']/div/div/div/a</value>
+      <webElementGuid>93e3977e-2b39-4755-90b8-9232ca4262dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testautomate'])[1]/following::a[1]</value>
+      <webElementGuid>35d94da2-55a0-488f-a1c5-780867e15595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Staff Name'])[1]/following::a[1]</value>
+      <webElementGuid>b839ba2e-1c64-4b5b-9491-c80bc5c28c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print'])[1]/preceding::a[1]</value>
+      <webElementGuid>f6a134cd-3c9f-445b-8967-0403c3c721d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email (PDF)'])[1]/preceding::a[2]</value>
+      <webElementGuid>5ca39667-a6ff-4603-aba6-b8f62b74fd8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Staff']/parent::*</value>
+      <webElementGuid>b448caea-bfd7-4360-a49c-79187290bbc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'details?itemid=149462')]</value>
+      <webElementGuid>c6319aa1-2671-4974-bf20-1948195e54a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div/div/a</value>
+      <webElementGuid>0829691d-e763-41d9-ac0e-c370cf32e6b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'details?itemid=149462' and (text() = 'View StaffDetails' or . = 'View StaffDetails')]</value>
+      <webElementGuid>f473d743-9ff1-4f66-99da-35512f15190f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

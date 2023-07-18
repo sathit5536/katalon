@@ -6,12 +6,12 @@
    <elementGuidId>b4ad9a41-b523-4d7a-86a4-604dcdb4bd89</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='tempPerTranStartDate']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#tempPerTranStartDate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='tempPerTranStartDate']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>93cf4c59-aa73-4d5e-88e5-2bcbff926b51</webElementGuid>
+      <webElementGuid>be7f5e56-a0e4-4172-82a7-d3f8793c4043</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>4de5c059-abf8-4b22-97db-aa661640de2b</webElementGuid>
+      <webElementGuid>0133e0ad-f7a7-4281-97c5-3f89604e299f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>tempPerTranStartDate</value>
-      <webElementGuid>f82ea2ec-faa4-4709-b1b7-f614ea840437</webElementGuid>
+      <webElementGuid>f9d253f6-aec9-4814-b8b2-b824ad8af9f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>tempPerTranStartDate</value>
-      <webElementGuid>a2a0abc8-705d-44e4-9e60-ab47f6ca17ff</webElementGuid>
+      <webElementGuid>e593aae3-fed0-4c34-b23b-8c12e07fcc21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>filterDate white hasDatepicker</value>
-      <webElementGuid>8f52c556-7ee6-41cc-85b8-57280f65bfb7</webElementGuid>
+      <webElementGuid>fc41d5cc-d97d-474b-bdb3-bfc903e3d532</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Start date</value>
-      <webElementGuid>0cbb46e6-3e12-42df-a3db-2f0d20ffa399</webElementGuid>
+      <webElementGuid>1fb8f82f-1472-4b2c-afc0-3818f209d3a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>16de7d9f-68df-4969-97ab-4766fab66668</webElementGuid>
+      <webElementGuid>ad9fa032-2537-4b6e-bc3b-285592345dff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tempPerTranStartDate&quot;)</value>
-      <webElementGuid>e64ab064-52c5-4125-a2ee-a29d323a7f8e</webElementGuid>
+      <webElementGuid>4b23a282-973a-4ce3-ade0-af8a8a471982</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -342,7 +342,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='tempPerTranStartDate']</value>
-      <webElementGuid>8a7253a2-4a60-4f33-9e3e-1304c1067a2f</webElementGuid>
+      <webElementGuid>7fc366ca-e850-4894-946b-0984ed134167</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -350,7 +350,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='temporaryPerTransaction']/div[2]/input</value>
-      <webElementGuid>b349763d-366c-4b21-991b-0af671f9e774</webElementGuid>
+      <webElementGuid>22d09057-5fca-4f28-9276-8e838ad8a5da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -358,7 +358,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/input</value>
-      <webElementGuid>6942d4bd-15e6-4cbd-9151-d9ea72ccf60b</webElementGuid>
+      <webElementGuid>62939871-c822-4624-9ccb-d86c042325af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -366,6 +366,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'tempPerTranStartDate' and @id = 'tempPerTranStartDate']</value>
-      <webElementGuid>763231f6-a3df-44ac-b089-56b81b412396</webElementGuid>
+      <webElementGuid>b16f6d9b-0163-46d3-8c4a-b4847dfd5421</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

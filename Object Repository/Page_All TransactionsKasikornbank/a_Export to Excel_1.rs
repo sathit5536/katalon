@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Export to Excel_1</name>
+   <tag></tag>
+   <elementGuidId>ead8265f-4b07-4125-8f5d-482f80af455c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick=''])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.btnL.exportExcel</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>37dffd2d-4f89-46b9-a436-219234af6e36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button btnL exportExcel</value>
+      <webElementGuid>d68fb978-16ab-46fb-96f6-f52d51deeffb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/edcTransaction/exportExcel</value>
+      <webElementGuid>7a0e41b0-44fb-4bdb-b244-39ce79b0bee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Export to Excel</value>
+      <webElementGuid>75fedae9-ae09-4a27-a99f-c99ca1864374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paddCSV&quot;)/div[@id=&quot;beigeMid&quot;]/div[@class=&quot;textCenter&quot;]/a[@class=&quot;button btnL exportExcel&quot;]</value>
+      <webElementGuid>b6a27b82-70be-408d-9322-d85d9b5868d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@onclick=''])[2]</value>
+      <webElementGuid>e5118403-b30f-488e-8805-1c3c0f0264cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='beigeMid']/div/a[2]</value>
+      <webElementGuid>24641b66-a615-49d3-9d64-04992a83d95d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Export to Excel')]</value>
+      <webElementGuid>e3141dfc-e7db-4c90-abac-6c16ab71c79a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export CSV files'])[1]/following::a[1]</value>
+      <webElementGuid>bfce1f7e-7f1d-406c-b6cd-2cb8ce4b38ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unsuccessful Transaction'])[1]/following::a[2]</value>
+      <webElementGuid>b6b26b3c-c6cc-4a56-80fe-d18da8a6917a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Transactions'])[1]/preceding::a[1]</value>
+      <webElementGuid>6278c9b3-5fe0-4109-aff7-8c9bf5b463c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MID'])[1]/preceding::a[1]</value>
+      <webElementGuid>54405008-bb5b-48b2-b39a-bc7315009f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Export to Excel']/parent::*</value>
+      <webElementGuid>2fba0a9b-a03c-4406-85e4-f192a4cabcf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/edcTransaction/exportExcel')]</value>
+      <webElementGuid>e7ea67fa-7d97-447b-abb8-c06b3ac04999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>e2b97ed7-320a-4fa3-8449-02e067fcbab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/edcTransaction/exportExcel' and (text() = 'Export to Excel' or . = 'Export to Excel')]</value>
+      <webElementGuid>b497bb6e-6a10-4448-8e7e-c130308c2a36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

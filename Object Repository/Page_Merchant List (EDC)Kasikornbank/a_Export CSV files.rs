@@ -6,12 +6,12 @@
    <elementGuidId>3dedf6f6-72e8-4137-a4c5-a464cd4445e9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.textCenter > a.button.btnL</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@onclick='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.textCenter > a.button.btnL</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c16f6139-4bfb-4326-9d64-72ec23c5f55d</webElementGuid>
+      <webElementGuid>9e48b8ed-ffc6-4903-8c19-b60d0467d03e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button btnL</value>
-      <webElementGuid>76e43290-71b3-43c6-9ad1-94575323a93f</webElementGuid>
+      <webElementGuid>e2a98e63-4250-4fde-87e6-cef439fa0668</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>exportMidCSVEDC</value>
-      <webElementGuid>2998be97-7cf7-4cc1-9895-47bacb274c18</webElementGuid>
+      <webElementGuid>6a4918a3-e4bf-4edb-91b8-d87931113f7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Export CSV files</value>
-      <webElementGuid>6b72868b-0e75-407d-b8d0-64a7a34d1d43</webElementGuid>
+      <webElementGuid>7898e348-f780-4ff7-9dff-738f3889d535</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;paddCSV&quot;)/div[@id=&quot;beigeMid&quot;]/div[@class=&quot;textCenter&quot;]/a[@class=&quot;button btnL&quot;]</value>
-      <webElementGuid>ca5d0604-16b7-4838-a0b3-f5eb65b0761e</webElementGuid>
+      <webElementGuid>d5ca2d64-cbac-44ed-969c-60a0f1e86ba4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@onclick='']</value>
-      <webElementGuid>f639356f-525b-4f42-8dc4-3c96c6252aaf</webElementGuid>
+      <webElementGuid>39a5f08f-7eb2-4920-aae3-014a1392b7f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='beigeMid']/div/a</value>
-      <webElementGuid>a9126842-0b96-46a7-9f9b-74bcac7a4d07</webElementGuid>
+      <webElementGuid>dd4b800e-3e37-4502-86bc-550f316b51ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Export CSV files')]</value>
-      <webElementGuid>41376e0d-3261-4715-9de0-d12527b7d514</webElementGuid>
+      <webElementGuid>59958192-9350-4235-a2f7-f3c54a23c5ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::a[1]</value>
-      <webElementGuid>615ffa08-8e8e-48ee-b0c1-74566a973736</webElementGuid>
+      <webElementGuid>049a51de-6699-4806-a4ad-b0a3be917e7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Import a Company'])[1]/following::a[2]</value>
-      <webElementGuid>34de7da8-25a1-492f-8735-15974c4d0d16</webElementGuid>
+      <webElementGuid>fb204e1e-8920-42aa-9472-d5d8bcba0002</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All History'])[1]/preceding::a[1]</value>
-      <webElementGuid>70a56572-d423-4554-8f4d-3ac7041967b5</webElementGuid>
+      <webElementGuid>524d3c25-b9b2-4a22-b151-4a129b0799fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Export CSV files']/parent::*</value>
-      <webElementGuid>bf2b7e4a-8f2b-4a67-a8ea-b522d7ecc63b</webElementGuid>
+      <webElementGuid>63511c1e-cf5e-4f1e-bb95-53016f367558</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'exportMidCSVEDC')]</value>
-      <webElementGuid>f53ae6bd-b04d-4906-a5fa-e8d8aebd02e9</webElementGuid>
+      <webElementGuid>34b05d40-6aa5-4251-81e9-df44c92d8a36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/a</value>
-      <webElementGuid>afce49f0-1583-4917-94de-adb4a3155c11</webElementGuid>
+      <webElementGuid>1b08d05c-e05d-4c8b-83ba-61e7c1af1d1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'exportMidCSVEDC' and (text() = 'Export CSV files' or . = 'Export CSV files')]</value>
-      <webElementGuid>5921b6eb-33b5-4ae3-9f35-acdace210c49</webElementGuid>
+      <webElementGuid>dce6c87f-f1b6-4200-8759-fc3b2a8e6353</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

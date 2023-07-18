@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View CompanyDetails</name>
+   <tag></tag>
+   <elementGuidId>20e46db6-b0c0-490e-8249-730c7a0d1013</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.btnL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='beigeMid']/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aace392f-d47e-475e-a6ad-552adc1789d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button btnL</value>
+      <webElementGuid>46d2d179-e93d-4c37-916f-e06a57f88ea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/spocCompany/viewDetails?itemid=1</value>
+      <webElementGuid>e668ac98-beed-4caf-a5ee-8f7284a7ebe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View CompanyDetails</value>
+      <webElementGuid>39426b39-e86d-434f-becb-3d110e746278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;beigeMid&quot;)/div[@class=&quot;whatUShouldDo&quot;]/div[@class=&quot;buttonSet&quot;]/div[@class=&quot;viewDetailBtn&quot;]/a[@class=&quot;button btnL&quot;]</value>
+      <webElementGuid>271a3431-0fbc-4541-8cb7-6988900065d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='beigeMid']/div/div/div/a</value>
+      <webElementGuid>2d13eedd-ef4e-49d0-a109-8f7ecd82c04d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Suspend Authoriser by automate'])[1]/following::a[1]</value>
+      <webElementGuid>c8cb52ba-aff5-45d6-87f2-1d467e126548</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suspend Authorizer Reason 1'])[1]/following::a[1]</value>
+      <webElementGuid>64d3362f-efa5-42dd-8c4f-333df16a4a42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print'])[1]/preceding::a[1]</value>
+      <webElementGuid>3f97cced-49d5-433d-b583-35be6e675530</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email (PDF)'])[1]/preceding::a[2]</value>
+      <webElementGuid>dce6b35e-a362-4e7c-a532-d0c0696f91eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Company']/parent::*</value>
+      <webElementGuid>e56ce405-e82d-42d8-9c53-541dee2c174d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/spocCompany/viewDetails?itemid=1')]</value>
+      <webElementGuid>2f4abdcc-0e47-4549-8466-39c7e59f9ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div/div/a</value>
+      <webElementGuid>2336bbcc-4b76-4bba-9579-b5d1e97100e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/spocCompany/viewDetails?itemid=1' and (text() = 'View CompanyDetails' or . = 'View CompanyDetails')]</value>
+      <webElementGuid>dde05cc6-6182-4dca-86c5-3d5d5a792f44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

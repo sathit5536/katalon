@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Back to Company</name>
+   <tag></tag>
+   <elementGuidId>37e80e45-9023-40a0-ba77-627b1f2905b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='barPadding']/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.btnDarkGrey</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a4439138-1e1c-49e3-9c5f-799bf0765d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/spoc/company/viewDetails?itemid=34</value>
+      <webElementGuid>395a5ec5-d413-40be-a926-26301b302c1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button btnDarkGrey</value>
+      <webElementGuid>70c7aad1-d95a-4782-aa9a-f1da92f2b19d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back to Company</value>
+      <webElementGuid>2a460d78-ba78-40ae-80e5-5802d74cb614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightMainContent&quot;)/div[@id=&quot;barPadding&quot;]/div[@class=&quot;currentViewCompany&quot;]/div[@class=&quot;floatR&quot;]/a[@class=&quot;button btnDarkGrey&quot;]</value>
+      <webElementGuid>ff7a5de4-07af-4c9f-8ebf-80b9d5812ad8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='barPadding']/div/div[2]/a</value>
+      <webElementGuid>571766a5-54e4-4622-b9ee-1bc9cdcb6bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Back to Company')]</value>
+      <webElementGuid>6821b7ae-4072-405d-bf70-367257b21d76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Summary'])[1]/following::a[1]</value>
+      <webElementGuid>7d6ab0b8-4b41-48ae-a351-83ef447c0ff8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Support'])[1]/following::a[2]</value>
+      <webElementGuid>097255a0-0cdc-4d1a-8e85-1c7cfb151512</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merchant Group'])[1]/preceding::a[1]</value>
+      <webElementGuid>d27617bf-1daf-4644-9708-8da48c0585f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status History >>'])[1]/preceding::a[1]</value>
+      <webElementGuid>6a110cf5-907a-4ec4-884d-d5f6eaa42bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Back to Company']/parent::*</value>
+      <webElementGuid>ee61814d-dca5-4f4a-920c-8d0f528aaf17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/spoc/company/viewDetails?itemid=34')]</value>
+      <webElementGuid>7cdafc24-3c3a-4793-80e1-486392fe22af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>9d9bab07-573c-4f2e-acbd-b06810adf82d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/spoc/company/viewDetails?itemid=34' and (text() = 'Back to Company' or . = 'Back to Company')]</value>
+      <webElementGuid>0910607a-0cd4-422a-8587-6396bf0849b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

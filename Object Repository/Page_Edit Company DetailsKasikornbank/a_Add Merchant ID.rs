@@ -6,12 +6,12 @@
    <elementGuidId>006e0695-0e7e-460e-a330-89eadd72f2ec</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='addMidEDC']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#addMidEDC</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='addMidEDC']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b26eeb21-a64e-40d7-b2df-8f03a1604f25</webElementGuid>
+      <webElementGuid>51be60d3-aa84-413e-8396-b7dcfdb1e30f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,39 +30,39 @@
       <name>class</name>
       <type>Main</type>
       <value>button btnWidth_180</value>
-      <webElementGuid>2c75a0ea-d5a5-4686-9715-f942cdfba13e</webElementGuid>
+      <webElementGuid>4c7bc0a9-11a4-40f5-8387-b93a63150b6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0)</value>
-      <webElementGuid>621f26a2-886e-4469-9e8a-b01131f50793</webElementGuid>
+      <webElementGuid>a78ea3cf-ad89-44dc-bd17-55bbb0543555</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>addMidEDC</value>
-      <webElementGuid>7f597c98-8e49-4493-b232-228d5a04b997</webElementGuid>
+      <value>addMid</value>
+      <webElementGuid>0d7dbeba-e251-4540-a56e-450dac649975</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value>Add Merchant ID</value>
-      <webElementGuid>1fb24c1c-7ece-43c1-a43b-1d951a92537f</webElementGuid>
+      <webElementGuid>970c5775-269a-48dc-8b35-4035f4143739</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;addMidEDC&quot;)</value>
-      <webElementGuid>512a3e29-ebdd-427e-80fd-059eb005aaa8</webElementGuid>
+      <value>id(&quot;addMid&quot;)</value>
+      <webElementGuid>c4bffbdf-c7b7-441c-bd97-609468a1c6e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='addMidEDC']</value>
-      <webElementGuid>84731afb-aca5-4a0e-91b3-342079061a2a</webElementGuid>
+      <webElementGuid>2d607fc8-679e-473b-9f78-06045bb5825d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='group']/div[2]/div[17]/a</value>
-      <webElementGuid>28358dd7-00ff-475c-b70a-35e829eca05d</webElementGuid>
+      <webElementGuid>c630d875-abb1-4d8a-ad54-93c6e856c3cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Add Merchant ID')]</value>
-      <webElementGuid>1e7f4d53-cf16-4e5d-a873-64fd779080c9</webElementGuid>
+      <webElementGuid>8857dbf6-bb33-4a3a-a2fa-dd7dfa2004e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Postcode'])[2]/following::a[1]</value>
-      <webElementGuid>166e2206-57cd-4b7a-8f39-15a464ccb13d</webElementGuid>
+      <webElementGuid>89e799ec-6b44-486c-a4ec-4df745e23c27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bangkok'])[3]/following::a[1]</value>
-      <webElementGuid>e41a3681-f966-4666-bef2-2c2b315803c2</webElementGuid>
+      <webElementGuid>31b2bcb8-4979-446a-a824-8b7c75d47579</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::a[1]</value>
-      <webElementGuid>e0812f9e-e1a3-4794-afa1-c9d9a8c63fd8</webElementGuid>
+      <webElementGuid>99fcdcbe-683d-415e-ae05-a1d6410c0383</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::a[2]</value>
-      <webElementGuid>f1ccc31c-d873-40f0-9f67-d6b04c380bca</webElementGuid>
+      <webElementGuid>c9f3576d-7295-47c4-9732-7e4e8ce85b28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +174,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'javascript:void(0)')]</value>
-      <webElementGuid>0181f7b7-5119-48b5-90b9-b9e07d9028df</webElementGuid>
+      <webElementGuid>39c561c1-4126-49c7-9d10-e7e4b4ff0893</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,7 +182,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[17]/a</value>
-      <webElementGuid>076f6ec4-f46a-4bb1-82ca-30bf5b954f8d</webElementGuid>
+      <webElementGuid>65cf86aa-fa37-4ac5-be67-1303fadbf32b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,7 +190,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript:void(0)' and @id = 'addMidEDC' and (text() = 'Add Merchant ID' or . = 'Add Merchant ID')]</value>
-      <webElementGuid>9ac97496-fb3b-432b-88dd-66bdd4abceac</webElementGuid>
+      <webElementGuid>a8cc7270-4caf-4811-a403-6a4fee04acb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -198,7 +198,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='addMid']</value>
-      <webElementGuid>d8b373d1-2f98-42cf-ad7e-23a10a29e3f2</webElementGuid>
+      <webElementGuid>d9438aa8-7049-4c93-987a-766629dcd474</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -206,7 +206,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='group']/div[5]/div[14]/a</value>
-      <webElementGuid>29220eeb-3790-4ced-b850-56ab22633e72</webElementGuid>
+      <webElementGuid>d4a646ac-4eb8-40b8-879d-fcaaee9df5b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -214,7 +214,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[14]/a</value>
-      <webElementGuid>aa8fe20f-23b4-4f7f-87ba-71c9e44b0d87</webElementGuid>
+      <webElementGuid>e2f63863-d0e0-43aa-9646-e52c7ef4dda2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -222,6 +222,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript:void(0)' and @id = 'addMid' and (text() = 'Add Merchant ID' or . = 'Add Merchant ID')]</value>
-      <webElementGuid>0e511145-9b60-4c50-8053-695988b3263d</webElementGuid>
+      <webElementGuid>06f235d2-b974-4b2e-88b6-90ab63e1ec9a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

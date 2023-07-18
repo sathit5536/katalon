@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Transaction Details</name>
+   <tag></tag>
+   <elementGuidId>1296be5c-5004-43a0-9ed9-e92ae179bdbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//li[@id='whiteMid']/h2)[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>4fcd8d9e-9801-467c-b5b7-7a62a0c724fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaction Details</value>
+      <webElementGuid>95976e8b-df90-4e5a-a56b-3ed8609a0d00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightMainContent&quot;)/ul[@class=&quot;detailsList&quot;]/li[@id=&quot;whiteMid&quot;]/h2[1]</value>
+      <webElementGuid>9c58cae1-2b62-4462-a010-c706e26fd800</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//li[@id='whiteMid']/h2)[4]</value>
+      <webElementGuid>d9da0519-b1b6-403e-839d-eb57a3e8f129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reader Serial No.'])[1]/following::h2[1]</value>
+      <webElementGuid>b16c6879-7979-4ba0-8f99-6719eac407bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KB000000512534'])[1]/following::h2[1]</value>
+      <webElementGuid>2ba5b5a3-ea19-41da-b6de-0d6b3fb72f72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Effective Data'])[1]/preceding::h2[1]</value>
+      <webElementGuid>7ddda44e-5a51-464b-8b90-c5eac7dabb42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Interchange Profile'])[1]/preceding::h2[1]</value>
+      <webElementGuid>948ef713-ad84-4797-97b6-dfd5dc2dc0aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/h2</value>
+      <webElementGuid>8f41a482-18b2-4adf-ae26-66f57872d541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Transaction Details' or . = 'Transaction Details')]</value>
+      <webElementGuid>3ce82199-d709-435d-aabd-8df5c24c1a20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pice'])[1]/following::h2[1]</value>
+      <webElementGuid>762396d2-2eaa-4a4b-ad1b-2acbf9438dbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SM-G991B'])[1]/following::h2[1]</value>
+      <webElementGuid>341a41bf-e682-4811-8382-a157d05e792d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone13,2'])[1]/following::h2[1]</value>
+      <webElementGuid>b56f1a11-857f-4756-ad51-e26ca33c38b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

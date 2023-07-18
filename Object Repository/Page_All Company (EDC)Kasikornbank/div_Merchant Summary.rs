@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>9eea4742-b102-44ab-8af4-5a78c86f7b93</webElementGuid>
+      <webElementGuid>4df4c220-70bc-4540-a274-2425378ae89f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Merchant Summary</value>
-      <webElementGuid>4c33a7c4-fa43-4c6b-91b8-f84603938227</webElementGuid>
+      <webElementGuid>73b87fa7-70df-4039-970a-1727b957fc7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;leftPanel&quot;)/li[3]/a[1]/div[1]</value>
-      <webElementGuid>e8a7db63-8f7e-4015-a23c-ca86c88d0d2e</webElementGuid>
+      <webElementGuid>3eaeeca5-f48c-4f00-a96c-20179f09016a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='leftPanel']/li[3]/a/div</value>
-      <webElementGuid>9e4ba32e-fd71-4b4a-bfb6-5c616f6e0e5f</webElementGuid>
+      <webElementGuid>fd18a4e1-b8cf-458e-aeb2-bf8dcf0071f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add a Company Control Limit'])[1]/following::div[1]</value>
-      <webElementGuid>12cd3eb1-33ec-48e7-8df2-15fd70646021</webElementGuid>
+      <webElementGuid>b472eaad-6abe-4400-a4db-d969b4c14043</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Summary(Control Limit)'])[1]/following::div[2]</value>
-      <webElementGuid>fd20fbdd-b828-4ef1-899e-b43699c36f51</webElementGuid>
+      <webElementGuid>7284b945-7b29-4b8d-9758-8ddfda505b00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Register New Merchant'])[1]/preceding::div[1]</value>
-      <webElementGuid>2c4f9e3a-fa58-4089-bbd6-484dae930fc3</webElementGuid>
+      <webElementGuid>a878134e-8e86-4104-a872-a86386b9c7da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Import a Company'])[1]/preceding::div[2]</value>
-      <webElementGuid>55d0c296-0930-49a9-9c33-70130e286742</webElementGuid>
+      <webElementGuid>284fbc37-13a7-4b88-83cd-eeadbcd0b5cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Merchant Summary']/parent::*</value>
-      <webElementGuid>330d88e6-09e5-4fb1-9184-f160ddc38f0e</webElementGuid>
+      <webElementGuid>6b085110-3e47-49f9-8405-5a2e67737c58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a/div</value>
-      <webElementGuid>98311f51-c22f-421d-865b-d6e178ba99f9</webElementGuid>
+      <webElementGuid>2e20dbd5-b61e-4c03-a88b-e9dec9708600</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Merchant Summary' or . = 'Merchant Summary')]</value>
-      <webElementGuid>16a9bbe6-1cca-473e-9674-941c06fe6c9d</webElementGuid>
+      <webElementGuid>4d5fe009-c171-455f-8a6d-9816286d693e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

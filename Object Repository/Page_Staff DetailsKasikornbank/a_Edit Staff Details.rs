@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit Staff Details</name>
+   <tag></tag>
+   <elementGuidId>75cf06a9-1ddc-4bb5-8a57-5f165b6e99f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.btnS.btnDarkGrey</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='barPadding']/div[2]/form/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>85a75280-3ce1-4281-aea2-e4c58984d219</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:document.updateDetailsForm.submit();</value>
+      <webElementGuid>f1ef3a14-84f0-45ed-a3e3-b05194780e08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button btnS btnDarkGrey</value>
+      <webElementGuid>b302ec7f-cc93-4c0f-bfdb-74d9d8229e35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit Staff Details</value>
+      <webElementGuid>dad98e06-6308-49fb-9c58-0805efd5a336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightMainContent&quot;)/div[@id=&quot;barPadding&quot;]/div[@class=&quot;floatL paddLR10&quot;]/form[1]/a[@class=&quot;button btnS btnDarkGrey&quot;]</value>
+      <webElementGuid>8b0a1e5b-30f4-4c24-bd19-6a8884faff71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='barPadding']/div[2]/form/a</value>
+      <webElementGuid>8184d339-0555-4eea-8463-cd9f5b609cac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Edit Staff Details')]</value>
+      <webElementGuid>7605b7aa-1f8a-4a66-923e-3a86f0e54d26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Staff Details'])[1]/following::a[1]</value>
+      <webElementGuid>d0604faa-f92a-4fe6-9b51-c08642557dda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add a Staff'])[1]/following::a[1]</value>
+      <webElementGuid>32b41bff-85aa-48f9-9893-8fb6b4d6a718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status History >>'])[1]/preceding::a[1]</value>
+      <webElementGuid>afb843cc-b4fc-4031-9cd0-256074feb018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit Staff Details']/parent::*</value>
+      <webElementGuid>b22160c6-5437-452c-8b24-43352b496994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:document.updateDetailsForm.submit();')]</value>
+      <webElementGuid>58ac1ddc-c4cf-4a13-8ddc-b1327e9b30e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/a</value>
+      <webElementGuid>3aed7783-c7ad-4062-b766-1dcd2039b478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:document.updateDetailsForm.submit();' and (text() = 'Edit Staff Details' or . = 'Edit Staff Details')]</value>
+      <webElementGuid>f267f08d-2909-416b-9618-9d46ecdf9062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Company Details'])[1]/following::a[1]</value>
+      <webElementGuid>3c685379-cb4f-415d-bb18-b1451f6c33be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>b44763aa-64cd-42c8-ac81-bdff2d3fc40c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//ul[@id='leftPanel']/li/a/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='leftPanel']/li/a/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b930ec30-34c4-4b5f-b9a9-2a065ebd0b69</webElementGuid>
+      <webElementGuid>0084407a-2bc5-4425-b3dc-4816d1a8f68d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Company Summary(Control Limit)</value>
-      <webElementGuid>8564160b-5e26-4420-8dc1-d2b9561bf7f8</webElementGuid>
+      <webElementGuid>ea29caca-f8a8-456a-8124-c5d93e47e840</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;leftPanel&quot;)/li[@class=&quot;selected&quot;]/a[1]/div[1]</value>
-      <webElementGuid>96bd625a-94be-46f6-a93c-02311fe42265</webElementGuid>
+      <webElementGuid>3190381e-6f2a-4c61-b033-ebcbebea56c4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='leftPanel']/li/a/div</value>
-      <webElementGuid>39e201b6-7ae8-496b-af25-3518285568e5</webElementGuid>
+      <webElementGuid>4490cce4-41a6-41d5-ab57-287d731ba7a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrator'])[1]/following::div[7]</value>
-      <webElementGuid>8f8406af-9b43-465f-aa9d-00688e01cc13</webElementGuid>
+      <webElementGuid>1a48f093-810e-4ab7-b68b-a11991df8524</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ManageCredit Settlements'])[1]/following::div[7]</value>
-      <webElementGuid>ec7336bb-f0dd-40b6-b83d-82d47f6d5b51</webElementGuid>
+      <webElementGuid>4fff04be-6e72-45e9-8759-afa53c816395</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add a Company Control Limit'])[1]/preceding::div[1]</value>
-      <webElementGuid>ae7c4450-e5ce-4d72-84ec-c1e10f9d5d81</webElementGuid>
+      <webElementGuid>18db5848-996b-42a1-9792-d72bb7ec5e02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Merchant Summary'])[1]/preceding::div[2]</value>
-      <webElementGuid>11ae3652-dca3-4ab7-8195-980908fc710d</webElementGuid>
+      <webElementGuid>0123562f-a8b7-4a25-aa7a-5b27e235ffdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Company Summary(Control Limit)']/parent::*</value>
-      <webElementGuid>b46c29f3-5353-439a-ba26-252eb3225ac9</webElementGuid>
+      <webElementGuid>cd87c768-449b-4602-a274-8e49b1cfe157</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/div</value>
-      <webElementGuid>1cd7c76a-3bc7-44a2-ae37-481166b83f09</webElementGuid>
+      <webElementGuid>31965319-0707-4de7-abb5-60e8ba665f6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Company Summary(Control Limit)' or . = 'Company Summary(Control Limit)')]</value>
-      <webElementGuid>8a014040-7994-49c3-a6c8-3097e155b16f</webElementGuid>
+      <webElementGuid>07b235dd-a733-49cc-afef-b58ef5c1f027</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

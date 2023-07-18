@@ -29,38 +29,171 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_LOGINKasikornbank/
 
 WebUI.click(findTestObject('Object Repository/Page_LOGINKasikornbank/a_Submit'))
 
-WebUI.navigateToUrl('https://mpostest1.kasikornbank.com:7443/controlLimit/updatePermanent?itemid=70939')
+// Add temp and set end date to anyday (mpos)
+WebUI.navigateToUrl('https://mpostest1.kasikornbank.com:7443/spocCompany/viewDetails?itemid=1')
 
-WebUI.click(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/a_Submit'))
+WebUI.click(findTestObject('Object Repository/Page_Company DetailsKasikornbank/a_Add Temporary Limit'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/span_Please enter valid Amount'), 
-    'Please enter valid Amount')
+WebUI.click(findTestObject('Object Repository/Page_Add A Temporary LimitKasikornbank/input_Expire Date Temporary PerTransaction__c9d1ac'))
 
-WebUI.refresh()
+'change date every test'
+WebUI.click(findTestObject('Object Repository/Page_Add A Temporary LimitKasikornbank/a_15'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/input_Permanent Limit Per TransactionTHB_ma_59a160'), 
-    '20000')
+WebUI.click(findTestObject('Object Repository/Page_Add A Temporary LimitKasikornbank/input_Expire Date Temporary PerTransaction__d81a18'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/input_Permanent Limit Per MonthTHB_maxAmoun_ec8cd4'), 
-    '1000')
+'change date every test'
+WebUI.click(findTestObject('Object Repository/Page_Add A Temporary LimitKasikornbank/a_30'))
 
-WebUI.click(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/a_Submit'))
+WebUI.click(findTestObject('Object Repository/Page_Add A Temporary LimitKasikornbank/input_Expire Date Temporary Per Month_tempP_bcd532'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/span_Amount per Month must more than Amount_46b8eb'), 
-    'Amount per Month must more than Amount per Transaction')
+'change date every test'
+WebUI.click(findTestObject('Object Repository/Page_Add A Temporary LimitKasikornbank/a_15'))
 
-WebUI.refresh()
+WebUI.click(findTestObject('Object Repository/Page_Add A Temporary LimitKasikornbank/input_Expire Date Temporary Per Month_tempP_07af40'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/input_Permanent Limit Per TransactionTHB_ma_59a160'), 
-    '20001')
+'change date every test'
+WebUI.click(findTestObject('Object Repository/Page_Add A Temporary LimitKasikornbank/a_30'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/input_Permanent Limit Per MonthTHB_maxAmoun_ec8cd4'), 
-    '100001')
+'change date every test'
+WebUI.setText(findTestObject('Object Repository/Page_Add A Temporary LimitKasikornbank/input_Temporary Limit Per Transaction_tempPerTran'), 
+    '36000')
 
-WebUI.click(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/a_Submit'))
+'change date every test'
+WebUI.setText(findTestObject('Object Repository/Page_Add A Temporary LimitKasikornbank/input_Temporary Limit Per Month_tempPerMonth'), 
+    '460000')
 
-WebUI.click(findTestObject('Object Repository/Page_Update A Permanent LimitKasikornbank/a_Confirm'))
+WebUI.setText(findTestObject('Object Repository/Page_Add A Temporary LimitKasikornbank/textarea_Remarks_remark'), 'Test Automate')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_All CompaniesKasikornbank/div_Your request is successful'), 
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\Bank Potal\\M-40 Retest Incident\\Add temp and set end date to anyday (mpos)\\Add Temp - 1.png')
+
+WebUI.click(findTestObject('Object Repository/Page_Add A Temporary LimitKasikornbank/a_Submit'))
+
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\Bank Potal\\M-40 Retest Incident\\Add temp and set end date to anyday (mpos)\\Add Temp - 2.png')
+
+WebUI.click(findTestObject('Object Repository/Page_Add A Temporary LimitKasikornbank/a_Confirm'))
+
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\Bank Potal\\M-40 Retest Incident\\Add temp and set end date to anyday (mpos)\\Add Temp - 3.png')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Add Temporary LimitKasikornbank/div_Your request is successful'), 
+    'Your request is successful')
+
+// Create new company with name .com (Check reg-ex) (mpos)
+
+WebUI.click(findTestObject('Object Repository/Page_HomeKasikornbank/span_AllCompanies'))
+
+WebUI.click(findTestObject('Object Repository/Page_All CompaniesKasikornbank/div_Add a Company'))
+
+'Change every run test'
+WebUI.setText(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/input_Company Name_businessName'), 'TestAutomate06.com')
+
+WebUI.setText(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/input_Company Short Name_businessShortName'), 
+    'automate.com')
+
+WebUI.setText(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/input_Type of Business_businessType'), '2342')
+
+WebUI.setText(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/input_Business Registration Number (BRN)_bu_f5ee2c'), 
+    '2342342343242344')
+
+WebUI.setText(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/input_Business Registration Address_address1'), 
+    '22233')
+
+WebUI.setText(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/input_RegionCity_city'), 'test')
+
+WebUI.setText(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/input_Postcode_postcode'), '23423')
+
+WebUI.setText(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/input_Business Contact No_businessContact'), 
+    '0000000000')
+
+WebUI.setText(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/input_Company User Limit_companyUserLimit'), 
+    '10')
+
+WebUI.setText(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/input_Name_fullName'), 'Test Automate')
+
+WebUI.setText(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/input_Contact No_contact'), '0110000000')
+
+'Change every run test'
+WebUI.setText(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/input_Email Address_email'), 'Testautomate006@test.test')
+
+WebUI.setText(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/input_THB_maxAmountPerTransac'), '50000')
+
+WebUI.setText(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/input_THB_maxAmountPerMonth'), '100000')
+
+WebUI.setText(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/input_Group Name_groupName'), 'Automate')
+
+'Change every run test'
+WebUI.setText(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/input_Merchant ID (MID)_mid'), '123564565673303')
+
+WebUI.setText(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/input_Merchant Name_midName'), 'test')
+
+WebUI.click(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/a_Add Merchant ID'))
+
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\Bank Potal\\M-40 Retest Incident\\Create new company with name .com (Check reg-ex) (mpos)\\Create new company - 1.png')
+
+WebUI.click(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/a_Submit'))
+
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\Bank Potal\\M-40 Retest Incident\\Create new company with name .com (Check reg-ex) (mpos)\\Create new company - 2.png')
+
+WebUI.click(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/a_Confirm'))
+
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\Bank Potal\\M-40 Retest Incident\\Create new company with name .com (Check reg-ex) (mpos)\\Create new company - 3.png')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Add a CompanyKasikornbank/div_The following company has been successf_80d380'), 
+    'The following company has been successfully added to the system.')
+
+// Edit Company user email to 8 digit after dot(.) (mpos)
+WebUI.navigateToUrl('https://mpostest1.kasikornbank.com:7443/company/viewDetails?itemid=90083')
+
+WebUI.click(findTestObject('Object Repository/Page_Company DetailsKasikornbank/a_Edit Company Details'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Edit Company DetailsKasikornbank/textarea_Remarks_remark'), 'Test Edit by automate')
+
+WebUI.setText(findTestObject('Object Repository/Page_Edit Company DetailsKasikornbank/input_Email Address_email'), 'testautomate001@test.teseeeet')
+
+WebUI.click(findTestObject('Object Repository/Page_Edit Company DetailsKasikornbank/div_Quicklinks                             _0bc80a'))
+
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\Bank Potal\\M-40 Retest Incident\\Edit Company user email to 8 digit after dot(.) (mpos)\\Edit Company user - 1.png')
+
+WebUI.click(findTestObject('Object Repository/Page_Edit Company DetailsKasikornbank/a_Submit'))
+
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\Bank Potal\\M-40 Retest Incident\\Edit Company user email to 8 digit after dot(.) (mpos)\\Edit Company user - 2.png')
+
+WebUI.click(findTestObject('Object Repository/Page_Edit Company DetailsKasikornbank/a_Confirm'))
+
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\Bank Potal\\M-40 Retest Incident\\Edit Company user email to 8 digit after dot(.) (mpos)\\Edit Company user - 3.png')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Edit Company DetailsKasikornbank/div_Your request is successful'), 
+    'Your request is successful')
+
+// Suspend and reinstate Authoriser (kshop)
+WebUI.navigateToUrl('https://mpostest1.kasikornbank.com:7443/spocCompany/viewDetails?itemid=1')
+
+WebUI.click(findTestObject('Object Repository/Page_Company DetailsKasikornbank/span_Suspend Authoriser'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Suspend AuthoriserKasikornbank/textarea_Suspend Authorizer Reason 1_remarks'), 
+    'Test Suspend Authoriser by automate')
+
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\Bank Potal\\M-40 Retest Incident\\Suspend and reinstate Authoriser (kshop)\\suspend\\Suspend - 1.png')
+
+WebUI.click(findTestObject('Object Repository/Page_Suspend AuthoriserKasikornbank/a_Submit'))
+
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\Bank Potal\\M-40 Retest Incident\\Suspend and reinstate Authoriser (kshop)\\suspend\\Suspend - 2.png')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Suspend AuthoriserKasikornbank/div_Your request is successful'), 
+    'Your request is successful')
+
+WebUI.click(findTestObject('Object Repository/Page_Suspend AuthoriserKasikornbank/a_View CompanyDetails'))
+
+WebUI.click(findTestObject('Object Repository/Page_Company DetailsKasikornbank/span_Reinstate Authoriser'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Reinstate AuthoriserKasikornbank/textarea_Reinstate Authorizer Reason 1_remarks'), 
+    'Reinstate Authoriser by automate')
+
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\Bank Potal\\M-40 Retest Incident\\Suspend and reinstate Authoriser (kshop)\\Reinstate\\Reinstate - 1.png')
+
+WebUI.click(findTestObject('Object Repository/Page_Reinstate AuthoriserKasikornbank/a_Submit'))
+
+WebUI.takeFullPageScreenshot('C:\\Users\\PIKA\\Katalon Studio\\katalon.git\\Test Capture\\Bank Potal\\M-40 Retest Incident\\Suspend and reinstate Authoriser (kshop)\\Reinstate\\Reinstate - 2.png')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Reinstate AuthoriserKasikornbank/div_Your request is successful'), 
     'Your request is successful')
 

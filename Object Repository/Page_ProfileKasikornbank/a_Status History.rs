@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Status History</name>
+   <tag></tag>
+   <elementGuidId>666af91a-eaec-491e-9bf1-4db69065689f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#statusHistory</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='statusHistory']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>56a8a16d-4d88-406a-bfca-b245e02a207c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>statusHistory</value>
+      <webElementGuid>30b5e8a8-179f-41ff-9641-c0dd46d2972d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/spoc/company/statusHistory?itemid=34</value>
+      <webElementGuid>42a77095-f655-4e54-8adb-c95b3ccec9dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fancybox fancybox.iframe</value>
+      <webElementGuid>55979612-4ed9-46cd-b4d3-719afc79cd6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Status History >></value>
+      <webElementGuid>f57abd2c-993c-45b8-942b-bfb612abe743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;statusHistory&quot;)</value>
+      <webElementGuid>9bc21293-0c43-4ac8-849a-ef3933834c60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='statusHistory']</value>
+      <webElementGuid>1b375cb4-c9c0-4f34-8c2a-95cd6ed7fd6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='detailBox']/div[2]/a</value>
+      <webElementGuid>2309182e-3e0e-4ee8-b7f1-6c8bf0865dc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Status History >>')]</value>
+      <webElementGuid>d22ee55e-9afe-4502-86b8-5ae5bba2605a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[2]/following::a[1]</value>
+      <webElementGuid>fb9972a4-4516-421e-b5f6-e1af37f5215b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Name'])[1]/preceding::a[1]</value>
+      <webElementGuid>21aae080-3ced-407d-8aad-0ff35523b0b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='บังใบเจริญสาม ทดสอบเอ็มพอส'])[1]/preceding::a[1]</value>
+      <webElementGuid>b6896275-722b-4181-97fc-bb2e46c7019b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Status History >>']/parent::*</value>
+      <webElementGuid>4325be3c-74b3-4165-9e3e-29d157773abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/spoc/company/statusHistory?itemid=34')]</value>
+      <webElementGuid>78373df7-8dd7-4cfc-95d6-0230326cc72d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>28679ab9-bb31-4422-a2fa-bb18d1251d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'statusHistory' and @href = '/spoc/company/statusHistory?itemid=34' and (text() = 'Status History >>' or . = 'Status History >>')]</value>
+      <webElementGuid>a5cb603a-3bc6-4756-aca9-4eb414ba0e04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digio'])[1]/preceding::a[1]</value>
+      <webElementGuid>677c4035-5c43-4ee7-abc8-adde4be518c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/company/statusHistory?itemid=90034')]</value>
+      <webElementGuid>0c503fcd-6590-429a-ac69-c530cf1e84f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'statusHistory' and @href = '/company/statusHistory?itemid=90034' and (text() = 'Status History >>' or . = 'Status History >>')]</value>
+      <webElementGuid>474f3e7a-356a-4bf5-840c-40cdf6c5045e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

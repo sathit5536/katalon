@@ -6,12 +6,12 @@
    <elementGuidId>28b929ed-f107-4738-8b7f-218262f0cec8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#search</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='search']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#search</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6afefdcc-1119-4ef4-9abb-b27f349cbf1e</webElementGuid>
+      <webElementGuid>4d601639-6dfd-4555-8ec4-a1aa22dcf010</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>882dff36-9b58-4500-905d-d3c130b85fa0</webElementGuid>
+      <webElementGuid>b22b42a3-1a86-43f1-b2f5-b76036221db0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>4d04832a-7ef6-44b5-aabe-89908bfc4098</webElementGuid>
+      <webElementGuid>ae1a5a26-c84a-4a70-9a53-b84c779d18ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>b52534e5-6494-4f62-8ce4-072a2ee63a2e</webElementGuid>
+      <webElementGuid>db735710-a1a0-4be8-b24c-798f68c78606</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,31 +54,31 @@
       <name>class</name>
       <type>Main</type>
       <value>search txt18 white</value>
-      <webElementGuid>cbbe0fce-9af2-496e-9443-4bdbfb0659f0</webElementGuid>
+      <webElementGuid>dcbcf3f8-a6b1-4ca1-97b7-b131de912ab2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>KD000040</value>
-      <webElementGuid>c8f88d88-878c-4b3b-8be5-233757aa11fc</webElementGuid>
+      <value>Test</value>
+      <webElementGuid>6e9003a4-a731-4ed2-b318-ac5ca0f5a365</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onfocus</name>
       <type>Main</type>
-      <value>clickclear(this, 'User ID')</value>
-      <webElementGuid>be3edbbd-d656-48c0-b5c8-4a54775d725f</webElementGuid>
+      <value>clickclear(this, 'Terminal ID (TID) / Staff Name')</value>
+      <webElementGuid>54e704a0-c601-4577-ba50-07746638c84c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onblur</name>
       <type>Main</type>
-      <value>clickrecall(this,'User ID')</value>
-      <webElementGuid>c74856d6-9596-45b4-8d99-06ebdcc8dd17</webElementGuid>
+      <value>clickrecall(this,'Terminal ID (TID) / Staff Name')</value>
+      <webElementGuid>8951a326-c2f8-4385-93b9-18c6a12203d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>edc62b64-6f9a-44f9-b89f-ff532b1f7e4f</webElementGuid>
+      <webElementGuid>719be0e7-417d-4535-9d84-96dc126b7e32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;search&quot;)</value>
-      <webElementGuid>017ea22a-32d4-4992-a1bb-2e86be5f4ae3</webElementGuid>
+      <webElementGuid>5daf561f-58ac-4132-8061-7b3d1349706d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='search']</value>
-      <webElementGuid>e0e592eb-1864-42a9-b8be-8461c663ac46</webElementGuid>
+      <webElementGuid>083f27a0-93a6-4a62-9c39-371536596328</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='beigeMid']/form/div[2]/input</value>
-      <webElementGuid>f5fe2014-e8b9-403e-aea1-826a8278b312</webElementGuid>
+      <webElementGuid>ef74d6ae-dbaa-435f-9c38-375ddbad7412</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>43f45bd2-a25b-436d-a774-0248e2802064</webElementGuid>
+      <webElementGuid>7d5a5e5b-9ed4-4493-a158-a2e2b162820a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'search' and @name = 'search']</value>
-      <webElementGuid>59b1dcae-cf81-4c38-86ad-67a597d8a492</webElementGuid>
+      <webElementGuid>e51bbb4c-f3eb-46f1-953e-97e75f379f76</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

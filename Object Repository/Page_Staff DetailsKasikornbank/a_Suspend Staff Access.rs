@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Suspend Staff Access</name>
+   <tag></tag>
+   <elementGuidId>45c4e437-c7fe-4e66-b327-70a661a06557</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.btnWidth_180</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctaMid']/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>186280c2-f2f6-44bf-b7f9-24a2d883634e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button btnWidth_180</value>
+      <webElementGuid>4f806cda-28c5-4af2-86d3-b9c9235ee6f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>suspend?itemid=70</value>
+      <webElementGuid>a4d2d9eb-c482-448b-b6f4-a2414c5abb24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Suspend Staff Access</value>
+      <webElementGuid>55f43969-ea33-4971-abd1-fd4fbf57fbf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctaMid&quot;)/div[@class=&quot;viewDetailsBtnEnd&quot;]/div[1]/a[@class=&quot;button btnWidth_180&quot;]</value>
+      <webElementGuid>7c5efe51-89f2-42bb-b681-36a5ccca90a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctaMid']/div/div/a</value>
+      <webElementGuid>a7d8aed7-e12b-4be3-91cf-e0ef3bb39917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Suspend Staff Access')]</value>
+      <webElementGuid>900b1d07-b412-47fa-9c3e-e19f4d90fbfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No available TID'])[2]/following::a[1]</value>
+      <webElementGuid>b4a7b681-e037-426f-b386-13926fa14332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Smart Pay'])[1]/following::a[1]</value>
+      <webElementGuid>2b42bc4f-fcc1-47f5-83f0-207ad7f7ee22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/preceding::a[1]</value>
+      <webElementGuid>f6b4eeb9-6323-4eda-8dfb-2b43f2f6c0d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::a[2]</value>
+      <webElementGuid>3b51babf-59ad-4f6c-b653-b57c31a28b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Suspend Staff Access']/parent::*</value>
+      <webElementGuid>3658837b-7b13-4749-acf6-619bd4811ece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'suspend?itemid=70')]</value>
+      <webElementGuid>7c84e959-ee74-46ee-85cb-55848caeacfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/a</value>
+      <webElementGuid>a0521718-d8e3-41d5-8d34-dcf23618754e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'suspend?itemid=70' and (text() = 'Suspend Staff Access' or . = 'Suspend Staff Access')]</value>
+      <webElementGuid>ab1f7ed0-00e5-44a7-9b64-1e4109888d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctaMid']/div/div[2]/a</value>
+      <webElementGuid>fce5ec1a-a6b5-4db2-9de5-19babd472dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset User PIN'])[1]/following::a[1]</value>
+      <webElementGuid>30c9e56b-d2c1-43de-ae2c-2edf44fddadb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No available TID'])[1]/following::a[2]</value>
+      <webElementGuid>a768f038-39d6-4267-b65a-6dad7bc3bb88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'suspend?itemid=149462')]</value>
+      <webElementGuid>f0881217-0b29-4dd3-bdb4-3078c0d82a5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/a</value>
+      <webElementGuid>d41e40fc-7dc5-4e7d-97f1-d58bad4668c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'suspend?itemid=149462' and (text() = 'Suspend Staff Access' or . = 'Suspend Staff Access')]</value>
+      <webElementGuid>61204dfa-d802-4156-8eb1-a2f634e973d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Full Payment'])[1]/following::a[2]</value>
+      <webElementGuid>eb857d7b-fa61-4e63-8f58-62d9be5ad3d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

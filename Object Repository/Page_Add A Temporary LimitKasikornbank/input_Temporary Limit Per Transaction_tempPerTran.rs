@@ -6,12 +6,12 @@
    <elementGuidId>df839b94-f04d-4c95-8031-17234bbb81ad</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='tempPerTran']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#tempPerTran</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='tempPerTran']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b7fc193d-8b48-4bd2-a116-8f6f1517cf58</webElementGuid>
+      <webElementGuid>fe1d40e1-4437-499f-abb5-350906ecd51d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>tempPerTran</value>
-      <webElementGuid>f34a06f9-b291-4d83-b0ef-553abdb9960e</webElementGuid>
+      <webElementGuid>78889901-bb4d-4d67-84b9-451b073e9f21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>tempPerTran</value>
-      <webElementGuid>b1d0ff24-0b07-4895-98eb-b6d0713c04e8</webElementGuid>
+      <webElementGuid>a63bb53e-a13b-4402-9f20-2e257a610a01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>4f2a596b-a7fb-4329-92b0-c88b3c0881af</webElementGuid>
+      <webElementGuid>6307ff29-81a2-4450-b410-a16d4ee4dcf6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>9</value>
-      <webElementGuid>78ca2592-9db1-43c9-ab63-96e8d6c17e16</webElementGuid>
+      <webElementGuid>3dea44c1-46de-4415-819a-6c447fa2bd8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>8ada30b5-dbbb-4add-b1c5-4bd85d2d1f53</webElementGuid>
+      <webElementGuid>5f9c2a1b-5fe3-44dd-bbc4-c964f912f34a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tempPerTran&quot;)</value>
-      <webElementGuid>6bc8299e-5771-4292-a571-d0f650c3b09e</webElementGuid>
+      <webElementGuid>a751aa2a-7a93-45c3-8e3e-3d05a3e7b24a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -526,7 +526,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='tempPerTran']</value>
-      <webElementGuid>4f027ec5-c9b5-4706-9ca7-9d138676b603</webElementGuid>
+      <webElementGuid>1215e481-b679-4c13-977e-c4ddcd355f3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -534,7 +534,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='temp']/div[2]/input</value>
-      <webElementGuid>e0a31b9f-52a5-4031-9731-364dbfe674a2</webElementGuid>
+      <webElementGuid>222235bf-fb54-4e1e-b6a8-dc41d0e681c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -542,7 +542,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>dde3962a-6aa1-4298-99d4-80d16617cfe8</webElementGuid>
+      <webElementGuid>d4b3706d-554b-4585-8b3a-665ded7afa49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -550,6 +550,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'tempPerTran' and @name = 'tempPerTran' and @type = 'text']</value>
-      <webElementGuid>050cb278-f5b4-44f8-9791-b9d6b96fc45a</webElementGuid>
+      <webElementGuid>8bbe1ae1-6132-42c9-9704-f92e852c9bec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

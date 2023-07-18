@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Void Payment Now</name>
+   <tag></tag>
+   <elementGuidId>336c2e44-691f-4afa-b605-d7db0e66abba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnVoid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btnVoid']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0aa1f616-a33a-4672-8325-b81f2593c4b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnVoid</value>
+      <webElementGuid>2a517722-6af0-474e-863c-ec588d66ab40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>void?itemid=186447</value>
+      <webElementGuid>b7eb495e-30be-404b-a3d6-5f5734e789a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button fancybox fancybox.iframe</value>
+      <webElementGuid>a3b1b57d-81c1-4ba7-9d1c-f55d298a507a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Void Payment Now</value>
+      <webElementGuid>c440f212-f7fe-4188-b31e-06b1a8fb136f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnVoid&quot;)</value>
+      <webElementGuid>e988cf7e-be80-4e9c-b491-f519daa7629a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='btnVoid']</value>
+      <webElementGuid>d540567e-5274-4f10-bf64-507955634a8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='beigeMid']/div/div[2]/a</value>
+      <webElementGuid>c4c7bb4b-8f3b-40ee-957f-51a6150109e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Void Payment Now')]</value>
+      <webElementGuid>e069985d-1267-4234-8bbd-143ec8ecbcf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The credit settlement for this transaction is still pending'])[1]/following::a[1]</value>
+      <webElementGuid>fabef818-c782-4893-ac4b-4bb0ec67d9eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batch No.'])[1]/preceding::a[1]</value>
+      <webElementGuid>b4d808e5-9c91-4633-9899-ed3d376c43fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Status'])[1]/preceding::a[1]</value>
+      <webElementGuid>40787a07-30d6-400c-b173-69409777fb48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Void Payment Now']/parent::*</value>
+      <webElementGuid>929c4d17-fc90-4806-a7fb-9b8ecafeac72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'void?itemid=186447')]</value>
+      <webElementGuid>1c90bb59-b871-431d-8046-408fbad479b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>e5a5b099-4efc-43d2-8eb0-54421a09e14c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btnVoid' and @href = 'void?itemid=186447' and (text() = 'Void Payment Now' or . = 'Void Payment Now')]</value>
+      <webElementGuid>9f7e939e-1166-45ef-937e-04b76fcba975</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
